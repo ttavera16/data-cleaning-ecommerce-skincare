@@ -1,0 +1,2001 @@
+order_id,order_date,customer_id,product_name,category,price,quantity,return_flag,brand
+1,2025-01-15,C1020,retinol night cream,moisturizers  ,29.97,3,no,Glow Recipe 
+2,2025-05-15,C1214,,makeup removers_,23.62,3,no,CeraVe 
+3,2025-01-26,C1343,makeup remover balm_,makeup removers,40.79,2,yes,Drunk_Elephant
+4,2025-03-06,C1385,eye repair cream ,,32.67,4, n ,PAULA'S CHOICE
+5,2025-01-24,C1252,vitamin c serum  ,serums-,20.37,4,no,La_Roche-Posay
+6,2025-03-30,C1474,exfoliating scrub,exfoliators,20.34,4,yes,CeraVe
+7,2024-12-22,C1782,daily sunscreen spf 50,sun protection  ,14.87,4, n ,Paula's_Choice
+8,2024-12-04,C1957,retinol night cream_,moisturizers.,28.14,2,yes,Eucerin
+9,2024-12-13,C1484,charcoal face mask ,masks  ,25.68,4,no,CeraVe 
+10,2025-03-27,C1840,retinol night cream ,moisturizers,10.75,3,no,rhode
+11,2025-05-08,C1955,vitamin c serum.,serums.,18.99,4,no,CETAPHIL
+12,2025-05-16,C1775,retinol night cream_,moisturizers  ,22.08,3,no,
+13,2025-01-01,C1565,eye repair cream.,eye care  ,33.23,2,no,Glow Recipe 
+14,2025-04-08,C1476,hydrating facial cleanser ,cleansers,12.79,2,no,Paula's Choice_
+15,2025-02-08,C1251,charcoal face mask  ,masks.,32.38,4,no,rhode
+16,2025-02-01,C1724,tea tree oil toner ,toners.,26.71,1, n ,CeraVe 
+17,2025-04-15,C1216,charcoal face mask-,masks_,10.21,1,no,Eucerin
+18,2025-01-19,C1492,makeup remover balm-,makeup removers,17.8,4,no,Cetaphil 
+19,2025-01-29,C1520,vitamin c serum  ,serums-,28.24,1,yes,Eucerin 
+20,2024-12-25,C1647,tea tree oil toner_,,21.15,4,no,CeraVe
+21,2025-02-07,C1489,retinol night cream  ,moisturizers_,35.31,1,no,Rhode 
+22,2024-12-04,C1027,daily sunscreen spf 50-,sun protection ,34.31,3,no,CERAVE
+23,2025-01-05,C1502,daily sunscreen spf 50_,sun protection ,28.31,2,yes,Glow Recipe 
+24,2025-03-12,C1804,makeup remover balm_,makeup removers ,34.76,3,no,Glow Recipe 
+25,2025-05-20,C1738,,makeup removers_,33.13,3,no,cetaphil
+26,2025-04-03,C1642,daily sunscreen spf 50 ,sun protection,38.56,1, n ,
+27,2025-01-21,C1794,tea tree oil toner,toners_,28.61,3,no,Neutrogena 
+28,2025-05-15,C1857,makeup remover balm ,makeup removers.,40.38,1,no,CeraVe 
+29,2025-05-09,C1899,makeup remover balm  ,makeup removers  ,25.87,4,no,CETAPHIL
+30,2025-02-04,C1230,exfoliating scrub-,exfoliators_,22.01,2,no,
+31,2025-01-01,C1838,hydrating facial cleanser_,cleansers_,39.78,4, n ,La Roche-Posay
+32,2025-05-07,C1795,hydrating facial cleanser ,cleansers,19.82,3,no,The Ordinary.
+33,2025-03-12,C1339,hyaluronic acid.,serums  ,34.15,4,no,
+34,2025-02-08,C1639,charcoal face mask_,masks-,28.29,2,no,Neutrogena
+35,2025-01-09,C1632,retinol night cream,moisturizers  ,17.98,1,no,
+36,2025-05-22,C1258,hydrating facial cleanser  ,cleansers  ,21.72,4,no,DRUNK ELEPHANT
+37,2025-02-02,C1224,exfoliating scrub,exfoliators ,25.05,1,no,Drunk Elephant
+38,2025-05-29,C1663,vitamin c serum.,serums-,22.65,3,no,Drunk_Elephant
+39,2025-04-16,C1691,makeup remover balm,,23.39,4,no,rhode
+40,2025-05-19,C1441,retinol night cream ,moisturizers ,29.04,1,yes,EUCERIN
+41,2025-05-31,C1698,hydrating facial cleanser ,cleansers-,,1,,Rhode
+42,2025-03-27,C1219,tea tree oil toner.,toners-,24.73,1, n ,neutrogena
+43,2025-05-09,C1729,tea tree oil toner ,toners ,23.08,2,no,Paula's_Choice
+44,2025-02-27,C1246,makeup remover balm,makeup removers  ,28.02,4,no,Cetaphil 
+45,2025-04-11,C1293,makeup remover balm ,makeup removers,36.43,3,no,PAULA'S CHOICE
+46,2025-03-28,C1609,charcoal face mask,masks  ,32.52,4,no,Cetaphil 
+47,2024-12-19,C1200,charcoal face mask ,masks_,30.87,4,no,the ordinary
+48,2025-04-02,C1463,charcoal face mask_,masks_,46.9,4,no,Paula's Choice_
+49,2025-05-17,C1345,exfoliating scrub ,exfoliators.,26.0,3,no,CeraVe 
+50,2025-03-01,C1147,exfoliating scrub,exfoliators,19.97,3,no,
+51,2024-12-17,C1550,retinol night cream_,moisturizers ,14.38,1,no,Drunk_Elephant
+52,2025-02-11,C1778,retinol night cream ,moisturizers.,29.74,2,no,
+53,2024-12-04,C1297,daily sunscreen spf 50_,sun protection  ,17.17,3,no,RHODE
+54,2025-03-14,C1143,retinol night cream ,moisturizers.,21.78,3,no,CERAVE
+55,2024-12-26,C1896,daily sunscreen spf 50.,sun protection_,27.27,4,no,EUCERIN
+56,2025-05-25,C1452,daily sunscreen spf 50_,sun protection-,38.07,4, n ,
+57,2025-05-31,C1658,eye repair cream.,eye care,,1,no,DRUNK ELEPHANT
+58,2025-01-21,C1403,daily sunscreen spf 50 ,sun protection  ,32.82,4,no,neutrogena
+59,2025-03-31,C1624,retinol night cream,moisturizers  ,27.5,4,no,
+60,2025-02-05,C1103,,masks ,28.46,4,no,Cetaphil 
+61,2025-03-09,C1877,hydrating facial cleanser.,cleansers ,27.93,1,no,Neutrogena
+62,2025-03-24,C1162,makeup remover balm-,makeup removers_,17.86,2,no,Paula's Choice 
+63,2025-02-04,C1397,vitamin c serum ,serums-,,1,yes,
+64,2025-02-01,C1503,eye repair cream  ,eye care  ,31.57,1,no,glow recipe
+65,2025-02-19,C1687,retinol night cream-,moisturizers,34.63,1,no,Drunk Elephant-
+66,2025-01-28,C1469,tea tree oil toner.,toners.,29.13,4,no,The Ordinary_
+67,2024-12-14,C1562,hyaluronic acid-,serums.,16.1,2, n ,Rhode-
+68,2024-12-19,C1026,exfoliating scrub  ,exfoliators_,16.84,2, y ,
+69,2025-03-21,C1480,hydrating facial cleanser,cleansers.,25.13,4,no,the ordinary
+70,2025-01-31,C1815,retinol night cream_,moisturizers-,39.54,1,no,paula's choice
+71,2025-03-02,C1045,makeup remover balm,makeup removers-,14.29,4,no,
+72,2025-01-03,C1891,eye repair cream,eye care_,29.82,1,no,Eucerin
+73,2025-02-17,C1115,hyaluronic acid.,serums-,29.73,3,,drunk elephant
+74,2025-03-25,C1927,exfoliating scrub  ,exfoliators,24.27,3,no,GLOW RECIPE
+75,2025-05-26,C1734,eye repair cream.,eye care-,20.53,4,no,
+76,2025-05-17,C1871,eye repair cream  ,eye care  ,33.56,2,no,Drunk_Elephant
+77,2025-05-02,C1385,makeup remover balm,makeup removers.,13.52,3,no,
+78,2025-03-20,C1928,exfoliating scrub-,exfoliators-,38.9,2,no,CETAPHIL
+79,2025-04-25,C1758,vitamin c serum  ,serums,29.19,3,no,The_Ordinary
+80,2025-05-31,C1920,retinol night cream ,moisturizers  ,17.72,2,no,Neutrogena_
+81,2025-03-28,C1684,hydrating facial cleanser ,cleansers-,17.67,3,no,Cetaphil
+82,2025-02-27,C1511,charcoal face mask ,masks  ,26.95,4,no,
+83,2025-03-13,C1091,hydrating facial cleanser,cleansers-,19.44,3,no,CeraVe 
+84,2025-02-24,C1726,tea tree oil toner,toners_,23.72,2,yes,CeraVe 
+85,2025-02-15,C1124,tea tree oil toner  ,toners_,13.0,2,no,
+86,2025-05-05,C1341,tea tree oil toner_,toners  ,37.01,2,no,la roche-posay
+87,2024-12-28,C1052,tea tree oil toner ,toners  ,28.54,1,no,Cetaphil
+88,2024-12-11,C1004,daily sunscreen spf 50_,sun protection-,6.2,4,no,
+89,2025-02-23,C1046,daily sunscreen spf 50 ,sun protection.,37.1,4,no,THE ORDINARY
+90,2025-04-18,C1819,vitamin c serum ,serums-,23.49,3,no,
+91,2025-01-19,C1740,eye repair cream.,eye care_,11.92,2,yes,DRUNK ELEPHANT
+92,2025-05-04,C1790,eye repair cream_,eye care  ,,2, n ,NEUTROGENA
+93,2025-05-17,C1512,tea tree oil toner,toners.,42.81,1,no,rhode
+94,2024-12-16,C1637,eye repair cream_,eye care  ,18.23,3,no,Neutrogena
+95,2025-01-15,C1446,,toners.,26.84,1,no,The Ordinary 
+96,2025-01-05,C1246,eye repair cream  ,eye care ,30.78,1,no,CeraVe 
+97,2025-01-04,C1696,makeup remover balm,makeup removers-,25.87,3,no,
+98,2025-04-24,C1068,eye repair cream ,eye care-,19.07,1,no,
+99,2025-01-27,C1203,tea tree oil toner.,toners.,22.19,2,no,THE ORDINARY
+100,2025-04-06,C1431,eye repair cream.,eye care,18.96,4,yes,Paula's_Choice
+101,2025-02-25,C1022,exfoliating scrub ,exfoliators  ,19.51,2,no,PAULA'S CHOICE
+102,2024-12-31,C1836,hydrating facial cleanser ,cleansers ,35.97,2,no,La Roche-Posay.
+103,2025-01-29,C1441,tea tree oil toner  ,toners,21.76,2,no,
+104,2025-05-08,C1324,exfoliating scrub ,exfoliators_,30.25,4,no,THE ORDINARY
+105,2025-04-10,C1496,vitamin c serum.,serums,34.73,4,no,the ordinary
+106,2025-03-12,C1474,eye repair cream-,eye care  ,40.44,4,no,
+107,2024-12-19,C1928,hyaluronic acid,serums  ,31.08,3,no,RHODE
+108,2025-01-18,C1612,retinol night cream_,moisturizers,35.33,1,no,La_Roche-Posay
+109,2025-02-16,C1555,makeup remover balm  ,makeup removers.,,4, y ,The_Ordinary
+110,2025-05-26,C1606,eye repair cream.,eye care  ,29.47,1,yes,CERAVE
+111,2025-03-23,C1848,vitamin c serum  ,serums_,20.81,2,no,RHODE
+112,2025-03-03,C1921,makeup remover balm-,makeup removers-,23.89,2,no,La_Roche-Posay
+113,2025-01-20,C1195,hyaluronic acid,serums.,13.75,3,no,Glow Recipe 
+114,2025-05-21,C1492,charcoal face mask  ,masks-,37.82,2,no,GLOW RECIPE
+115,2025-05-05,C1456,tea tree oil toner ,toners.,29.49,4,no,cerave
+116,2025-01-05,C1688,daily sunscreen spf 50_,sun protection,24.21,4,no,Eucerin 
+117,2025-01-26,C1663,eye repair cream-,eye care_,18.85,1,no,Drunk Elephant.
+118,2025-02-18,C1036,tea tree oil toner-,toners,28.83,3, n ,EUCERIN
+119,2025-04-12,C1872,daily sunscreen spf 50  ,sun protection_,32.64,3,no,Glow Recipe_
+120,2025-02-07,C1061,makeup remover balm.,makeup removers.,13.89,2, y ,Glow_Recipe
+121,2025-04-12,C1176,retinol night cream  ,moisturizers ,0.43,1,no,
+122,2025-03-10,C1232,vitamin c serum ,serums ,24.23,4,yes,Eucerin 
+123,2025-01-18,C1383,makeup remover balm_,makeup removers.,20.89,4, n ,paula's choice
+124,2025-05-22,C1366,exfoliating scrub ,exfoliators.,,4,no,
+125,2025-03-24,C1150,hydrating facial cleanser_,cleansers.,36.24,1,no,NEUTROGENA
+126,2025-02-05,C1108,tea tree oil toner,toners,46.43,4,no,
+127,2025-03-31,C1587,vitamin c serum,serums.,28.25,3,no,The Ordinary.
+128,2024-12-21,C1491,eye repair cream-,eye care,41.75,1,no,Drunk_Elephant
+129,2025-02-14,C1169,charcoal face mask.,masks,25.56,2,no,Cetaphil
+130,2025-01-13,C1633,charcoal face mask_,masks_,25.6,1,no,
+131,2025-05-14,C1495,tea tree oil toner.,toners_,25.44,2,,Glow Recipe.
+132,2025-04-24,C1499,charcoal face mask  ,masks,13.24,1,no,cerave
+133,2025-06-02,C1069,retinol night cream ,,27.9,1,no,Paula's Choice 
+134,2025-02-15,C1444,,toners_,23.13,4,yes,the ordinary
+135,2025-04-24,C1038,daily sunscreen spf 50  ,sun protection-,39.78,2, y ,Rhode 
+136,2025-01-13,C1652,charcoal face mask  ,masks ,16.21,2,no,
+137,2025-03-11,C1828,daily sunscreen spf 50 ,sun protection,39.44,4,no,paula's choice
+138,2025-01-06,C1000,charcoal face mask.,masks-,5.85,3,no,Cetaphil 
+139,2025-05-20,C1368,daily sunscreen spf 50_,sun protection_,13.96,1,no,Paula's Choice 
+140,2025-05-20,C1933,,eye care.,32.62,1,no,The_Ordinary
+141,2025-04-22,C1828,charcoal face mask_,masks,38.59,1, n ,Rhode 
+142,2024-12-18,C1885,hydrating facial cleanser ,cleansers-,22.14,3,no,CERAVE
+143,2025-01-18,C1232,charcoal face mask-,masks  ,33.44,1,no,the ordinary
+144,2025-01-01,C1414,eye repair cream.,eye care.,14.34,1,no,Rhode
+145,2025-01-27,C1735,tea tree oil toner.,toners  ,39.37,3,no,Neutrogena
+146,2025-03-24,C1971,tea tree oil toner,toners.,17.98,4,no,Rhode_
+147,2025-03-02,C1089,makeup remover balm,makeup removers  ,21.92,2,no,La Roche-Posay 
+148,2024-12-29,C1177,makeup remover balm.,makeup removers_,17.63,4,no,Rhode 
+149,2025-01-02,C1501,hyaluronic acid.,serums_,17.02,4,,Neutrogena_
+150,2025-02-03,C1928,tea tree oil toner,toners,11.62,3,no,
+151,2025-02-24,C1557,vitamin c serum.,serums_,,4,no,Glow_Recipe
+152,2024-12-28,C1593,retinol night cream-,moisturizers,10.07,3,no,
+153,2025-04-02,C1823,daily sunscreen spf 50_,sun protection  ,41.85,1,no,THE ORDINARY
+154,2025-03-15,C1876,hyaluronic acid-,serums_,7.7,2,no,PAULA'S CHOICE
+155,2025-02-19,C1223,vitamin c serum,serums.,21.9,2,no,Glow Recipe 
+156,2025-04-15,C1852,makeup remover balm.,makeup removers,13.3,3,no,Rhode.
+157,2025-05-17,C1460,tea tree oil toner ,toners-,18.84,3,no,neutrogena
+158,2024-12-16,C1098,makeup remover balm-,makeup removers-,39.36,1,no,EUCERIN
+159,2024-12-09,C1869,hyaluronic acid_,serums-,27.19,1,,Cetaphil 
+160,2025-01-19,C1996,tea tree oil toner  ,toners-,20.16,3,no,Rhode 
+161,2025-04-16,C1077,vitamin c serum-,serums,34.24,3,no,Glow Recipe
+162,2024-12-19,C1050,retinol night cream-,moisturizers,33.13,1,no,Neutrogena-
+163,2025-04-07,C1799,eye repair cream  ,eye care ,16.28,1,no,la roche-posay
+164,2024-12-15,C1071,charcoal face mask  ,masks-,18.29,2,no,Glow Recipe 
+165,2025-04-07,C1890,makeup remover balm-,makeup removers.,24.98,2,no,
+166,2025-05-31,C1053,makeup remover balm,makeup removers_,20.74,2,no,Eucerin 
+167,2025-05-02,C1206,hyaluronic acid  ,serums,29.14,3,yes,LA ROCHE-POSAY
+168,2024-12-31,C1577,retinol night cream-,moisturizers ,38.42,1,no,cerave
+169,2025-01-17,C1797,hydrating facial cleanser.,cleansers.,27.03,2,no,Drunk Elephant-
+170,2025-05-25,C1446,charcoal face mask  ,masks ,25.5,3,no,Cetaphil
+171,2025-05-25,C1541,charcoal face mask  ,masks ,28.6,1,no,La_Roche-Posay
+172,2025-04-17,C1080,daily sunscreen spf 50-,sun protection.,42.19,3,no,La Roche-Posay 
+173,2024-12-22,C1068,daily sunscreen spf 50  ,sun protection_,24.85,4,yes,The Ordinary
+174,2025-01-31,C1449,charcoal face mask.,masks  ,32.96,2,no,Paula's Choice-
+175,2025-01-12,C1110,daily sunscreen spf 50 ,sun protection-,36.23,4,no,CERAVE
+176,2025-03-24,C1847,exfoliating scrub_,exfoliators.,10.59,1,no,
+177,2025-05-22,C1863,eye repair cream.,eye care,13.99,4,no,cerave
+178,2025-03-04,C1671,hydrating facial cleanser_,cleansers  ,29.88,3,no,paula's choice
+179,2024-12-23,C1465,hyaluronic acid_,serums.,20.53,3,no,The Ordinary.
+180,2025-01-21,C1533,vitamin c serum  ,serums,20.24,4,no,
+181,2025-04-07,C1729,tea tree oil toner,toners_,10.66,2,no,
+182,2025-04-23,C1793,exfoliating scrub  ,exfoliators-,23.08,1,no,Rhode
+183,2025-01-27,C1106,exfoliating scrub_,exfoliators_,30.15,3,no,
+184,2025-03-05,C1336,tea tree oil toner.,toners  ,37.05,3,no,La_Roche-Posay
+185,2025-01-16,C1691,retinol night cream ,moisturizers ,33.51,1,no,
+186,2025-05-30,C1055,,makeup removers,18.8,3,no,CETAPHIL
+187,2025-04-17,C1385,tea tree oil toner.,toners  ,48.74,3,no,
+188,2025-06-03,C1698,,exfoliators  ,21.89,1,yes,PAULA'S CHOICE
+189,2024-12-19,C1362,makeup remover balm.,makeup removers_,33.51,3,no,Glow Recipe 
+190,2025-06-04,C1273,,sun protection-,15.12,3,yes,Drunk_Elephant
+191,2025-02-01,C1630,tea tree oil toner,toners,40.24,3,no,La Roche-Posay 
+192,2025-04-19,C1038,exfoliating scrub  ,exfoliators  ,0.43,1,no,CERAVE
+193,2025-04-09,C1536,vitamin c serum-,serums  ,14.39,2,no,Eucerin
+194,2024-12-22,C1024,daily sunscreen spf 50,sun protection  ,18.46,1,no,
+195,2025-05-05,C1227,exfoliating scrub,exfoliators  ,35.55,1,no,The Ordinary.
+196,2025-02-14,C1622,hydrating facial cleanser-,cleansers.,31.54,3,no,drunk elephant
+197,2024-12-19,C1612,tea tree oil toner,toners  ,20.59,3,no,cetaphil
+198,2025-03-22,C1319,hydrating facial cleanser.,cleansers ,40.82,2,no,Drunk_Elephant
+199,2025-01-02,C1376,makeup remover balm ,makeup removers_,5.86,1,no,
+200,2025-04-19,C1276,vitamin c serum_,serums,34.41,1,yes,Neutrogena 
+201,2025-05-17,C1445,makeup remover balm.,makeup removers ,20.42,4,no,Paula's Choice 
+202,2025-05-11,C1663,exfoliating scrub ,exfoliators_,18.74,2,no,glow recipe
+203,2025-02-10,C1005,eye repair cream_,eye care,-0.03,4,,
+204,2025-04-03,C1074,makeup remover balm_,makeup removers,31.85,2,no,THE ORDINARY
+205,2025-03-09,C1997,,makeup removers-,27.37,1,no,la roche-posay
+206,2025-02-05,C1193,eye repair cream-,eye care  ,27.74,3,no,The Ordinary-
+207,2025-04-11,C1644,retinol night cream.,moisturizers_,45.43,3,no,Paula's_Choice
+208,2025-03-08,C1835,charcoal face mask_,masks  ,41.2,2, n ,
+209,2025-01-16,C1000,tea tree oil toner_,toners_,27.8,1,no,Cetaphil 
+210,2025-03-31,C1549,makeup remover balm  ,makeup removers ,-2.41,2,no,Drunk Elephant 
+211,2025-02-07,C1258,tea tree oil toner-,toners-,13.61,4,no,NEUTROGENA
+212,2025-04-12,C1009,daily sunscreen spf 50.,sun protection ,27.68,1,no,Glow Recipe 
+213,2025-01-14,C1641,retinol night cream,moisturizers-,44.97,2,no,PAULA'S CHOICE
+214,2025-01-12,C1612,makeup remover balm,makeup removers_,44.84,4,no,the ordinary
+215,2025-02-17,C1816,eye repair cream.,eye care  ,48.9,3,no,RHODE
+216,2025-04-07,C1235,hydrating facial cleanser.,cleansers_,18.96,1,no,La Roche-Posay 
+217,2025-05-05,C1587,vitamin c serum  ,serums-,31.84,3, n ,RHODE
+218,2025-01-26,C1295,exfoliating scrub,exfoliators.,23.55,3,yes,THE ORDINARY
+219,2025-05-05,C1797,,masks  ,30.79,1,no,cetaphil
+220,2025-02-23,C1004,daily sunscreen spf 50,sun protection ,29.97,3,no,PAULA'S CHOICE
+221,2025-04-28,C1748,exfoliating scrub,exfoliators ,31.53,2,no,Neutrogena
+222,2025-03-30,C1295,vitamin c serum  ,serums  ,12.09,2,no,La Roche-Posay
+223,2025-02-01,C1421,eye repair cream-,eye care-,42.72,4,no,
+224,2025-03-14,C1142,charcoal face mask_,masks,21.02,1,no,rhode
+225,2024-12-08,C1973,hydrating facial cleanser  ,cleansers,6.39,3,no,cerave
+226,2025-01-15,C1946,tea tree oil toner-,toners.,34.97,1, y ,paula's choice
+227,2025-04-20,C1967,retinol night cream.,moisturizers  ,2.11,3,no,NEUTROGENA
+228,2025-03-03,C1014,hydrating facial cleanser ,cleansers-,39.32,2,no,RHODE
+229,2025-01-21,C1419,hyaluronic acid ,serums.,24.87,2,no,Neutrogena
+230,2025-05-07,C1096,eye repair cream ,eye care ,35.54,1,no,CETAPHIL
+231,2025-02-18,C1597,,,34.7,1,yes,CeraVe 
+232,2025-05-28,C1634,retinol night cream.,moisturizers_,32.21,2,no,
+233,2025-03-09,C1227,daily sunscreen spf 50,sun protection-,,1,no,Paula's_Choice
+234,2025-05-19,C1695,charcoal face mask-,masks  ,27.61,1,no,Drunk Elephant 
+235,2025-02-02,C1843,hyaluronic acid-,serums_,56.74,1,no,CETAPHIL
+236,2024-12-06,C1094,exfoliating scrub ,exfoliators.,26.82,1,no,
+237,2025-01-24,C1068,makeup remover balm_,makeup removers ,38.3,2,no,Eucerin 
+238,2025-04-12,C1841,vitamin c serum ,serums,44.99,4,no,The Ordinary.
+239,2025-05-22,C1301,retinol night cream ,moisturizers  ,13.22,3,no,The_Ordinary
+240,2025-05-08,C1140,tea tree oil toner  ,toners_,18.2,3,no,Glow Recipe 
+241,2025-05-16,C1355,exfoliating scrub ,exfoliators-,33.68,3, n ,La_Roche-Posay
+242,2025-03-20,C1887,daily sunscreen spf 50_,sun protection,15.63,4,no,Cetaphil
+243,2025-01-07,C1028,hydrating facial cleanser,cleansers.,18.97,1,no,Eucerin
+244,2024-12-27,C1725,retinol night cream_,moisturizers_,38.02,2, n ,GLOW RECIPE
+245,2025-03-29,C1824,hydrating facial cleanser-,cleansers_,18.73,4,no,neutrogena
+246,2024-12-24,C1566,vitamin c serum,serums-,20.05,1,no,
+247,2025-02-06,C1136,retinol night cream_,moisturizers  ,30.38,3,yes,Neutrogena 
+248,2025-02-25,C1116,tea tree oil toner_,toners_,11.41,2,no,Cetaphil 
+249,2025-04-02,C1074,eye repair cream-,eye care.,15.85,4,no,Cetaphil
+250,2025-03-25,C1209,exfoliating scrub,exfoliators.,27.46,2,no,Paula's Choice 
+251,2025-05-06,C1875,charcoal face mask ,masks.,33.41,4,no,Cetaphil 
+252,2025-04-03,C1663,daily sunscreen spf 50  ,sun protection  ,24.62,3,no,Cetaphil
+253,2025-03-18,C1176,retinol night cream.,moisturizers_,13.06,1, y ,The_Ordinary
+254,2025-02-23,C1661,makeup remover balm,,27.77,1,no,eucerin
+255,2025-03-10,C1083,daily sunscreen spf 50 ,sun protection ,18.28,1,no,the ordinary
+256,2025-05-26,C1629,vitamin c serum ,serums,18.45,1,no,Paula's Choice 
+257,2025-01-01,C1768,makeup remover balm  ,makeup removers_,,4,no,La Roche-Posay 
+258,2025-04-18,C1214,vitamin c serum_,serums-,36.3,4,yes,Neutrogena
+259,2025-03-07,C1284,charcoal face mask ,masks  ,38.5,2,no,Eucerin
+260,2025-04-16,C1285,hyaluronic acid-,serums_,21.7,1,yes,THE ORDINARY
+261,2025-05-05,C1174,makeup remover balm ,makeup removers.,28.03,1,no,Paula's_Choice
+262,2024-12-05,C1987,hyaluronic acid.,serums  ,36.67,2,no,cetaphil
+263,2025-01-11,C1896,daily sunscreen spf 50-,sun protection_,19.36,3,no,la roche-posay
+264,2024-12-14,C1870,charcoal face mask ,masks.,-10.68,4,no,Drunk Elephant.
+265,2025-01-07,C1379,retinol night cream  ,moisturizers_,16.71,3,no,CeraVe_
+266,2025-02-01,C1475,daily sunscreen spf 50-,sun protection_,34.22,1,yes,Glow Recipe_
+267,2025-02-01,C1442,hyaluronic acid-,serums.,37.22,3,no,La Roche-Posay-
+268,2025-06-01,C1053,exfoliating scrub ,exfoliators-,3.26,3,yes,RHODE
+269,2025-02-14,C1263,retinol night cream  ,moisturizers  ,33.13,3,no,Drunk Elephant 
+270,2024-12-22,C1087,tea tree oil toner  ,toners ,6.19,2,no,Drunk Elephant 
+271,2025-03-24,C1499,retinol night cream,moisturizers.,32.11,3, n ,
+272,2025-02-17,C1909,charcoal face mask_,masks-,29.44,1,no,CeraVe
+273,2025-01-13,C1672,hydrating facial cleanser ,cleansers-,30.93,3,no,Drunk_Elephant
+274,2025-01-12,C1623,tea tree oil toner_,toners_,,3,no,Glow_Recipe
+275,2025-01-16,C1896,vitamin c serum.,serums-,,4,no,Eucerin
+276,2025-05-30,C1522,vitamin c serum  ,serums  ,12.49,3,no,EUCERIN
+277,2024-12-23,C1531,makeup remover balm_,makeup removers_,17.96,3,yes,Cetaphil
+278,2025-03-18,C1255,tea tree oil toner,toners  ,10.92,1,no,Rhode
+279,2025-05-11,C1505,exfoliating scrub,exfoliators.,4.18,4,no,Neutrogena
+280,2025-03-04,C1592,charcoal face mask  ,masks.,41.96,2,no,
+281,2025-05-25,C1735,vitamin c serum  ,serums-,24.62,2,no,Glow Recipe
+282,2024-12-25,C1208,vitamin c serum,serums  ,36.03,1,no,Rhode 
+283,2025-03-06,C1200,hydrating facial cleanser ,cleansers,28.08,1,no,EUCERIN
+284,2025-02-04,C1493,makeup remover balm-,makeup removers.,,2,no,
+285,2025-04-25,C1804,hydrating facial cleanser  ,cleansers.,25.18,1,no,La Roche-Posay_
+286,2025-02-05,C1127,eye repair cream  ,eye care-,28.48,3,no,
+287,2025-04-01,C1676,tea tree oil toner  ,toners-,26.96,2,yes,
+288,2025-02-06,C1587,retinol night cream  ,moisturizers-,15.22,1,no,La Roche-Posay
+289,2025-04-19,C1820,makeup remover balm.,makeup removers.,27.56,4,no,cerave
+290,2025-04-08,C1400,tea tree oil toner_,toners  ,34.83,3,no,Glow_Recipe
+291,2025-05-22,C1129,hydrating facial cleanser  ,cleansers.,6.59,2,no,CETAPHIL
+292,2025-03-26,C1704,hydrating facial cleanser,cleansers  ,12.2,4, n ,la roche-posay
+293,2025-05-13,C1778,vitamin c serum,serums ,26.87,2,yes,
+294,2025-03-22,C1675,vitamin c serum,serums ,17.45,4,no,CeraVe_
+295,2025-03-06,C1054,charcoal face mask,masks_,15.24,3, n ,Neutrogena 
+296,2025-03-15,C1405,tea tree oil toner,toners_,35.54,3, n ,
+297,2025-05-19,C1466,daily sunscreen spf 50 ,sun protection,,4,no,Cetaphil 
+298,2025-01-15,C1848,makeup remover balm,makeup removers.,32.0,3,no,La_Roche-Posay
+299,2025-05-21,C1449,charcoal face mask.,masks  ,50.6,2,no,Glow Recipe 
+300,2025-03-05,C1295,retinol night cream-,moisturizers ,24.04,1,no,la roche-posay
+301,2025-01-09,C1024,exfoliating scrub  ,exfoliators.,24.65,3,no,Eucerin
+302,2025-05-28,C1497,daily sunscreen spf 50 ,sun protection  ,42.71,3,yes,Eucerin 
+303,2025-04-23,C1523,exfoliating scrub_,exfoliators ,31.32,2,yes,eucerin
+304,2025-05-21,C1954,tea tree oil toner,toners.,34.73,3,no,Glow_Recipe
+305,2025-03-26,C1591,makeup remover balm ,makeup removers_,24.26,3,yes,
+306,2025-05-06,C1990,tea tree oil toner_,toners-,31.21,4,no,GLOW RECIPE
+307,2025-03-16,C1199,exfoliating scrub  ,exfoliators,30.6,2,no,Cetaphil 
+308,2025-04-04,C1267,makeup remover balm  ,makeup removers_,35.81,1, y ,Paula's Choice 
+309,2025-03-16,C1085,hydrating facial cleanser,cleansers_,29.3,3,no,Eucerin 
+310,2025-04-02,C1334,hyaluronic acid.,serums_,27.08,2,no,CeraVe
+311,2025-02-08,C1826,makeup remover balm.,makeup removers ,14.19,4,no,The Ordinary 
+312,2025-05-22,C1222,vitamin c serum_,serums_,35.53,3,no,The Ordinary 
+313,2025-05-04,C1614,charcoal face mask.,masks_,,2,no,Eucerin 
+314,2025-06-02,C1151,charcoal face mask.,masks  ,25.3,1,no,La_Roche-Posay
+315,2024-12-23,C1170,hydrating facial cleanser-,cleansers  ,20.66,2,no,
+316,2025-04-19,C1982,hyaluronic acid  ,serums-,21.91,4,no,Eucerin 
+317,2025-02-16,C1981,tea tree oil toner-,toners-,23.13,1,no,The_Ordinary
+318,2025-01-16,C1160,exfoliating scrub  ,exfoliators.,20.6,1,no,Rhode
+319,2024-12-16,C1738,makeup remover balm,makeup removers.,27.67,2,no,Cetaphil
+320,2025-04-10,C1250,vitamin c serum,serums,33.9,2,,Cetaphil 
+321,2025-05-04,C1890,hyaluronic acid ,serums.,25.82,4, n ,CERAVE
+322,2025-04-20,C1028,vitamin c serum-,serums_,35.65,3,yes,the ordinary
+323,2025-02-05,C1271,retinol night cream-,moisturizers_,19.83,1,no,rhode
+324,2025-01-01,C1376,hydrating facial cleanser,cleansers.,39.09,4,no,Rhode 
+325,2024-12-16,C1576,tea tree oil toner.,toners_,,3,no,rhode
+326,2025-02-20,C1428,daily sunscreen spf 50  ,sun protection.,39.53,2,yes,glow recipe
+327,2025-03-18,C1292,charcoal face mask_,masks ,11.56,4,no,Cetaphil
+328,2025-05-14,C1948,tea tree oil toner_,toners.,15.81,1,no,Eucerin 
+329,2025-05-13,C1963,vitamin c serum,serums-,24.65,1,no,EUCERIN
+330,2025-05-14,C1804,exfoliating scrub ,exfoliators ,27.34,4, n ,
+331,2025-03-18,C1061,hydrating facial cleanser ,cleansers  ,34.84,2,no,
+332,2024-12-06,C1710,charcoal face mask_,masks ,22.86,1,,CERAVE
+333,2025-03-08,C1365,charcoal face mask  ,masks.,26.66,1,no,RHODE
+334,2025-04-21,C1824,tea tree oil toner  ,toners_,29.92,2,yes,Drunk Elephant.
+335,2025-05-09,C1516,retinol night cream-,moisturizers_,18.77,3,no,cetaphil
+336,2025-02-26,C1726,hydrating facial cleanser_,cleansers-,19.45,1,no,La_Roche-Posay
+337,2025-03-24,C1002,charcoal face mask_,masks ,39.21,2,,drunk elephant
+338,2024-12-24,C1780,charcoal face mask-,masks ,19.29,4,no,The_Ordinary
+339,2025-01-23,C1356,retinol night cream ,moisturizers,27.03,1,no,Neutrogena 
+340,2025-01-15,C1951,hyaluronic acid-,serums_,9.84,2,no,cetaphil
+341,2025-03-24,C1737,hydrating facial cleanser  ,cleansers ,18.87,1,yes,Glow_Recipe
+342,2025-04-16,C1462,tea tree oil toner_,toners-,21.12,4,yes,eucerin
+343,2025-05-02,C1123,exfoliating scrub_,exfoliators.,31.59,3,no,the ordinary
+344,2025-03-12,C1250,daily sunscreen spf 50_,sun protection-,45.1,3,yes,The Ordinary 
+345,2024-12-30,C1687,hyaluronic acid.,serums.,24.67,2, n ,
+346,2025-05-11,C1972,tea tree oil toner.,toners_,42.95,1,no,La Roche-Posay 
+347,2025-01-27,C1114,retinol night cream_,moisturizers  ,24.84,4,no,Rhode-
+348,2025-05-26,C1039,exfoliating scrub ,exfoliators.,,2,no,The_Ordinary
+349,2025-05-28,C1215,tea tree oil toner  ,toners.,31.82,1,no,Drunk_Elephant
+350,2025-01-15,C1091,daily sunscreen spf 50_,sun protection  ,43.47,3,no,paula's choice
+351,2024-12-15,C1355,hyaluronic acid ,serums,33.2,1, n ,Cetaphil 
+352,2024-12-18,C1699,hydrating facial cleanser,cleansers-,30.07,3,no,
+353,2025-03-13,C1550,vitamin c serum,serums_,23.33,3,no,cetaphil
+354,2025-01-30,C1257,tea tree oil toner-,toners  ,26.47,3,yes,rhode
+355,2024-12-04,C1524,hydrating facial cleanser,cleansers  ,25.29,3,no,LA ROCHE-POSAY
+356,2025-04-08,C1232,hydrating facial cleanser ,cleansers-,37.78,2,no,Cetaphil 
+357,2025-01-30,C1364,eye repair cream-,eye care ,11.4,4,yes,Glow_Recipe
+358,2025-03-12,C1466,hydrating facial cleanser,cleansers.,32.46,3,no,
+359,2025-01-18,C1411,daily sunscreen spf 50-,sun protection  ,27.49,4,no,Paula's_Choice
+360,2025-04-13,C1036,makeup remover balm-,makeup removers.,40.77,4,no,The Ordinary 
+361,2025-05-04,C1523,,toners.,20.54,3,no,Glow Recipe.
+362,2024-12-30,C1885,daily sunscreen spf 50_,sun protection  ,26.94,2,no,Glow Recipe 
+363,2025-02-02,C1269,eye repair cream-,eye care_,36.95,3,no,
+364,2024-12-06,C1715,,serums.,9.77,4,no,CETAPHIL
+365,2025-02-08,C1028,tea tree oil toner.,,19.41,1,no,eucerin
+366,2025-03-24,C1878,exfoliating scrub  ,exfoliators ,28.77,3,no,paula's choice
+367,2025-02-01,C1481,eye repair cream  ,eye care_,40.66,2,yes,Cetaphil 
+368,2025-05-04,C1515,retinol night cream  ,moisturizers.,24.34,2,no,NEUTROGENA
+369,2024-12-12,C1796,tea tree oil toner ,toners-,10.52,3,no,Glow Recipe 
+370,2025-05-28,C1799,makeup remover balm-,makeup removers_,3.01,1,no,Rhode 
+371,2025-05-25,C1706,charcoal face mask,masks_,27.44,2,no,paula's choice
+372,2025-05-23,C1439,charcoal face mask,masks,19.36,1, n ,
+373,2024-12-27,C1083,makeup remover balm ,makeup removers ,31.5,4,no,Drunk_Elephant
+374,2024-12-10,C1452,hyaluronic acid  ,serums_,24.01,2,no,Eucerin_
+375,2025-01-06,C1161,hydrating facial cleanser-,cleansers ,24.54,4,no,Cetaphil
+376,2025-01-28,C1792,tea tree oil toner  ,toners.,27.43,1,no,
+377,2025-03-19,C1583,hyaluronic acid_,serums,,4,no,PAULA'S CHOICE
+378,2025-01-07,C1656,hydrating facial cleanser,cleansers-,,4,no,Neutrogena 
+379,2025-03-23,C1959,eye repair cream.,eye care-,41.27,3,no,
+380,2025-03-23,C1827,retinol night cream  ,moisturizers  ,0.19,4,yes,drunk elephant
+381,2025-01-05,C1677,retinol night cream ,moisturizers_,41.38,4,no,rhode
+382,2025-02-12,C1830,hydrating facial cleanser,cleansers.,40.01,4,no,the ordinary
+383,2025-05-27,C1394,eye repair cream ,eye care ,11.74,2,no,Neutrogena-
+384,2025-03-06,C1071,retinol night cream,moisturizers  ,36.55,4,no,CeraVe 
+385,2025-03-11,C1606,hydrating facial cleanser ,cleansers ,44.63,2,no,Rhode
+386,2025-04-26,C1300,hydrating facial cleanser ,cleansers  ,,2,no,rhode
+387,2025-03-26,C1400,hydrating facial cleanser ,cleansers_,27.58,3,no,
+388,2025-03-30,C1671,charcoal face mask.,masks_,29.69,4,,CeraVe-
+389,2025-01-22,C1713,daily sunscreen spf 50 ,sun protection  ,24.86,4,no,LA ROCHE-POSAY
+390,2024-12-17,C1864,makeup remover balm_,makeup removers  ,21.17,4,yes,Paula's_Choice
+391,2025-01-09,C1588,tea tree oil toner,toners.,16.24,1,yes,
+392,2025-02-27,C1102,exfoliating scrub  ,exfoliators-,25.38,4,no,
+393,2025-01-08,C1142,makeup remover balm-,makeup removers ,26.95,2,no,Rhode-
+394,2025-04-08,C1427,tea tree oil toner,toners_,14.37,2,yes,CERAVE
+395,2025-03-15,C1008,eye repair cream ,eye care.,27.76,3,no,Cetaphil
+396,2024-12-06,C1222,exfoliating scrub,exfoliators_,17.01,2,no,Drunk_Elephant
+397,2025-05-04,C1859,charcoal face mask_,masks,43.12,4, n ,PAULA'S CHOICE
+398,2025-05-03,C1110,makeup remover balm ,makeup removers-,28.58,2,no,Glow Recipe 
+399,2025-02-08,C1894,hydrating facial cleanser ,cleansers ,26.15,2,no,
+400,2025-03-19,C1699,tea tree oil toner ,toners  ,34.5,3,yes,La_Roche-Posay
+401,2025-04-27,C1523,makeup remover balm.,makeup removers.,21.3,2,no,Eucerin 
+402,2025-01-07,C1242,daily sunscreen spf 50.,sun protection_,27.05,1,no,
+403,2025-01-27,C1287,tea tree oil toner.,toners ,14.68,3,no,The_Ordinary
+404,2025-05-31,C1965,hyaluronic acid  ,serums ,,3,no,Cetaphil 
+405,2025-02-08,C1058,eye repair cream.,eye care ,15.67,4,no,The_Ordinary
+406,2025-05-02,C1754,hyaluronic acid-,serums_,32.53,3,yes,
+407,2025-01-28,C1902,tea tree oil toner  ,toners  ,19.98,3,no,CeraVe 
+408,2024-12-13,C1724,exfoliating scrub ,exfoliators ,27.12,4,no,Eucerin 
+409,2025-02-04,C1731,makeup remover balm  ,makeup removers,34.33,4,no,Neutrogena 
+410,2025-04-19,C1955,hydrating facial cleanser,cleansers-,33.73,4,no,Drunk_Elephant
+411,2025-01-05,C1739,vitamin c serum,serums ,9.38,1,no,Drunk_Elephant
+412,2025-01-25,C1931,,masks  ,45.02,2,no,Cetaphil
+413,2025-04-27,C1636,hydrating facial cleanser,cleansers_,8.67,3,no,Eucerin
+414,2025-02-18,C1529,makeup remover balm  ,makeup removers  ,19.27,4,no,THE ORDINARY
+415,2025-04-20,C1099,retinol night cream_,moisturizers ,38.77,3,no,
+416,2025-02-17,C1297,exfoliating scrub.,exfoliators-,32.77,4,no,Glow Recipe 
+417,2025-04-08,C1501,hyaluronic acid  ,serums ,28.24,1,no,Paula's Choice 
+418,2025-05-17,C1013,hydrating facial cleanser,cleansers-,22.09,4,no,Glow Recipe 
+419,2025-01-15,C1144,hydrating facial cleanser  ,cleansers ,2.66,2,yes,Paula's Choice 
+420,2025-04-20,C1027,exfoliating scrub_,exfoliators,27.35,3,no,
+421,2024-12-27,C1459,charcoal face mask-,masks.,,3,no,LA ROCHE-POSAY
+422,2025-01-12,C1918,makeup remover balm_,makeup removers  ,,4,no,Neutrogena-
+423,2025-05-18,C1591,hyaluronic acid_,serums ,9.44,3,no,PAULA'S CHOICE
+424,2025-01-30,C1843,retinol night cream.,moisturizers ,22.28,2,no,Paula's Choice 
+425,2025-04-09,C1971,makeup remover balm.,makeup removers-,22.41,4,no,Glow Recipe 
+426,2025-02-14,C1885,retinol night cream_,moisturizers  ,37.34,1,no,glow recipe
+427,2025-04-26,C1631,retinol night cream.,moisturizers_,33.47,1,no,
+428,2025-01-05,C1366,exfoliating scrub,exfoliators  ,37.23,4,no,RHODE
+429,2025-01-14,C1333,exfoliating scrub_,exfoliators-,21.97,1,yes,Cetaphil
+430,2024-12-18,C1292,retinol night cream_,moisturizers.,28.8,2,no,Rhode 
+431,2025-03-23,C1160,vitamin c serum-,serums  ,23.69,1,yes,CETAPHIL
+432,2025-06-03,C1011,exfoliating scrub,exfoliators,,1,no,CeraVe 
+433,2024-12-26,C1183,daily sunscreen spf 50,sun protection ,26.39,1,no,Eucerin-
+434,2024-12-25,C1918,makeup remover balm-,makeup removers,,3,no,CeraVe 
+435,2025-05-29,C1307,charcoal face mask.,masks-,,4,no,glow recipe
+436,2025-05-08,C1891,makeup remover balm ,makeup removers_,29.03,4, n ,Rhode
+437,2025-04-12,C1494,daily sunscreen spf 50.,sun protection.,27.77,4,no,
+438,2024-12-04,C1192,eye repair cream.,eye care-,18.49,2,no,LA ROCHE-POSAY
+439,2025-03-17,C1302,tea tree oil toner_,toners_,24.69,1,no,Paula's Choice 
+440,2025-02-12,C1986,eye repair cream.,eye care_,45.03,4,no,Rhode-
+441,2025-01-20,C1286,eye repair cream  ,eye care_,26.98,1,no,Eucerin 
+442,2025-03-01,C1303,hyaluronic acid-,serums.,29.49,4,no,CETAPHIL
+443,2025-02-01,C1703,tea tree oil toner_,toners ,17.28,4,no,Paula's Choice 
+444,2025-01-10,C1160,exfoliating scrub,exfoliators_,27.97,2,no,CeraVe
+445,2025-03-29,C1158,makeup remover balm,makeup removers  ,35.05,1,yes,Glow Recipe.
+446,2025-03-14,C1609,daily sunscreen spf 50  ,sun protection,22.48,1,no,Paula's Choice_
+447,2025-04-29,C1481,tea tree oil toner ,toners  ,8.15,2,no,
+448,2025-02-10,C1278,eye repair cream-,eye care,15.66,2,no,glow recipe
+449,2025-01-19,C1454,,makeup removers  ,37.9,4,no,cetaphil
+450,2024-12-06,C1064,makeup remover balm_,makeup removers  ,22.39,1,no,cetaphil
+451,2025-03-13,C1604,exfoliating scrub ,exfoliators  ,12.22,1,no,eucerin
+452,2025-04-12,C1735,eye repair cream.,eye care-,8.56,1,no,THE ORDINARY
+453,2025-02-02,C1967,makeup remover balm_,makeup removers_,12.07,2,no,
+454,2025-06-01,C1961,tea tree oil toner  ,toners_,18.99,2,no,Cetaphil 
+455,2025-05-29,C1449,tea tree oil toner,toners.,2.51,2, n ,the ordinary
+456,2025-05-31,C1220,vitamin c serum.,serums.,18.17,2, y ,The Ordinary.
+457,2025-02-10,C1974,exfoliating scrub-,exfoliators,13.43,2,no,Glow Recipe.
+458,2024-12-14,C1042,daily sunscreen spf 50,sun protection  ,9.67,4,no,Neutrogena
+459,2025-01-29,C1426,vitamin c serum  ,serums ,31.8,2,no,
+460,2025-01-27,C1618,eye repair cream-,eye care ,30.75,1,no,NEUTROGENA
+461,2024-12-10,C1323,eye repair cream-,eye care,22.47,3,no,drunk elephant
+462,2025-03-12,C1786,eye repair cream-,eye care,28.92,1,no,CeraVe 
+463,2024-12-16,C1493,retinol night cream_,moisturizers,24.66,4,no,CeraVe 
+464,2025-01-24,C1155,hyaluronic acid-,serums,15.5,3, y ,the ordinary
+465,2025-01-18,C1001,exfoliating scrub_,exfoliators-,5.88,4,no,Glow Recipe_
+466,2025-02-05,C1089,tea tree oil toner_,toners ,28.97,1, n ,La Roche-Posay 
+467,2025-06-04,C1038,charcoal face mask_,masks,23.66,3,no,Drunk Elephant_
+468,2024-12-17,C1958,retinol night cream ,moisturizers.,23.41,1,no,
+469,2024-12-11,C1083,vitamin c serum_,serums-,26.6,2, y ,
+470,2025-03-27,C1821,vitamin c serum_,serums ,15.63,4,yes,drunk elephant
+471,2025-01-10,C1140,tea tree oil toner_,toners,19.21,2,no,The_Ordinary
+472,2025-05-17,C1276,hyaluronic acid-,serums_,25.64,3,no,paula's choice
+473,2024-12-14,C1983,eye repair cream  ,eye care-,22.16,1,no,Paula's_Choice
+474,2025-01-25,C1681,hyaluronic acid.,serums,29.01,2,no,La_Roche-Posay
+475,2025-05-05,C1579,tea tree oil toner_,toners  ,22.25,2,no,Neutrogena 
+476,2025-04-08,C1611,charcoal face mask,masks.,32.51,2,no,CeraVe
+477,2025-04-23,C1969,hydrating facial cleanser  ,cleansers-,43.2,2,no,CeraVe
+478,2025-04-02,C1580,hyaluronic acid.,serums,16.72,1,no,Glow Recipe_
+479,2024-12-05,C1660,tea tree oil toner,toners ,30.24,2,no,Paula's_Choice
+480,2025-05-10,C1804,charcoal face mask  ,masks-,17.65,1,no,Eucerin
+481,2025-03-21,C1968,hyaluronic acid,serums_,37.25,4,no,NEUTROGENA
+482,2025-04-29,C1440,exfoliating scrub  ,exfoliators.,41.23,2,no,cetaphil
+483,2024-12-25,C1657,retinol night cream ,moisturizers-,28.14,3,no,cerave
+484,2025-04-29,C1636,vitamin c serum  ,serums ,24.98,3,no,CeraVe 
+485,2025-01-27,C1301,eye repair cream-,eye care ,34.76,3,no,PAULA'S CHOICE
+486,2025-05-17,C1101,tea tree oil toner,toners  ,36.04,3,no,Rhode 
+487,2025-03-26,C1740,daily sunscreen spf 50  ,sun protection.,8.77,2,no,
+488,2025-04-12,C1072,retinol night cream  ,moisturizers-,30.63,1,no,
+489,2025-03-12,C1780,makeup remover balm-,makeup removers ,13.99,1,no,LA ROCHE-POSAY
+490,2025-04-27,C1955,exfoliating scrub.,exfoliators.,17.89,1,no,LA ROCHE-POSAY
+491,2025-04-08,C1711,exfoliating scrub  ,exfoliators,,1,no,Rhode
+492,2025-05-19,C1811,,cleansers ,32.01,2,no,Glow Recipe
+493,2025-05-08,C1171,hyaluronic acid  ,serums ,13.27,2,yes,Paula's_Choice
+494,2025-02-17,C1802,daily sunscreen spf 50,sun protection  ,12.67,2,no,NEUTROGENA
+495,2025-05-05,C1441,vitamin c serum,serums-,22.4,4,no,Rhode 
+496,2025-01-03,C1476,,eye care,42.27,4, n ,EUCERIN
+497,2024-12-22,C1669,vitamin c serum_,,15.09,4,no,drunk elephant
+498,2024-12-11,C1011,exfoliating scrub,exfoliators-,31.29,1,no,PAULA'S CHOICE
+499,2025-01-28,C1541,retinol night cream  ,moisturizers,38.14,4,no,drunk elephant
+500,2025-02-02,C1626,eye repair cream ,eye care  ,12.85,1,no,
+501,2024-12-24,C1083,hydrating facial cleanser_,cleansers  ,25.73,1,no,RHODE
+502,2025-05-30,C1455,vitamin c serum-,serums_,32.8,2,no,Neutrogena
+503,2024-12-29,C1499,retinol night cream ,moisturizers,19.73,4,no,glow recipe
+504,2025-01-19,C1803,exfoliating scrub ,exfoliators ,28.62,2,yes,
+505,2025-02-10,C1769,charcoal face mask  ,masks_,14.29,2,no,
+506,2025-01-20,C1448,daily sunscreen spf 50 ,sun protection_,16.1,3,no,EUCERIN
+507,2025-05-08,C1465,hydrating facial cleanser ,cleansers-,16.52,3, n ,la roche-posay
+508,2025-03-19,C1405,retinol night cream_,moisturizers,8.99,3,no,The Ordinary 
+509,2025-04-23,C1011,charcoal face mask-,masks.,27.51,1,no,
+510,2025-04-11,C1677,retinol night cream,moisturizers_,24.98,3,no,cetaphil
+511,2025-02-21,C1461,hydrating facial cleanser-,cleansers_,20.61,4,no,Drunk_Elephant
+512,2025-02-05,C1006,eye repair cream  ,eye care-,36.66,2,no,The_Ordinary
+513,2025-04-04,C1858,daily sunscreen spf 50,sun protection.,19.93,1,yes,Neutrogena
+514,2025-05-24,C1205,vitamin c serum_,serums.,22.64,2,no,
+515,2025-04-26,C1252,retinol night cream.,moisturizers  ,25.51,1,no,
+516,2025-01-17,C1094,hyaluronic acid,serums-,26.7,2,no,THE ORDINARY
+517,2025-04-21,C1435,vitamin c serum,serums,49.65,2,no,Glow Recipe.
+518,2024-12-15,C1901,exfoliating scrub_,exfoliators_,22.0,3, n ,Glow_Recipe
+519,2025-05-03,C1963,vitamin c serum  ,serums.,21.28,4,no,La Roche-Posay 
+520,2025-01-13,C1172,exfoliating scrub-,exfoliators.,15.08,1,no,
+521,2025-03-07,C1542,retinol night cream-,moisturizers-,30.08,4,no,Drunk Elephant.
+522,2024-12-25,C1988,vitamin c serum.,serums ,25.54,2,no,CeraVe
+523,2025-03-16,C1129,,moisturizers  ,27.83,1,yes,RHODE
+524,2024-12-10,C1286,hyaluronic acid,serums-,17.07,4,no,La_Roche-Posay
+525,2024-12-16,C1926,hydrating facial cleanser_,cleansers  ,18.11,3,no,
+526,2025-03-06,C1982,eye repair cream  ,eye care.,24.37,4,no,CeraVe.
+527,2024-12-11,C1493,makeup remover balm  ,makeup removers,19.36,1,no,the ordinary
+528,2025-02-22,C1399,eye repair cream,eye care-,20.89,3,no,drunk elephant
+529,2025-04-07,C1100,retinol night cream_,moisturizers-,,3,no,rhode
+530,2025-04-17,C1220,daily sunscreen spf 50  ,sun protection_,17.71,3,no,CERAVE
+531,2024-12-11,C1484,hyaluronic acid  ,,30.0,3,no,Glow Recipe 
+532,2025-05-08,C1767,eye repair cream,eye care ,47.89,4,no,Drunk Elephant 
+533,2025-04-28,C1454,hydrating facial cleanser.,cleansers,19.93,4,no,cetaphil
+534,2024-12-31,C1644,daily sunscreen spf 50,sun protection ,13.29,1,no,
+535,2025-05-09,C1741,,cleansers  ,24.7,3,no,
+536,2025-06-03,C1470,makeup remover balm-,makeup removers  ,23.26,3,no,Drunk Elephant.
+537,2025-04-12,C1985,charcoal face mask,masks_,26.09,1,no,Drunk Elephant 
+538,2024-12-19,C1692,charcoal face mask,masks-,13.81,2,no,
+539,2025-04-25,C1916,exfoliating scrub-,exfoliators  ,15.06,4,no,
+540,2025-03-19,C1628,hyaluronic acid,serums ,24.69,4,no,
+541,2025-03-17,C1593,retinol night cream ,moisturizers-,13.07,4,no,La Roche-Posay
+542,2025-05-04,C1732,hyaluronic acid-,serums.,24.6,4,no,cerave
+543,2025-04-23,C1624,daily sunscreen spf 50  ,sun protection  ,16.25,1, n ,Eucerin 
+544,2025-05-10,C1119,vitamin c serum,serums  ,2.24,1,no,La Roche-Posay 
+545,2025-03-05,C1096,daily sunscreen spf 50.,sun protection ,,4,yes,
+546,2025-05-17,C1955,makeup remover balm ,makeup removers,13.79,2, n ,rhode
+547,2025-02-21,C1954,hydrating facial cleanser,cleansers ,30.88,3,no,
+548,2025-04-25,C1078,retinol night cream_,moisturizers_,30.09,2,no,CeraVe 
+549,2025-05-15,C1415,retinol night cream ,moisturizers  ,23.76,1,no,
+550,2024-12-29,C1100,exfoliating scrub,exfoliators,34.76,4,no,CeraVe
+551,2025-05-15,C1663,eye repair cream  ,eye care-,32.93,3,yes,
+552,2025-01-12,C1276,exfoliating scrub ,exfoliators ,37.28,1, n ,Eucerin 
+553,2025-01-24,C1398,charcoal face mask_,masks_,17.31,4,no,Neutrogena 
+554,2025-05-15,C1539,makeup remover balm-,makeup removers,2.28,3,no,Rhode-
+555,2025-04-29,C1351,makeup remover balm ,,14.23,1,no,Eucerin
+556,2025-02-15,C1549,eye repair cream  ,eye care.,7.21,4,no,
+557,2025-02-09,C1767,charcoal face mask_,masks.,25.3,1,no,glow recipe
+558,2025-04-21,C1961,hyaluronic acid,serums.,16.52,4,no,Paula's Choice 
+559,2025-05-24,C1377,charcoal face mask ,masks ,16.39,1,no,cetaphil
+560,2025-01-26,C1369,hydrating facial cleanser ,cleansers_,16.2,3,yes,Paula's Choice 
+561,2025-02-14,C1373,vitamin c serum ,serums ,17.19,3, n ,NEUTROGENA
+562,2025-02-02,C1350,charcoal face mask,masks  ,21.29,1,no,The Ordinary 
+563,2024-12-23,C1782,charcoal face mask ,masks-,48.64,2,no,Glow Recipe 
+564,2025-05-14,C1182,hydrating facial cleanser ,,29.21,1, y ,
+565,2025-02-28,C1984,charcoal face mask ,masks ,22.61,2,no,La Roche-Posay 
+566,2025-05-20,C1413,exfoliating scrub,exfoliators,17.21,2, n ,GLOW RECIPE
+567,2025-03-23,C1887,retinol night cream_,moisturizers.,27.11,3,no,Cetaphil 
+568,2024-12-16,C1543,eye repair cream_,eye care,30.12,1,no,
+569,2025-04-26,C1529,eye repair cream  ,eye care-,32.46,4, y ,CETAPHIL
+570,2025-01-09,C1660,charcoal face mask.,masks ,21.4,1,no,Paula's_Choice
+571,2025-05-21,C1597,daily sunscreen spf 50 ,sun protection ,12.06,4,no,
+572,2025-02-15,C1533,eye repair cream_,eye care,27.34,2,,The Ordinary 
+573,2025-02-13,C1462,charcoal face mask ,masks  ,42.3,2,no,GLOW RECIPE
+574,2025-05-10,C1606,retinol night cream ,moisturizers.,28.0,4,no,
+575,2025-01-02,C1682,retinol night cream  ,moisturizers  ,13.04,4,no,Glow Recipe 
+576,2025-06-03,C1695,daily sunscreen spf 50 ,sun protection ,24.6,1,no,
+577,2025-04-13,C1806,hydrating facial cleanser,cleansers-,16.41,3,no,DRUNK ELEPHANT
+578,2024-12-19,C1127,eye repair cream-,eye care-,27.44,4,no,la roche-posay
+579,2025-03-17,C1128,charcoal face mask  ,masks  ,13.07,2,yes,cerave
+580,2025-01-23,C1448,hydrating facial cleanser.,cleansers,22.67,4,no,THE ORDINARY
+581,2025-04-27,C1490,vitamin c serum-,serums ,16.44,4,no,CeraVe
+582,2025-03-12,C1895,retinol night cream.,moisturizers_,18.79,1,no,cetaphil
+583,2025-04-16,C1012,eye repair cream  ,eye care ,29.33,2,no,glow recipe
+584,2025-02-26,C1597,exfoliating scrub ,exfoliators ,36.87,1,no,PAULA'S CHOICE
+585,2024-12-13,C1013,makeup remover balm.,makeup removers  ,27.31,4,no,PAULA'S CHOICE
+586,2025-01-24,C1376,charcoal face mask_,masks-,27.36,1, n ,
+587,2025-04-25,C1823,daily sunscreen spf 50  ,sun protection  ,36.26,3,no,Rhode
+588,2025-06-04,C1131,vitamin c serum  ,serums.,32.84,3,,
+589,2025-02-14,C1226,eye repair cream-,eye care-,40.64,2,no,Cetaphil
+590,2025-03-26,C1468,eye repair cream ,eye care.,12.5,2,no,
+591,2025-01-03,C1515,daily sunscreen spf 50-,sun protection-,20.84,1,no,CERAVE
+592,2025-03-07,C1727,vitamin c serum  ,serums  ,13.19,1,no,EUCERIN
+593,2025-02-12,C1765,eye repair cream_,eye care ,22.8,4,no,NEUTROGENA
+594,2025-05-31,C1593,eye repair cream_,eye care  ,21.83,4,no,
+595,2025-04-01,C1877,tea tree oil toner.,toners,21.94,3,no,Neutrogena 
+596,2025-04-08,C1108,charcoal face mask_,masks_,25.66,3,yes,Cetaphil 
+597,2025-03-01,C1739,tea tree oil toner ,toners ,30.53,3,no,
+598,2025-05-06,C1182,eye repair cream,eye care  ,20.06,2,no,Drunk_Elephant
+599,2024-12-08,C1762,charcoal face mask.,masks.,18.62,1,no,Glow_Recipe
+600,2025-01-01,C1117,eye repair cream_,eye care-,11.89,3,,La_Roche-Posay
+601,2025-02-10,C1046,hydrating facial cleanser  ,cleansers_,14.76,4,no,Cetaphil
+602,2025-01-01,C1558,vitamin c serum ,serums_,43.54,3,no,Neutrogena 
+603,2025-05-23,C1836,retinol night cream_,moisturizers,21.28,1, n ,
+604,2025-02-20,C1137,eye repair cream.,eye care-,35.89,1,no,Eucerin
+605,2025-02-08,C1914,vitamin c serum.,serums-,26.41,1,no,La Roche-Posay 
+606,2025-04-25,C1921,,cleansers.,7.32,2,no,Paula's_Choice
+607,2025-02-17,C1355,daily sunscreen spf 50.,sun protection,30.14,2, n ,Neutrogena
+608,2025-04-03,C1637,tea tree oil toner  ,toners  ,19.67,2,no,glow recipe
+609,2025-05-17,C1611,tea tree oil toner.,toners.,24.72,1,no,
+610,2025-02-25,C1685,tea tree oil toner ,toners-,42.72,2,yes,Eucerin 
+611,2025-03-13,C1984,hydrating facial cleanser_,cleansers ,15.02,3, y ,Drunk Elephant 
+612,2025-02-04,C1407,makeup remover balm_,makeup removers,28.02,4,yes,the ordinary
+613,2025-01-15,C1950,hydrating facial cleanser ,cleansers,24.0,4,no,Neutrogena
+614,2025-02-08,C1905,daily sunscreen spf 50.,sun protection-,22.96,4,no,Rhode 
+615,2025-05-02,C1581,hydrating facial cleanser ,cleansers.,34.14,2,no,NEUTROGENA
+616,2025-04-26,C1227,tea tree oil toner_,toners_,16.97,4,no,the ordinary
+617,2025-02-03,C1398,retinol night cream.,moisturizers,0.76,3,yes,Glow_Recipe
+618,2025-05-09,C1202,hyaluronic acid ,serums  ,33.84,2,no,EUCERIN
+619,2024-12-14,C1665,makeup remover balm,makeup removers  ,,3,no,DRUNK ELEPHANT
+620,2025-02-19,C1141,charcoal face mask,masks ,30.16,4,no,The Ordinary 
+621,2024-12-22,C1304,daily sunscreen spf 50-,sun protection-,32.94,2,no,Eucerin-
+622,2024-12-17,C1852,daily sunscreen spf 50  ,sun protection_,12.46,3,no,The_Ordinary
+623,2025-05-08,C1628,makeup remover balm  ,makeup removers.,8.85,1,yes,Paula's Choice 
+624,2025-04-08,C1326,retinol night cream-,moisturizers,36.65,4,no,
+625,2025-05-22,C1353,daily sunscreen spf 50.,sun protection  ,29.7,4,no,EUCERIN
+626,2025-03-10,C1680,vitamin c serum_,serums ,44.15,4,no,the ordinary
+627,2025-06-04,C1197,charcoal face mask-,masks  ,27.39,2,yes,
+628,2025-05-10,C1852,tea tree oil toner.,toners.,39.29,2,no,Eucerin-
+629,2025-04-07,C1097,charcoal face mask  ,masks_,29.04,1,no,Drunk Elephant 
+630,2024-12-13,C1636,makeup remover balm  ,makeup removers-,16.16,4,no,Eucerin 
+631,2025-03-31,C1955,vitamin c serum  ,serums_,16.57,3,no,Paula's Choice 
+632,2025-05-06,C1703,daily sunscreen spf 50  ,sun protection_,35.03,3,no,Drunk_Elephant
+633,2024-12-17,C1531,exfoliating scrub  ,exfoliators,24.86,4,no,PAULA'S CHOICE
+634,2025-01-24,C1877,eye repair cream.,eye care.,39.57,2,no,PAULA'S CHOICE
+635,2025-04-01,C1922,tea tree oil toner,toners  ,28.58,4,no,
+636,2025-01-26,C1057,hyaluronic acid_,serums,16.63,1,no,Paula's_Choice
+637,2025-03-26,C1253,hydrating facial cleanser ,cleansers ,28.67,2,yes,glow recipe
+638,2025-05-10,C1096,tea tree oil toner ,toners.,40.88,3, y ,Rhode 
+639,2025-03-27,C1600,exfoliating scrub  ,exfoliators ,37.65,3,no,EUCERIN
+640,2024-12-21,C1914,hyaluronic acid ,serums_,20.37,3,no,
+641,2025-02-04,C1919,retinol night cream ,moisturizers_,11.43,4,no,
+642,2025-04-07,C1163,tea tree oil toner-,toners,,4,no,DRUNK ELEPHANT
+643,2024-12-15,C1943,hydrating facial cleanser.,cleansers_,15.57,1,no,CeraVe
+644,2025-05-20,C1553,hyaluronic acid ,serums  ,13.76,2,no,cerave
+645,2025-04-26,C1386,makeup remover balm_,makeup removers.,45.2,2,no,CERAVE
+646,2024-12-20,C1625,daily sunscreen spf 50-,sun protection  ,6.7,1, y ,Rhode 
+647,2025-03-25,C1519,vitamin c serum.,serums-,25.27,4,no,CETAPHIL
+648,2025-03-08,C1687,eye repair cream,eye care ,12.17,1,no,RHODE
+649,2024-12-18,C1786,hydrating facial cleanser_,cleansers_,23.0,2, n ,EUCERIN
+650,2025-03-21,C1906,hydrating facial cleanser-,cleansers  ,13.37,4,no,PAULA'S CHOICE
+651,2025-04-12,C1532,,cleansers,30.21,3,no,EUCERIN
+652,2025-01-04,C1259,eye repair cream-,eye care-,25.06,2,no,Neutrogena 
+653,2025-05-21,C1352,hyaluronic acid  ,serums  ,16.38,1,no,
+654,2025-05-21,C1929,makeup remover balm.,makeup removers_,28.64,4,no,Glow Recipe 
+655,2024-12-08,C1476,retinol night cream_,moisturizers  ,19.76,3,no,The Ordinary_
+656,2025-01-25,C1433,tea tree oil toner ,toners_,12.43,1,no,La Roche-Posay 
+657,2025-05-15,C1942,hyaluronic acid.,serums  ,27.86,1,no,Drunk Elephant-
+658,2025-02-17,C1724,,serums-,20.71,4,no,eucerin
+659,2025-02-06,C1985,retinol night cream_,moisturizers  ,32.37,4,no,Neutrogena.
+660,2025-03-20,C1759,retinol night cream  ,moisturizers  ,19.33,4,no,Neutrogena
+661,2025-02-02,C1040,daily sunscreen spf 50.,sun protection-,27.44,3,no,CeraVe 
+662,2025-01-08,C1313,daily sunscreen spf 50.,sun protection  ,20.41,3,no,drunk elephant
+663,2025-03-21,C1836,hydrating facial cleanser,cleansers ,13.58,4,no,Neutrogena
+664,2025-02-19,C1782,tea tree oil toner_,toners.,45.15,4,no,Glow Recipe-
+665,2025-04-28,C1155,vitamin c serum,serums-,20.11,3,no,eucerin
+666,2025-03-23,C1200,tea tree oil toner-,toners  ,27.97,3,no,Cetaphil
+667,2025-03-26,C1190,hydrating facial cleanser ,cleansers,33.68,3,no,CETAPHIL
+668,2025-01-21,C1628,tea tree oil toner ,toners_,21.22,1,yes,EUCERIN
+669,2025-02-07,C1550,vitamin c serum-,serums-,39.58,4,no,Rhode
+670,2025-04-24,C1844,daily sunscreen spf 50  ,sun protection.,,1,no,La Roche-Posay 
+671,2025-02-17,C1406,charcoal face mask  ,masks_,27.82,2,no,GLOW RECIPE
+672,2025-02-23,C1887,makeup remover balm_,makeup removers  ,32.47,3,no,CeraVe.
+673,2025-04-03,C1546,hyaluronic acid-,serums.,11.86,1,no,The Ordinary-
+674,2025-05-16,C1845,makeup remover balm_,makeup removers,,3, n ,RHODE
+675,2025-02-16,C1153,tea tree oil toner-,toners ,21.22,4,no,CeraVe
+676,2025-02-15,C1943,daily sunscreen spf 50,sun protection_,24.84,2,no,Paula's Choice.
+677,2025-01-02,C1326,hyaluronic acid,serums-,30.41,4,yes,Eucerin 
+678,2025-04-20,C1762,tea tree oil toner-,toners.,33.85,2,no,The Ordinary 
+679,2025-05-09,C1397,retinol night cream-,moisturizers-,,3,no,drunk elephant
+680,2025-02-04,C1828,charcoal face mask_,masks  ,47.34,4,no,
+681,2025-04-08,C1375,tea tree oil toner.,toners.,23.8,1,yes,
+682,2024-12-04,C1202,exfoliating scrub_,exfoliators_,22.81,4,no,Cetaphil 
+683,2025-02-04,C1775,tea tree oil toner,toners,31.56,3, y ,CERAVE
+684,2024-12-09,C1621,daily sunscreen spf 50_,sun protection_,40.28,2,no,Eucerin
+685,2025-02-05,C1669,tea tree oil toner ,toners  ,30.59,2,no,
+686,2025-04-02,C1575,hyaluronic acid ,serums,47.53,4,no,THE ORDINARY
+687,2025-04-28,C1275,hyaluronic acid  ,serums.,28.53,1,yes,Glow Recipe 
+688,2025-03-12,C1928,charcoal face mask,masks-,38.93,1,no,NEUTROGENA
+689,2024-12-15,C1976,tea tree oil toner,toners_,26.82,1,no,rhode
+690,2025-01-14,C1064,charcoal face mask-,masks_,42.09,2,no,neutrogena
+691,2025-06-04,C1604,vitamin c serum  ,serums ,13.8,3,no,Paula's_Choice
+692,2025-04-07,C1818,exfoliating scrub_,exfoliators-,23.9,2,no,Drunk_Elephant
+693,2025-05-18,C1454,hyaluronic acid.,serums-,39.32,3,no,Rhode-
+694,2025-01-01,C1405,vitamin c serum ,serums-,22.28,4,no,Drunk Elephant 
+695,2024-12-06,C1768,makeup remover balm.,makeup removers  ,16.04,3,no,PAULA'S CHOICE
+696,2025-01-12,C1261,hyaluronic acid_,serums  ,15.69,4,no,RHODE
+697,2025-01-05,C1379,vitamin c serum_,serums_,26.06,3,no,RHODE
+698,2025-06-03,C1092,exfoliating scrub_,exfoliators-,20.3,2, n ,
+699,2025-03-30,C1748,makeup remover balm.,makeup removers-,47.96,2,no,CeraVe
+700,2025-04-16,C1652,vitamin c serum,serums  ,19.93,4,no,Rhode 
+701,2025-02-10,C1554,daily sunscreen spf 50  ,sun protection.,36.59,1,no,CeraVe 
+702,2025-04-30,C1601,hyaluronic acid_,serums,26.21,4,no,neutrogena
+703,2025-05-12,C1362,makeup remover balm ,makeup removers  ,1.16,4,no,drunk elephant
+704,2025-04-05,C1776,daily sunscreen spf 50  ,sun protection  ,,2, n ,Eucerin.
+705,2025-01-03,C1818,exfoliating scrub_,exfoliators,,1,no,CERAVE
+706,2024-12-04,C1040,tea tree oil toner ,toners  ,33.54,3,no,EUCERIN
+707,2025-03-04,C1000,makeup remover balm  ,makeup removers_,24.36,3,no,La Roche-Posay-
+708,2024-12-14,C1331,tea tree oil toner ,toners  ,19.1,4,no,
+709,2024-12-12,C1239,retinol night cream-,moisturizers,28.44,1,no,
+710,2025-03-19,C1102,charcoal face mask.,masks,32.69,1,no,Rhode
+711,2025-01-04,C1849,vitamin c serum.,serums_,33.11,1,no,LA ROCHE-POSAY
+712,2025-05-03,C1989,daily sunscreen spf 50-,sun protection_,30.35,2,no,the ordinary
+713,2025-02-22,C1411,makeup remover balm ,makeup removers ,30.88,1,no,LA ROCHE-POSAY
+714,2025-05-25,C1736,makeup remover balm_,makeup removers-,35.86,4,no,CeraVe_
+715,2025-01-11,C1958,exfoliating scrub.,exfoliators.,8.26,1, n ,The Ordinary
+716,2025-01-25,C1449,tea tree oil toner_,toners  ,,1,no,
+717,2025-02-22,C1117,charcoal face mask_,masks ,27.32,2,no,Cetaphil
+718,2025-03-15,C1539,retinol night cream-,moisturizers.,34.14,1,no,the ordinary
+719,2025-04-22,C1677,,exfoliators_,29.52,1, y ,CeraVe 
+720,2025-04-13,C1295,hyaluronic acid.,serums_,14.25,3,no,The Ordinary
+721,2025-03-26,C1832,makeup remover balm_,makeup removers,30.59,4,no,
+722,2025-04-13,C1985,hyaluronic acid  ,serums-,34.18,3,no,drunk elephant
+723,2025-04-22,C1795,eye repair cream  ,eye care,23.25,4,no,NEUTROGENA
+724,2024-12-26,C1657,exfoliating scrub,exfoliators,10.15,1,no,cetaphil
+725,2025-04-25,C1633,retinol night cream_,moisturizers ,17.61,1,no,LA ROCHE-POSAY
+726,2025-05-21,C1865,eye repair cream-,eye care.,,2,no,La_Roche-Posay
+727,2024-12-27,C1062,charcoal face mask,masks  ,15.71,4, y ,The Ordinary-
+728,2024-12-20,C1559,makeup remover balm,makeup removers.,3.44,3,no,La Roche-Posay
+729,2025-01-06,C1439,,toners-,24.22,4,no,
+730,2025-01-16,C1195,hyaluronic acid ,serums  ,21.54,4,no,
+731,2025-05-18,C1987,vitamin c serum.,serums  ,23.46,2,no,The Ordinary 
+732,2025-01-17,C1478,exfoliating scrub,exfoliators_,29.31,3,no,Paula's Choice 
+733,2024-12-19,C1324,charcoal face mask_,masks-,29.36,1,no,The Ordinary 
+734,2025-05-31,C1627,exfoliating scrub ,exfoliators-,38.26,4,no,RHODE
+735,2025-04-25,C1876,vitamin c serum ,serums_,40.15,3,no,Paula's Choice 
+736,2025-01-25,C1375,charcoal face mask,masks_,45.36,2,no,
+737,2025-04-21,C1154,retinol night cream.,moisturizers,25.28,1,no,drunk elephant
+738,2024-12-31,C1447,exfoliating scrub ,exfoliators  ,29.18,2,yes,
+739,2024-12-05,C1910,hyaluronic acid.,serums-,7.33,2,no,Neutrogena
+740,2025-04-01,C1484,charcoal face mask ,masks_,10.49,1,no,glow recipe
+741,2025-04-06,C1086,vitamin c serum,serums.,20.86,4,no,Paula's Choice 
+742,2024-12-13,C1200,eye repair cream.,eye care.,35.71,2,no,CeraVe 
+743,2025-04-06,C1277,tea tree oil toner-,toners.,23.93,1, n ,EUCERIN
+744,2024-12-26,C1488,charcoal face mask,masks.,29.48,4,,Drunk_Elephant
+745,2025-02-16,C1342,daily sunscreen spf 50  ,,42.33,2,no,cetaphil
+746,2025-03-11,C1353,makeup remover balm  ,makeup removers,47.31,3,no,CERAVE
+747,2025-05-21,C1382,hyaluronic acid,serums_,17.12,1,no,glow recipe
+748,2025-04-11,C1138,vitamin c serum.,serums-,18.79,4,no,Drunk Elephant-
+749,2025-04-29,C1636,daily sunscreen spf 50 ,sun protection-,5.21,4,no,la roche-posay
+750,2025-05-04,C1865,hydrating facial cleanser  ,cleansers ,32.48,3,no,Cetaphil 
+751,2025-02-02,C1849,vitamin c serum_,serums ,-0.3,1,no,Neutrogena 
+752,2025-03-30,C1663,vitamin c serum  ,serums  ,22.14,4,no,The Ordinary 
+753,2025-05-10,C1516,tea tree oil toner ,toners,12.7,1,no,la roche-posay
+754,2025-01-23,C1885,makeup remover balm.,makeup removers-,29.97,1,no,
+755,2025-03-02,C1245,exfoliating scrub,exfoliators  ,27.54,1,no,Glow Recipe
+756,2025-02-28,C1486,daily sunscreen spf 50_,sun protection_,29.68,1,no,Glow Recipe.
+757,2025-02-09,C1523,charcoal face mask  ,masks,27.69,4,no,The_Ordinary
+758,2025-04-20,C1146,makeup remover balm-,makeup removers.,21.57,2,no,Rhode 
+759,2025-03-26,C1694,charcoal face mask,masks_,15.91,4,no,glow recipe
+760,2025-02-22,C1586,makeup remover balm  ,makeup removers.,25.29,2,no,LA ROCHE-POSAY
+761,2024-12-30,C1703,retinol night cream  ,moisturizers ,31.4,3,no,The Ordinary.
+762,2025-01-07,C1464,tea tree oil toner-,toners ,17.75,1,no,La Roche-Posay.
+763,2024-12-28,C1902,hyaluronic acid,serums ,36.94,3,no,Paula's Choice 
+764,2025-02-14,C1510,hydrating facial cleanser_,cleansers ,21.63,1,no,The Ordinary 
+765,2025-01-11,C1574,eye repair cream_,eye care_,36.66,4,no,EUCERIN
+766,2025-05-02,C1836,daily sunscreen spf 50,sun protection ,22.96,2,no,RHODE
+767,2025-03-13,C1113,vitamin c serum ,serums-,48.33,3,no,Glow_Recipe
+768,2024-12-24,C1725,vitamin c serum_,serums  ,26.92,4, y ,
+769,2025-04-09,C1276,tea tree oil toner_,toners_,34.52,2,no,Paula's_Choice
+770,2025-03-26,C1680,hydrating facial cleanser ,cleansers_,36.01,4,no,CeraVe
+771,2025-03-15,C1162,vitamin c serum_,serums,16.06,1,no,
+772,2025-02-16,C1793,makeup remover balm_,makeup removers,18.16,3,no,Drunk_Elephant
+773,2025-03-29,C1291,makeup remover balm,makeup removers  ,19.64,3,yes,Neutrogena 
+774,2025-01-01,C1910,hydrating facial cleanser  ,cleansers_,33.57,1,no,neutrogena
+775,2025-04-27,C1200,eye repair cream.,eye care_,29.21,1,no,drunk elephant
+776,2025-01-11,C1546,charcoal face mask,masks-,19.06,3,no,Cetaphil 
+777,2025-04-12,C1973,retinol night cream.,moisturizers_,17.33,1,no,
+778,2025-01-25,C1990,,cleansers_,27.12,4,no,
+779,2025-04-18,C1972,exfoliating scrub-,exfoliators.,23.09,3,no,Neutrogena 
+780,2025-03-28,C1044,daily sunscreen spf 50_,sun protection-,19.52,1,no,RHODE
+781,2024-12-20,C1656,eye repair cream ,eye care-,25.3,4,no,neutrogena
+782,2025-03-12,C1379,makeup remover balm_,makeup removers-,31.09,3,no,Eucerin 
+783,2025-02-27,C1183,eye repair cream  ,eye care ,23.21,2,no,CeraVe 
+784,2024-12-28,C1289,tea tree oil toner  ,toners ,25.83,3,no,cetaphil
+785,2025-04-09,C1566,makeup remover balm_,makeup removers  ,33.73,2,no,paula's choice
+786,2024-12-07,C1230,hydrating facial cleanser,cleansers ,18.7,3,yes,Neutrogena 
+787,2024-12-24,C1780,,sun protection.,9.59,1,no,Neutrogena 
+788,2024-12-18,C1786,eye repair cream_,eye care  ,23.67,1,no,
+789,2025-05-03,C1543,vitamin c serum  ,serums-,16.45,1,no,
+790,2025-04-01,C1483,makeup remover balm.,makeup removers ,,2,no,Neutrogena
+791,2025-01-27,C1177,hyaluronic acid_,serums ,18.51,4,no,The Ordinary-
+792,2025-05-20,C1052,vitamin c serum,serums.,26.89,4,no,CeraVe
+793,2025-03-24,C1058,charcoal face mask ,masks_,,3,no,Paula's Choice-
+794,2024-12-19,C1011,makeup remover balm.,makeup removers  ,38.7,3,no,GLOW RECIPE
+795,2024-12-19,C1638,daily sunscreen spf 50 ,sun protection_,6.67,2,no,cerave
+796,2025-02-22,C1560,hydrating facial cleanser.,cleansers ,24.72,3,no,eucerin
+797,2025-04-05,C1208,daily sunscreen spf 50.,sun protection,18.74,4,no,paula's choice
+798,2025-01-16,C1775,charcoal face mask.,masks  ,25.15,3,no,drunk elephant
+799,2025-01-16,C1618,hyaluronic acid.,serums-,16.42,3,no,PAULA'S CHOICE
+800,2025-02-13,C1673,tea tree oil toner,toners.,36.26,3,no,DRUNK ELEPHANT
+801,2025-05-18,C1082,hyaluronic acid.,,35.27,3, n ,Drunk_Elephant
+802,2025-06-04,C1567,daily sunscreen spf 50 ,sun protection.,18.36,1,no,Cetaphil 
+803,2025-01-09,C1728,retinol night cream_,moisturizers ,24.34,1, n ,cetaphil
+804,2025-05-23,C1174,daily sunscreen spf 50 ,sun protection  ,44.82,4,no,Paula's Choice 
+805,2024-12-18,C1535,hyaluronic acid ,serums  ,30.22,1,no,La_Roche-Posay
+806,2025-01-18,C1451,hyaluronic acid_,serums.,16.84,4,no,the ordinary
+807,2025-05-18,C1722,tea tree oil toner_,toners,14.45,1,no,Neutrogena
+808,2025-03-21,C1912,tea tree oil toner.,toners_,35.58,4,,DRUNK ELEPHANT
+809,2025-03-28,C1354,charcoal face mask.,masks-,29.08,4,no,neutrogena
+810,2025-01-12,C1767,eye repair cream ,eye care_,23.75,3,no,Paula's Choice 
+811,2025-05-30,C1012,makeup remover balm,makeup removers_,10.95,4,no,Cetaphil
+812,2025-01-05,C1099,tea tree oil toner,,10.84,2,no,the ordinary
+813,2025-03-01,C1821,hyaluronic acid-,serums_,21.03,1,no,Eucerin
+814,2025-02-08,C1099,vitamin c serum_,serums.,29.83,4,no,la roche-posay
+815,2025-05-19,C1775,exfoliating scrub ,exfoliators-,34.71,2,no,glow recipe
+816,2024-12-16,C1002,exfoliating scrub-,exfoliators.,41.02,3,no,Rhode
+817,2025-04-14,C1821,hyaluronic acid,serums  ,35.75,1,no,
+818,2025-01-06,C1532,eye repair cream ,eye care ,11.31,2,no,CETAPHIL
+819,2025-05-10,C1053,hydrating facial cleanser ,cleansers-,16.22,1,no,the ordinary
+820,2024-12-17,C1814,makeup remover balm_,makeup removers  ,10.87,2,no,Drunk_Elephant
+821,2025-04-12,C1397,charcoal face mask,masks-,9.75,2,no,
+822,2025-06-01,C1386,daily sunscreen spf 50-,sun protection  ,13.66,2,yes,Drunk Elephant 
+823,2025-03-20,C1540,exfoliating scrub_,,32.79,2,no,Eucerin
+824,2025-02-14,C1377,retinol night cream.,moisturizers  ,0.9,3,no,cerave
+825,2025-04-19,C1783,makeup remover balm ,makeup removers.,45.18,4,no,Glow_Recipe
+826,2025-05-14,C1603,tea tree oil toner,toners-,27.16,3,no,CeraVe
+827,2025-03-12,C1735,vitamin c serum  ,serums.,22.62,2,no,The Ordinary 
+828,2025-03-23,C1054,retinol night cream,moisturizers ,26.92,1,no,Drunk Elephant
+829,2025-02-02,C1719,daily sunscreen spf 50_,sun protection  ,3.38,2,no,
+830,2025-03-16,C1972,exfoliating scrub  ,exfoliators_,27.56,3,no,LA ROCHE-POSAY
+831,2025-04-27,C1058,hydrating facial cleanser ,cleansers  ,31.7,4,no,
+832,2025-01-28,C1924,retinol night cream ,moisturizers ,31.77,4,no,CeraVe 
+833,2025-04-07,C1123,tea tree oil toner_,toners,,4,no,cerave
+834,2025-02-13,C1515,retinol night cream,moisturizers.,17.03,3,no,Neutrogena 
+835,2025-05-15,C1528,eye repair cream.,eye care ,30.37,4,no,
+836,2025-01-30,C1198,vitamin c serum_,serums ,,3,no,rhode
+837,2025-04-22,C1338,exfoliating scrub-,exfoliators-,28.39,2,no,The Ordinary
+838,2025-03-02,C1455,tea tree oil toner ,toners  ,15.06,3,,CeraVe-
+839,2025-05-20,C1832,charcoal face mask-,masks_,12.02,4,no,Neutrogena 
+840,2025-01-16,C1101,tea tree oil toner_,toners ,40.78,1, n ,PAULA'S CHOICE
+841,2025-05-07,C1685,daily sunscreen spf 50 ,sun protection.,,3,yes,cetaphil
+842,2025-05-23,C1881,,serums.,6.64,2,no,CERAVE
+843,2025-04-09,C1737,tea tree oil toner.,toners,14.11,2,no,Paula's_Choice
+844,2025-05-08,C1121,hydrating facial cleanser_,cleansers.,23.44,3,no,Eucerin 
+845,2025-01-19,C1445,hyaluronic acid ,serums  ,19.7,2, y ,
+846,2025-05-04,C1301,daily sunscreen spf 50,sun protection-,27.25,2,no,
+847,2025-04-11,C1519,charcoal face mask  ,masks  ,19.36,2,no,CeraVe_
+848,2025-03-31,C1619,daily sunscreen spf 50-,sun protection ,24.17,4,no,THE ORDINARY
+849,2025-05-30,C1680,tea tree oil toner_,toners-,29.48,4,no,The_Ordinary
+850,2025-06-04,C1251,,cleansers,28.71,4,no,Rhode 
+851,2025-04-09,C1273,daily sunscreen spf 50.,sun protection ,25.48,3,no,CERAVE
+852,2025-03-07,C1869,vitamin c serum,serums-,28.32,3,no,LA ROCHE-POSAY
+853,2024-12-23,C1796,,toners-,26.63,4,no,La Roche-Posay 
+854,2025-01-18,C1272,vitamin c serum,serums.,25.41,3,no,
+855,2025-04-10,C1519,hyaluronic acid.,serums-,25.27,2, n ,Rhode
+856,2025-02-10,C1477,hyaluronic acid-,serums-,30.72,1,no,La_Roche-Posay
+857,2025-01-28,C1592,retinol night cream_,moisturizers  ,15.39,1,no,CeraVe
+858,2025-03-18,C1753,,sun protection ,33.31,3, n ,Glow Recipe 
+859,2025-05-30,C1547,makeup remover balm,makeup removers.,24.94,1,no,NEUTROGENA
+860,2025-03-06,C1155,hydrating facial cleanser  ,cleansers ,40.62,1,no,Eucerin
+861,2025-01-29,C1871,hydrating facial cleanser ,cleansers.,31.29,4,no,
+862,2024-12-29,C1943,hydrating facial cleanser_,cleansers  ,12.31,2,no,cerave
+863,2025-02-03,C1875,retinol night cream ,moisturizers ,23.46,1,no,Neutrogena.
+864,2025-02-28,C1739,hydrating facial cleanser,cleansers.,16.27,1,yes,Rhode 
+865,2024-12-10,C1128,vitamin c serum-,serums ,17.42,3, n ,Paula's Choice.
+866,2024-12-22,C1326,exfoliating scrub-,exfoliators  ,9.34,4,no,Glow Recipe 
+867,2025-04-17,C1610,vitamin c serum.,serums,11.56,1,yes,Cetaphil 
+868,2025-02-03,C1857,tea tree oil toner ,toners_,8.97,1,no,la roche-posay
+869,2025-04-28,C1692,daily sunscreen spf 50_,sun protection_,36.92,4,no,paula's choice
+870,2024-12-23,C1960,daily sunscreen spf 50_,sun protection.,19.08,3,no,Cetaphil_
+871,2024-12-24,C1854,vitamin c serum,serums_,17.9,1, n ,Paula's Choice
+872,2025-02-12,C1040,retinol night cream  ,moisturizers_,19.02,2,no,La Roche-Posay
+873,2025-01-13,C1579,makeup remover balm ,makeup removers_,27.14,1,no,RHODE
+874,2024-12-07,C1823,retinol night cream_,moisturizers  ,23.11,1,no,
+875,2025-04-01,C1108,hydrating facial cleanser ,cleansers,30.49,2,no,
+876,2025-04-20,C1326,eye repair cream  ,eye care-,51.34,4,no,
+877,2025-03-26,C1873,,exfoliators_,21.84,2,no,CeraVe
+878,2025-01-27,C1627,tea tree oil toner,toners-,36.03,4,no,CETAPHIL
+879,2025-05-28,C1614,eye repair cream.,eye care  ,18.44,4,no,Neutrogena.
+880,2025-03-24,C1504,retinol night cream.,moisturizers,17.07,2,no,The Ordinary-
+881,2024-12-13,C1706,hyaluronic acid_,serums-,10.94,3,no,Cetaphil 
+882,2025-02-20,C1039,vitamin c serum_,serums  ,15.69,3,no,DRUNK ELEPHANT
+883,2025-05-19,C1952,charcoal face mask.,masks  ,18.47,4,no,
+884,2025-03-21,C1247,vitamin c serum ,serums_,37.13,1,no,Glow Recipe 
+885,2025-02-07,C1829,charcoal face mask-,masks.,28.68,3,no,Rhode 
+886,2025-05-10,C1760,exfoliating scrub-,exfoliators  ,23.2,1,yes,
+887,2025-05-18,C1390,charcoal face mask_,masks ,23.26,1, n ,Paula's Choice
+888,2024-12-19,C1316,,exfoliators-,19.48,3,no,Drunk_Elephant
+889,2025-01-13,C1987,daily sunscreen spf 50_,sun protection,34.95,2,no,eucerin
+890,2025-01-14,C1510,,sun protection ,23.37,4,no,La Roche-Posay 
+891,2025-03-04,C1305,daily sunscreen spf 50_,sun protection_,14.16,1,no,DRUNK ELEPHANT
+892,2024-12-05,C1536,hydrating facial cleanser-,cleansers.,43.13,2,no,CeraVe 
+893,2025-01-03,C1378,hyaluronic acid ,serums.,16.46,1,no,La Roche-Posay 
+894,2025-01-25,C1550,hyaluronic acid  ,serums,15.76,3,no,neutrogena
+895,2024-12-30,C1752,,masks_,32.05,2,no,NEUTROGENA
+896,2025-04-11,C1798,eye repair cream,eye care,17.49,4,yes,Neutrogena 
+897,2025-04-10,C1009,eye repair cream-,eye care,26.33,1, n ,
+898,2025-01-01,C1835,charcoal face mask,masks  ,7.51,2,no,eucerin
+899,2025-03-13,C1101,hydrating facial cleanser.,cleansers_,26.45,3,no,Drunk_Elephant
+900,2025-05-30,C1728,vitamin c serum,serums  ,29.91,1,no,Drunk_Elephant
+901,2025-04-10,C1890,charcoal face mask_,masks_,12.94,3,no,
+902,2024-12-05,C1406,vitamin c serum ,serums.,23.19,2, y ,rhode
+903,2025-02-10,C1140,eye repair cream.,eye care,22.95,1,no,LA ROCHE-POSAY
+904,2025-02-12,C1307,vitamin c serum-,serums_,24.32,2,no,CeraVe
+905,2025-04-21,C1064,makeup remover balm_,makeup removers  ,32.37,1, n ,Paula's Choice 
+906,2025-01-01,C1782,eye repair cream.,eye care  ,36.41,1,no,La_Roche-Posay
+907,2025-01-18,C1850,eye repair cream.,eye care.,0.65,4,no,Eucerin_
+908,2024-12-07,C1487,daily sunscreen spf 50 ,sun protection.,26.44,3,no,
+909,2025-04-02,C1899,vitamin c serum-,serums,29.86,2,no,The Ordinary_
+910,2025-01-15,C1850,vitamin c serum  ,serums,37.48,4,no,
+911,2025-04-25,C1192,vitamin c serum.,serums,28.06,4,yes,rhode
+912,2025-01-28,C1389,tea tree oil toner,toners.,43.42,1,no,NEUTROGENA
+913,2025-05-03,C1451,makeup remover balm.,makeup removers_,29.21,1,no,cetaphil
+914,2025-03-24,C1375,hydrating facial cleanser-,cleansers_,21.97,4,no,
+915,2024-12-09,C1951,hydrating facial cleanser.,cleansers ,25.06,4,no,Cetaphil
+916,2025-01-15,C1783,hydrating facial cleanser,cleansers-,38.53,3,no,cerave
+917,2025-02-10,C1123,exfoliating scrub,exfoliators,25.27,4,no,
+918,2025-03-13,C1125,eye repair cream_,eye care  ,26.02,1,no,The Ordinary_
+919,2025-05-10,C1096,makeup remover balm,makeup removers ,12.73,4,no,
+920,2025-01-10,C1845,hydrating facial cleanser,cleansers ,20.65,1,no,paula's choice
+921,2025-03-09,C1879,vitamin c serum,serums.,10.68,1,no,eucerin
+922,2024-12-08,C1196,makeup remover balm.,makeup removers,30.97,1,no,the ordinary
+923,2025-05-31,C1590,hydrating facial cleanser_,cleansers.,26.65,4,no,CETAPHIL
+924,2025-04-24,C1402,vitamin c serum,serums  ,24.59,3,no,cerave
+925,2025-04-05,C1337,hyaluronic acid-,serums ,29.73,4,no,CeraVe 
+926,2025-04-22,C1568,charcoal face mask.,masks-,38.36,3,no,Cetaphil
+927,2025-03-30,C1517,makeup remover balm  ,makeup removers ,24.73,2,no,
+928,2025-01-11,C1317,makeup remover balm ,makeup removers-,22.33,2,no,Rhode 
+929,2025-05-29,C1730,charcoal face mask ,masks.,11.62,4,no,Paula's_Choice
+930,2025-03-30,C1386,vitamin c serum.,serums ,27.39,1,no,RHODE
+931,2025-01-15,C1791,eye repair cream-,eye care.,24.17,4,no,Neutrogena.
+932,2025-05-17,C1153,daily sunscreen spf 50 ,sun protection ,10.5,2,no,Rhode 
+933,2025-02-20,C1019,charcoal face mask_,masks.,17.78,1, y ,Cetaphil
+934,2025-03-26,C1147,hyaluronic acid  ,serums,26.77,3,no,eucerin
+935,2025-05-09,C1308,makeup remover balm_,makeup removers-,41.73,3,no,CeraVe 
+936,2025-01-29,C1133,tea tree oil toner-,toners ,38.4,2,no,Neutrogena
+937,2024-12-07,C1325,hydrating facial cleanser.,cleansers-,33.11,1,no,cerave
+938,2025-05-21,C1058,hyaluronic acid,serums ,13.52,1,no,Drunk Elephant 
+939,2024-12-14,C1984,tea tree oil toner  ,toners.,35.18,1,no,GLOW RECIPE
+940,2024-12-08,C1314,hydrating facial cleanser_,cleansers  ,27.71,2,no,Cetaphil
+941,2025-02-12,C1867,charcoal face mask_,masks_,30.51,3,no,
+942,2025-04-06,C1283,makeup remover balm,makeup removers-,28.41,2,no,EUCERIN
+943,2025-01-03,C1163,hyaluronic acid_,serums_,11.18,3,no,paula's choice
+944,2025-02-01,C1419,makeup remover balm  ,makeup removers,40.41,3, n ,Cetaphil
+945,2024-12-31,C1175,daily sunscreen spf 50-,sun protection ,32.58,4,no,Cetaphil
+946,2025-05-14,C1369,makeup remover balm ,makeup removers-,39.59,2,no,Eucerin 
+947,2025-02-23,C1126,retinol night cream ,moisturizers_,16.66,4,no,THE ORDINARY
+948,2025-02-15,C1270,eye repair cream.,eye care-,,1,no,CETAPHIL
+949,2025-01-25,C1247,hyaluronic acid-,serums,25.54,3,yes,the ordinary
+950,2025-02-21,C1376,vitamin c serum  ,serums  ,38.47,4,no,rhode
+951,2025-04-17,C1368,exfoliating scrub,exfoliators_,37.2,1,yes,Drunk_Elephant
+952,2025-02-06,C1479,,masks-,35.36,1,no,Paula's Choice 
+953,2024-12-18,C1330,exfoliating scrub_,exfoliators  ,15.27,2,no,Glow_Recipe
+954,2025-02-21,C1303,hydrating facial cleanser-,cleansers.,6.23,4,yes,Neutrogena
+955,2025-01-08,C1442,,serums ,32.68,3,no,PAULA'S CHOICE
+956,2025-05-21,C1685,hydrating facial cleanser-,,21.67,3,no,Neutrogena 
+957,2025-03-01,C1749,tea tree oil toner ,toners ,28.3,3,no,
+958,2025-05-17,C1489,retinol night cream_,moisturizers_,,4,yes,Neutrogena
+959,2025-03-23,C1368,makeup remover balm ,makeup removers,11.24,3,no,
+960,2025-05-05,C1693,vitamin c serum,serums  ,21.6,4,no,
+961,2025-03-29,C1187,retinol night cream,moisturizers,20.8,2,no,cetaphil
+962,2025-05-07,C1419,charcoal face mask  ,masks  ,38.63,2,no,Glow Recipe 
+963,2025-05-17,C1865,,toners_,13.46,3,yes,
+964,2025-05-06,C1138,exfoliating scrub.,exfoliators-,26.14,3,no,Rhode_
+965,2025-03-26,C1572,retinol night cream.,moisturizers-,12.08,2,no,CeraVe
+966,2024-12-04,C1835,makeup remover balm-,makeup removers_,29.27,3,no,EUCERIN
+967,2025-05-28,C1753,charcoal face mask  ,masks  ,18.19,3,no,neutrogena
+968,2024-12-21,C1037,charcoal face mask  ,masks.,15.98,1,no,
+969,2025-01-08,C1020,charcoal face mask_,masks.,25.42,1,no,
+970,2024-12-30,C1620,tea tree oil toner-,toners ,14.96,2,no,la roche-posay
+971,2025-04-17,C1195,hyaluronic acid,serums,,4,no,Glow_Recipe
+972,2025-04-16,C1311,hyaluronic acid_,serums-,37.68,4,no,DRUNK ELEPHANT
+973,2025-06-03,C1051,hyaluronic acid,serums  ,8.77,1,no,Paula's Choice-
+974,2025-03-17,C1310,daily sunscreen spf 50.,sun protection_,28.53,4,no,cetaphil
+975,2025-02-09,C1176,exfoliating scrub.,exfoliators-,31.16,1,no,eucerin
+976,2024-12-14,C1847,vitamin c serum ,serums.,19.35,2,no,
+977,2025-04-20,C1424,tea tree oil toner,toners  ,35.65,3,no,The_Ordinary
+978,2025-04-25,C1086,makeup remover balm.,makeup removers-,3.6,2,no,Eucerin-
+979,2024-12-12,C1894,makeup remover balm.,makeup removers_,26.75,3,no,Rhode 
+980,2025-03-20,C1238,hyaluronic acid_,serums  ,26.65,2,no,paula's choice
+981,2025-02-12,C1623,retinol night cream ,moisturizers.,15.12,2,no,paula's choice
+982,2025-03-27,C1246,makeup remover balm ,makeup removers_,30.35,3,no,Neutrogena 
+983,2025-02-19,C1413,daily sunscreen spf 50  ,sun protection.,26.12,2,no,Eucerin
+984,2025-03-01,C1415,hyaluronic acid.,serums-,42.45,1,no,DRUNK ELEPHANT
+985,2024-12-26,C1114,vitamin c serum,serums.,22.19,2,no,NEUTROGENA
+986,2025-03-22,C1233,tea tree oil toner_,toners,29.25,4,no,the ordinary
+987,2025-01-22,C1126,exfoliating scrub-,exfoliators  ,10.82,3,no,Cetaphil 
+988,2025-02-01,C1381,retinol night cream_,moisturizers  ,31.0,3,no,neutrogena
+989,2025-03-07,C1288,eye repair cream  ,eye care_,26.13,1,no,the ordinary
+990,2025-02-28,C1194,,masks.,29.45,2,no,Eucerin 
+991,2025-02-08,C1353,daily sunscreen spf 50,sun protection_,35.86,1,no,GLOW RECIPE
+992,2025-05-19,C1896,hyaluronic acid ,serums.,35.55,3,no,
+993,2024-12-11,C1244,retinol night cream.,moisturizers ,30.49,1,no,cerave
+994,2025-05-02,C1294,makeup remover balm_,makeup removers,47.19,4, n ,the ordinary
+995,2025-05-04,C1793,vitamin c serum  ,serums.,29.33,3,no,neutrogena
+996,2025-03-08,C1313,,exfoliators-,16.94,1,no,Cetaphil
+997,2025-05-19,C1170,hydrating facial cleanser,cleansers-,-1.85,1,no,Eucerin.
+998,2025-02-04,C1386,charcoal face mask_,masks  ,27.6,1,no,paula's choice
+999,2024-12-14,C1143,daily sunscreen spf 50.,sun protection ,45.29,4,no,Neutrogena 
+1000,2025-01-22,C1072,tea tree oil toner_,toners ,34.58,1,no,The Ordinary 
+1001,2025-02-25,C1424,retinol night cream-,moisturizers.,37.44,1,no,Eucerin 
+1002,2025-03-27,C1629,hyaluronic acid ,serums ,26.32,3,no,
+1003,2025-01-27,C1936,eye repair cream ,eye care  ,22.61,3,no,Rhode
+1004,2024-12-06,C1138,exfoliating scrub-,exfoliators-,,1,no,Neutrogena 
+1005,2025-02-17,C1383,tea tree oil toner ,toners.,23.15,4,yes,Eucerin 
+1006,2025-03-17,C1647,retinol night cream-,moisturizers  ,18.02,4,no,Glow Recipe-
+1007,2025-05-28,C1334,daily sunscreen spf 50_,sun protection-,22.24,1,no,cetaphil
+1008,2025-01-23,C1048,makeup remover balm ,makeup removers-,34.41,4,no,
+1009,2024-12-16,C1531,charcoal face mask-,masks-,23.06,1,,CeraVe 
+1010,2025-03-18,C1745,vitamin c serum  ,serums  ,18.37,4, n ,rhode
+1011,2025-06-04,C1039,tea tree oil toner,toners_,14.22,2,no,Glow Recipe-
+1012,2025-05-28,C1643,tea tree oil toner ,toners.,18.11,3,no,Rhode
+1013,2025-01-22,C1095,charcoal face mask-,masks.,42.62,2,no,CeraVe 
+1014,2025-05-05,C1897,vitamin c serum_,serums  ,22.17,3,no,
+1015,2025-03-17,C1481,tea tree oil toner_,toners.,22.91,4,no,Paula's Choice 
+1016,2024-12-20,C1047,exfoliating scrub.,exfoliators_,46.1,1,no,Cetaphil
+1017,2025-05-26,C1479,eye repair cream  ,eye care.,38.97,1,no,The_Ordinary
+1018,2025-01-14,C1354,makeup remover balm-,makeup removers ,29.15,2,no,NEUTROGENA
+1019,2025-03-08,C1091,hydrating facial cleanser,cleansers  ,35.74,1,no,paula's choice
+1020,2025-03-17,C1901,daily sunscreen spf 50,sun protection ,40.26,1,no,
+1021,2025-01-15,C1788,eye repair cream-,eye care-,28.56,3,no,La_Roche-Posay
+1022,2024-12-31,C1489,vitamin c serum ,serums_,27.18,4,no,Glow Recipe-
+1023,2025-01-24,C1444,,serums  ,43.65,2,no,
+1024,2025-03-27,C1527,vitamin c serum  ,serums-,36.1,1,no,Paula's_Choice
+1025,2025-01-05,C1385,vitamin c serum  ,serums-,18.7,4,no,Eucerin_
+1026,2025-06-02,C1649,eye repair cream_,eye care ,14.92,2,no,
+1027,2024-12-04,C1177,eye repair cream.,eye care ,11.28,1,no,Neutrogena 
+1028,2024-12-19,C1790,hyaluronic acid  ,serums_,25.31,4,no,Neutrogena_
+1029,2025-03-03,C1504,hydrating facial cleanser,cleansers_,36.08,4,no,Eucerin
+1030,2025-02-08,C1962,retinol night cream ,moisturizers  ,30.97,3,no,CeraVe
+1031,2025-01-04,C1916,daily sunscreen spf 50-,sun protection_,10.78,1,no,drunk elephant
+1032,2025-03-07,C1922,tea tree oil toner  ,toners  ,36.05,2,no,rhode
+1033,2025-01-25,C1206,makeup remover balm_,makeup removers.,9.74,3,no,cetaphil
+1034,2025-06-03,C1886,hydrating facial cleanser-,cleansers-,31.18,4,no,
+1035,2025-06-01,C1676,,eye care.,15.51,4,no,RHODE
+1036,2025-02-23,C1892,daily sunscreen spf 50  ,sun protection_,39.35,3,no,Neutrogena
+1037,2025-03-16,C1813,charcoal face mask,masks  ,21.67,1,no,The_Ordinary
+1038,2025-05-29,C1216,daily sunscreen spf 50-,sun protection,29.92,2,no,CETAPHIL
+1039,2024-12-08,C1913,daily sunscreen spf 50 ,,31.71,4,no,Cetaphil_
+1040,2025-01-18,C1992,retinol night cream_,moisturizers ,22.08,2,no,EUCERIN
+1041,2025-03-28,C1651,exfoliating scrub ,exfoliators.,17.93,4,no,CeraVe-
+1042,2025-03-28,C1090,makeup remover balm,makeup removers.,26.25,3, n ,The_Ordinary
+1043,2025-05-29,C1350,vitamin c serum-,serums-,28.69,1,no,
+1044,2024-12-17,C1780,vitamin c serum ,serums_,28.16,3,no,
+1045,2025-05-02,C1507,retinol night cream,moisturizers ,37.15,3,yes,Rhode_
+1046,2025-02-11,C1597,makeup remover balm ,makeup removers-,19.02,4,no,La Roche-Posay 
+1047,2025-03-28,C1767,makeup remover balm-,makeup removers,38.35,4,no,DRUNK ELEPHANT
+1048,2025-03-08,C1514,exfoliating scrub_,exfoliators  ,31.3,3,yes,
+1049,2025-03-25,C1067,exfoliating scrub-,exfoliators_,34.67,2,no,THE ORDINARY
+1050,2024-12-13,C1018,daily sunscreen spf 50,sun protection.,28.31,1,no,Drunk Elephant_
+1051,2025-02-20,C1047,hyaluronic acid  ,serums  ,42.69,3,no,
+1052,2024-12-13,C1650,,serums_,,3,no,GLOW RECIPE
+1053,2025-05-04,C1900,eye repair cream,eye care_,22.94,1,no,LA ROCHE-POSAY
+1054,2025-04-02,C1561,daily sunscreen spf 50.,sun protection ,,3,no,Eucerin.
+1055,2025-02-16,C1013,charcoal face mask  ,masks ,36.18,4, n ,Neutrogena 
+1056,2024-12-17,C1188,retinol night cream,moisturizers_,30.49,3, n ,DRUNK ELEPHANT
+1057,2024-12-09,C1074,charcoal face mask ,masks,36.9,2,no,Paula's Choice 
+1058,2025-03-01,C1342,retinol night cream  ,moisturizers-,36.71,1,no,LA ROCHE-POSAY
+1059,2025-03-08,C1917,exfoliating scrub.,exfoliators ,36.13,1,yes,Cetaphil 
+1060,2025-05-11,C1838,eye repair cream.,eye care,35.78,3,no,The Ordinary.
+1061,2025-05-16,C1753,retinol night cream-,moisturizers ,12.94,4,yes,CERAVE
+1062,2025-05-12,C1429,vitamin c serum_,serums-,28.73,3,no,The Ordinary.
+1063,2025-01-02,C1295,daily sunscreen spf 50,sun protection,30.23,3,no,
+1064,2024-12-15,C1165,tea tree oil toner,toners-,38.31,2,no,Eucerin 
+1065,2024-12-04,C1833,eye repair cream.,eye care ,15.2,2,no,
+1066,2025-05-01,C1833,makeup remover balm  ,makeup removers-,55.62,1,no,Cetaphil 
+1067,2025-04-29,C1810,retinol night cream_,moisturizers ,,4,yes,
+1068,2025-03-27,C1028,tea tree oil toner,toners_,32.65,2,no,The Ordinary_
+1069,2025-05-02,C1438,daily sunscreen spf 50-,sun protection,16.93,4,no,The Ordinary 
+1070,2025-03-25,C1746,makeup remover balm.,makeup removers,23.51,4,no,Eucerin-
+1071,2025-03-13,C1154,hyaluronic acid ,serums_,,3,no,Cetaphil 
+1072,2025-02-28,C1255,eye repair cream,eye care  ,21.59,1,no,
+1073,2025-02-28,C1884,tea tree oil toner  ,toners ,27.89,4, n ,
+1074,2025-03-29,C1379,charcoal face mask ,masks-,25.75,2,no,Cetaphil 
+1075,2025-01-30,C1493,,toners-,28.43,2,no,
+1076,2025-05-08,C1070,exfoliating scrub  ,exfoliators,28.08,3,no,The Ordinary 
+1077,2024-12-14,C1727,makeup remover balm-,makeup removers  ,18.4,4,yes,THE ORDINARY
+1078,2025-06-03,C1782,hyaluronic acid,,17.95,2,yes,Paula's_Choice
+1079,2025-03-10,C1191,charcoal face mask,masks ,7.98,4,no,
+1080,2025-03-10,C1567,hydrating facial cleanser.,cleansers,20.37,4,no,Neutrogena.
+1081,2025-02-11,C1012,retinol night cream,moisturizers-,21.18,1,no,Rhode-
+1082,2024-12-06,C1793,hyaluronic acid-,serums.,19.2,4, n ,La Roche-Posay 
+1083,2024-12-31,C1855,exfoliating scrub,exfoliators  ,21.21,4,yes,La Roche-Posay.
+1084,2025-04-26,C1789,hyaluronic acid,serums_,28.32,3,no,EUCERIN
+1085,2025-01-01,C1189,eye repair cream ,eye care  ,5.82,4,no,Neutrogena
+1086,2025-03-31,C1265,charcoal face mask,masks ,23.5,1,no,La_Roche-Posay
+1087,2025-02-22,C1827,,serums-,13.34,3,yes,rhode
+1088,2025-05-10,C1064,charcoal face mask.,masks-,25.18,2,no,DRUNK ELEPHANT
+1089,2025-01-10,C1180,vitamin c serum ,serums ,6.14,1,no,The_Ordinary
+1090,2025-04-23,C1789,vitamin c serum_,serums  ,,4,no,Drunk Elephant_
+1091,2025-05-05,C1912,,moisturizers.,30.42,3,,Paula's Choice.
+1092,2025-05-13,C1974,retinol night cream_,moisturizers,41.41,3,no,Drunk_Elephant
+1093,2025-05-04,C1039,makeup remover balm ,makeup removers-,37.24,1,no,CETAPHIL
+1094,2025-03-10,C1980,hyaluronic acid,serums ,26.37,4,yes,Drunk_Elephant
+1095,2025-02-04,C1037,vitamin c serum ,serums  ,42.03,3,no,Neutrogena-
+1096,2025-03-22,C1760,hyaluronic acid-,serums.,24.25,3,no,Glow_Recipe
+1097,2025-05-19,C1186,hydrating facial cleanser,cleansers  ,22.27,3,no,Cetaphil
+1098,2025-03-24,C1487,hydrating facial cleanser-,cleansers_,35.54,1,no,paula's choice
+1099,2025-04-18,C1269,charcoal face mask_,masks.,27.62,1,no,Glow Recipe 
+1100,2024-12-27,C1550,hyaluronic acid,serums.,12.45,3,no,EUCERIN
+1101,2025-05-02,C1421,hyaluronic acid-,serums ,25.95,3,no,neutrogena
+1102,2025-05-29,C1733,eye repair cream ,eye care ,26.71,4,no,NEUTROGENA
+1103,2024-12-25,C1405,vitamin c serum-,serums  ,24.69,2,no,Neutrogena
+1104,2025-02-07,C1711,exfoliating scrub ,exfoliators,36.73,4, y ,NEUTROGENA
+1105,2025-01-06,C1610,tea tree oil toner-,toners-,4.56,2,no,paula's choice
+1106,2025-04-07,C1698,charcoal face mask ,masks  ,34.32,2,no,CeraVe 
+1107,2025-02-17,C1701,makeup remover balm ,makeup removers,37.38,1,no,
+1108,2025-05-20,C1936,hyaluronic acid_,serums-,16.23,4,no,paula's choice
+1109,2025-03-02,C1405,hyaluronic acid ,serums.,26.35,4,no,la roche-posay
+1110,2025-02-25,C1638,,serums,8.32,4,yes,Glow Recipe.
+1111,2025-01-15,C1949,makeup remover balm,makeup removers-,19.19,4,no,CERAVE
+1112,2025-02-27,C1910,retinol night cream-,,26.3,4,no,Cetaphil 
+1113,2025-06-01,C1108,eye repair cream ,eye care ,18.64,4, y ,The Ordinary 
+1114,2025-02-15,C1775,hydrating facial cleanser-,cleansers  ,15.72,3,no,Cetaphil_
+1115,2025-01-09,C1721,charcoal face mask,masks-,32.42,3,no,EUCERIN
+1116,2025-02-16,C1870,vitamin c serum.,serums  ,34.99,3,no,DRUNK ELEPHANT
+1117,2025-02-08,C1780,,moisturizers  ,23.27,2,no,Rhode 
+1118,2025-05-11,C1660,daily sunscreen spf 50  ,sun protection_,31.07,3,yes,Paula's Choice
+1119,2025-03-04,C1200,retinol night cream_,moisturizers.,26.31,3,no,GLOW RECIPE
+1120,2025-05-20,C1478,exfoliating scrub,exfoliators,20.93,4,no,Neutrogena 
+1121,2024-12-18,C1307,exfoliating scrub ,exfoliators  ,28.05,2,no,Rhode 
+1122,2024-12-19,C1000,hyaluronic acid ,serums.,15.9,1,no,La Roche-Posay_
+1123,2025-03-07,C1782,charcoal face mask  ,masks ,31.49,4,no,Glow Recipe 
+1124,2025-03-20,C1973,daily sunscreen spf 50_,sun protection  ,32.57,4,no,Neutrogena
+1125,2025-03-21,C1701,tea tree oil toner-,toners_,27.25,3,no,THE ORDINARY
+1126,2024-12-28,C1682,makeup remover balm.,makeup removers-,29.85,3,no,the ordinary
+1127,2025-02-26,C1852,retinol night cream ,moisturizers-,13.43,2,no,Neutrogena 
+1128,2025-01-19,C1389,retinol night cream,moisturizers ,31.06,4, y ,Paula's Choice 
+1129,2024-12-04,C1821,hyaluronic acid_,serums  ,,1,no,Paula's_Choice
+1130,2025-04-03,C1226,vitamin c serum-,serums.,14.43,4,no,Eucerin 
+1131,2025-02-28,C1062,hyaluronic acid,serums,8.27,1, n ,CeraVe 
+1132,2025-01-30,C1667,exfoliating scrub-,exfoliators_,18.43,4, n ,drunk elephant
+1133,2025-01-01,C1961,charcoal face mask  ,masks  ,41.99,4,no,Drunk Elephant 
+1134,2025-02-09,C1370,charcoal face mask ,masks.,35.78,2, n ,CeraVe
+1135,2025-05-23,C1057,daily sunscreen spf 50,sun protection ,3.06,1,no,Drunk Elephant_
+1136,2025-03-08,C1287,vitamin c serum  ,serums_,25.93,1,yes,Neutrogena
+1137,2025-01-19,C1185,vitamin c serum ,serums ,4.39,4,,Drunk Elephant 
+1138,2025-03-27,C1871,tea tree oil toner.,toners.,30.79,4,no,cetaphil
+1139,2025-04-04,C1807,exfoliating scrub.,exfoliators ,33.5,2,no,
+1140,2025-03-18,C1967,daily sunscreen spf 50,sun protection,20.46,1, n ,Eucerin
+1141,2025-01-05,C1136,tea tree oil toner.,toners ,,2,yes,
+1142,2025-05-27,C1587,exfoliating scrub  ,exfoliators  ,32.01,3,no,Glow Recipe-
+1143,2024-12-15,C1801,charcoal face mask  ,masks ,16.2,1,no,paula's choice
+1144,2025-04-02,C1509,exfoliating scrub  ,exfoliators,12.4,3,no,LA ROCHE-POSAY
+1145,2025-04-02,C1004,makeup remover balm,makeup removers.,,3, y ,
+1146,2025-01-30,C1463,exfoliating scrub,exfoliators.,33.54,3,no,Glow_Recipe
+1147,2024-12-07,C1281,hyaluronic acid.,serums ,,1,no,CERAVE
+1148,2025-05-04,C1350,retinol night cream_,moisturizers-,39.79,3,no,cetaphil
+1149,2025-01-03,C1182,hydrating facial cleanser  ,cleansers.,37.71,4,no,Drunk Elephant-
+1150,2024-12-27,C1600,eye repair cream.,eye care,17.93,4,no,Rhode
+1151,2025-02-16,C1432,makeup remover balm,makeup removers ,26.48,1,no,Rhode-
+1152,2024-12-13,C1445,tea tree oil toner.,toners ,25.77,4,no,CETAPHIL
+1153,2025-04-18,C1249,eye repair cream ,eye care_,14.7,1,no,
+1154,2025-04-02,C1301,makeup remover balm.,makeup removers,24.62,2,no,La Roche-Posay
+1155,2025-02-14,C1624,hydrating facial cleanser-,cleansers  ,36.52,2,no,Rhode 
+1156,2025-04-29,C1302,charcoal face mask ,masks ,43.22,3,no,Drunk Elephant 
+1157,2025-05-08,C1725,hydrating facial cleanser.,cleansers_,25.43,1,no,THE ORDINARY
+1158,2025-02-13,C1962,hydrating facial cleanser,cleansers ,22.43,4,no,CeraVe
+1159,2025-04-01,C1502,tea tree oil toner,toners  ,38.93,4,yes,CeraVe 
+1160,2025-02-02,C1004,hyaluronic acid,serums,4.51,3,no,Cetaphil 
+1161,2025-04-21,C1584,charcoal face mask  ,masks.,17.68,2,no,Glow Recipe-
+1162,2025-03-29,C1448,tea tree oil toner  ,,22.52,3,no,cetaphil
+1163,2025-02-25,C1843,daily sunscreen spf 50 ,sun protection_,33.87,3,no,Neutrogena 
+1164,2025-05-28,C1890,vitamin c serum.,serums ,40.15,3,no,La_Roche-Posay
+1165,2025-05-06,C1889,exfoliating scrub,exfoliators.,28.93,1,no,Cetaphil
+1166,2025-02-08,C1734,hyaluronic acid  ,serums ,40.91,2,no,DRUNK ELEPHANT
+1167,2024-12-25,C1563,exfoliating scrub.,exfoliators  ,18.02,2,yes,The_Ordinary
+1168,2025-05-16,C1438,exfoliating scrub,,32.57,1,no,Neutrogena
+1169,2025-05-15,C1404,makeup remover balm.,makeup removers.,14.24,2,no,
+1170,2025-01-21,C1677,vitamin c serum,serums ,27.21,3,no,Rhode
+1171,2024-12-13,C1528,makeup remover balm_,makeup removers  ,26.41,2,no,Neutrogena
+1172,2025-03-29,C1656,makeup remover balm  ,makeup removers,26.9,2,no,GLOW RECIPE
+1173,2025-03-22,C1365,vitamin c serum,serums-,20.59,1,no,GLOW RECIPE
+1174,2025-04-08,C1444,tea tree oil toner_,toners_,35.41,2,no,GLOW RECIPE
+1175,2025-05-22,C1244,hydrating facial cleanser  ,cleansers,39.94,1,no,Cetaphil 
+1176,2025-05-29,C1005,hyaluronic acid.,serums ,29.36,4, n ,La Roche-Posay 
+1177,2025-01-19,C1025,retinol night cream,moisturizers,19.67,3,no,
+1178,2025-04-19,C1531,retinol night cream,moisturizers  ,27.26,3,no,Paula's Choice_
+1179,2025-01-28,C1784,,sun protection,32.65,2, n ,Paula's Choice 
+1180,2025-02-19,C1012,retinol night cream_,moisturizers ,12.59,1,no,The_Ordinary
+1181,2024-12-10,C1490,hydrating facial cleanser,cleansers ,17.8,3,no,paula's choice
+1182,2024-12-09,C1336,exfoliating scrub.,exfoliators ,17.38,3,no,cerave
+1183,2025-01-13,C1431,makeup remover balm_,,12.76,3,no,cerave
+1184,2025-02-02,C1316,hyaluronic acid  ,serums ,31.76,4,no,
+1185,2025-03-15,C1799,hydrating facial cleanser  ,cleansers,34.12,2,no,the ordinary
+1186,2025-01-12,C1825,tea tree oil toner.,toners  ,23.59,4,no,eucerin
+1187,2025-02-01,C1835,vitamin c serum.,serums-,7.39,3,no,GLOW RECIPE
+1188,2025-04-28,C1731,exfoliating scrub,exfoliators-,28.0,4,no,Neutrogena 
+1189,2025-04-30,C1757,daily sunscreen spf 50_,sun protection  ,,2,no,Paula's Choice 
+1190,2025-03-03,C1170,daily sunscreen spf 50-,sun protection_,9.83,4,no,CERAVE
+1191,2025-03-18,C1503,hyaluronic acid_,serums-,16.23,2,no,Rhode 
+1192,2025-03-03,C1124,,moisturizers  ,13.85,4, y ,CETAPHIL
+1193,2025-04-09,C1881,retinol night cream-,moisturizers-,12.31,2,no,Drunk Elephant 
+1194,2024-12-13,C1422,eye repair cream-,eye care  ,42.03,1,no,Cetaphil 
+1195,2025-01-04,C1349,vitamin c serum,serums.,32.75,1,no,Cetaphil
+1196,2025-04-27,C1493,eye repair cream,eye care ,30.53,2, n ,Cetaphil
+1197,2025-03-10,C1145,charcoal face mask_,masks.,27.54,2,no,LA ROCHE-POSAY
+1198,2025-01-29,C1607,exfoliating scrub-,exfoliators  ,21.28,3,no,Eucerin
+1199,2024-12-31,C1890,daily sunscreen spf 50 ,sun protection-,29.99,2,no,Drunk Elephant 
+1200,2025-05-20,C1650,vitamin c serum,serums,22.19,3,no,la roche-posay
+1201,2025-01-19,C1808,hydrating facial cleanser ,cleansers-,35.02,3,no,CeraVe 
+1202,2025-05-18,C1725,charcoal face mask,masks,35.85,3,no,drunk elephant
+1203,2025-05-07,C1879,tea tree oil toner ,toners.,22.61,1,no,DRUNK ELEPHANT
+1204,2025-03-15,C1762,exfoliating scrub_,exfoliators_,,3,no,Glow Recipe 
+1205,2025-01-01,C1232,retinol night cream-,moisturizers-,23.22,2,no,Rhode
+1206,2025-02-21,C1082,hydrating facial cleanser ,cleansers_,11.36,1,no,DRUNK ELEPHANT
+1207,2024-12-08,C1029,vitamin c serum-,serums-,23.03,4,no,Drunk Elephant 
+1208,2024-12-29,C1236,retinol night cream_,moisturizers  ,34.49,1,no,Cetaphil 
+1209,2025-05-02,C1493,tea tree oil toner-,toners_,7.51,2,no,eucerin
+1210,2025-04-09,C1638,tea tree oil toner_,toners-,44.81,2,no,Neutrogena 
+1211,2025-02-15,C1596,exfoliating scrub,exfoliators,13.67,3,no,Drunk Elephant.
+1212,2025-01-10,C1902,charcoal face mask,masks  ,28.44,1, n ,La Roche-Posay
+1213,2025-02-16,C1120,exfoliating scrub-,exfoliators.,21.26,4,no,cerave
+1214,2025-02-25,C1330,daily sunscreen spf 50_,sun protection,19.93,2, y ,Drunk Elephant 
+1215,2025-01-31,C1857,,exfoliators,23.42,3,yes,paula's choice
+1216,2025-01-13,C1363,eye repair cream_,eye care_,24.74,4,yes,Rhode 
+1217,2025-05-11,C1332,charcoal face mask,masks.,14.01,2,no,Neutrogena 
+1218,2024-12-07,C1641,tea tree oil toner,toners  ,16.88,4, n ,EUCERIN
+1219,2025-05-14,C1262,exfoliating scrub ,exfoliators_,25.58,3,no,DRUNK ELEPHANT
+1220,2025-02-11,C1941,,moisturizers ,17.84,3,no,Cetaphil 
+1221,2025-04-19,C1375,eye repair cream ,eye care_,13.38,3,no,Glow Recipe 
+1222,2025-05-31,C1836,retinol night cream_,moisturizers.,21.91,4,no,
+1223,2025-01-05,C1399,eye repair cream ,eye care.,26.42,1,yes,La Roche-Posay 
+1224,2025-03-16,C1179,daily sunscreen spf 50-,sun protection  ,19.96,2,no,cerave
+1225,2025-01-09,C1430,charcoal face mask_,masks-,-4.07,3,no,Paula's_Choice
+1226,2025-05-30,C1460,makeup remover balm ,makeup removers_,21.25,2,no,neutrogena
+1227,2024-12-08,C1284,tea tree oil toner.,toners  ,38.29,3, y ,La_Roche-Posay
+1228,2025-05-01,C1830,eye repair cream_,eye care  ,28.13,4,no,CeraVe
+1229,2025-03-23,C1949,vitamin c serum ,serums ,13.46,4,no,Paula's Choice-
+1230,2025-02-09,C1786,eye repair cream.,eye care,7.48,4,no,
+1231,2025-04-22,C1867,daily sunscreen spf 50  ,sun protection ,15.54,2, n ,Neutrogena-
+1232,2025-04-09,C1366,retinol night cream ,moisturizers ,,2,no,
+1233,2025-05-11,C1115,tea tree oil toner_,toners-,14.98,3,no,THE ORDINARY
+1234,2025-04-03,C1147,daily sunscreen spf 50 ,sun protection,17.48,3,no,Rhode_
+1235,2025-03-17,C1854,vitamin c serum  ,,34.78,2,yes,EUCERIN
+1236,2025-02-18,C1277,retinol night cream.,moisturizers_,30.22,2,no,La_Roche-Posay
+1237,2025-06-02,C1648,exfoliating scrub  ,exfoliators  ,13.03,2,yes,Drunk Elephant 
+1238,2024-12-26,C1579,vitamin c serum ,serums,33.94,2,no,Paula's Choice 
+1239,2024-12-17,C1606,charcoal face mask_,masks.,33.93,1,no,Paula's Choice 
+1240,2025-01-03,C1186,exfoliating scrub.,exfoliators_,43.3,1,no,La Roche-Posay
+1241,2024-12-04,C1863,eye repair cream ,eye care ,9.65,4,no,DRUNK ELEPHANT
+1242,2025-03-25,C1422,eye repair cream.,eye care_,6.2,4,no,Paula's Choice
+1243,2025-03-08,C1340,retinol night cream.,moisturizers_,26.85,1,no,La_Roche-Posay
+1244,2024-12-11,C1878,vitamin c serum.,serums-,29.25,4,no,CERAVE
+1245,2025-05-29,C1617,charcoal face mask,masks  ,15.48,2,no,paula's choice
+1246,2025-03-07,C1530,hyaluronic acid.,serums_,18.23,4,no,Glow_Recipe
+1247,2025-05-24,C1794,retinol night cream_,moisturizers ,34.0,4,no,rhode
+1248,2025-02-06,C1816,eye repair cream.,eye care.,29.51,1, n ,Drunk_Elephant
+1249,2025-04-03,C1795,hyaluronic acid ,serums-,32.36,2,no,Neutrogena
+1250,2025-03-08,C1777,eye repair cream,eye care.,42.82,1,yes,
+1251,2025-03-02,C1373,tea tree oil toner  ,toners-,14.5,1,no,
+1252,2025-01-01,C1245,retinol night cream ,moisturizers  ,32.57,2,no,Paula's_Choice
+1253,2025-02-18,C1282,,makeup removers.,27.84,4,no,Rhode 
+1254,2025-02-15,C1159,vitamin c serum  ,serums-,15.12,1,,Eucerin 
+1255,2025-04-29,C1857,daily sunscreen spf 50.,sun protection_,32.79,4,no,EUCERIN
+1256,2025-02-09,C1504,vitamin c serum_,serums  ,24.61,1,no,Cetaphil
+1257,2025-03-31,C1922,vitamin c serum.,serums ,14.29,4,no,
+1258,2025-03-29,C1077,hyaluronic acid,serums-,44.11,2,no,PAULA'S CHOICE
+1259,2025-01-20,C1124,charcoal face mask ,masks,37.56,1,no,Cetaphil
+1260,2025-03-01,C1905,hyaluronic acid,serums-,20.81,3,no,Rhode
+1261,2025-04-17,C1127,eye repair cream_,eye care-,37.16,4,no,Cetaphil 
+1262,2025-03-17,C1453,vitamin c serum_,serums,,2,no,
+1263,2025-05-17,C1956,tea tree oil toner  ,toners-,15.02,2,no,GLOW RECIPE
+1264,2024-12-10,C1095,daily sunscreen spf 50.,sun protection  ,35.37,4,no,rhode
+1265,2025-01-01,C1662,charcoal face mask ,masks.,36.82,2,no,Drunk_Elephant
+1266,2025-05-13,C1399,vitamin c serum,serums.,36.61,4,no,
+1267,2024-12-11,C1742,hyaluronic acid.,,31.53,4,no,eucerin
+1268,2025-05-22,C1395,vitamin c serum.,serums  ,13.62,3,yes,PAULA'S CHOICE
+1269,2025-05-27,C1557,eye repair cream  ,eye care_,36.65,2,no,Paula's Choice.
+1270,2025-05-21,C1400,exfoliating scrub ,exfoliators-,12.54,4,no,Eucerin
+1271,2025-05-22,C1767,,masks  ,17.4,4,no,The_Ordinary
+1272,2025-01-09,C1042,eye repair cream.,eye care-,27.87,3,no,CETAPHIL
+1273,2025-02-12,C1799,hydrating facial cleanser_,cleansers ,12.02,2,yes,Eucerin 
+1274,2025-03-05,C1723,tea tree oil toner ,toners,17.42,4,no,Neutrogena.
+1275,2025-03-06,C1606,retinol night cream.,moisturizers,31.08,2,no,cetaphil
+1276,2025-06-04,C1836,daily sunscreen spf 50  ,sun protection.,52.66,2,no,Glow Recipe 
+1277,2025-05-25,C1939,charcoal face mask.,masks_,11.11,3,no,PAULA'S CHOICE
+1278,2025-02-21,C1934,tea tree oil toner ,toners_,19.05,3,yes,cetaphil
+1279,2025-05-06,C1527,hydrating facial cleanser ,cleansers ,24.68,1,yes,Rhode 
+1280,2025-01-11,C1962,vitamin c serum  ,serums-,27.75,3,no,RHODE
+1281,2024-12-09,C1705,hydrating facial cleanser-,cleansers.,19.38,3,no,CeraVe
+1282,2025-02-13,C1007,retinol night cream  ,moisturizers ,35.15,1,no,THE ORDINARY
+1283,2024-12-04,C1708,vitamin c serum ,serums  ,17.08,3,no,Drunk_Elephant
+1284,2025-05-17,C1211,,masks_,21.01,3,no,Rhode.
+1285,2025-01-18,C1786,vitamin c serum-,serums,35.36,4,no,CERAVE
+1286,2025-01-18,C1170,exfoliating scrub,exfoliators.,33.2,2,yes,neutrogena
+1287,2025-05-23,C1042,charcoal face mask,masks.,20.4,1,no,Cetaphil_
+1288,2025-03-26,C1199,tea tree oil toner-,,7.62,3,no,Neutrogena
+1289,2025-05-25,C1439,hydrating facial cleanser  ,cleansers_,50.55,4,no,CeraVe
+1290,2025-03-28,C1434,charcoal face mask ,masks ,18.58,3,no,la roche-posay
+1291,2025-02-08,C1041,hydrating facial cleanser  ,cleansers,36.8,2,yes,
+1292,2025-03-14,C1609,daily sunscreen spf 50 ,sun protection ,47.78,3, n ,La Roche-Posay_
+1293,2025-04-15,C1368,hyaluronic acid ,serums-,44.71,2,no,The Ordinary 
+1294,2025-03-13,C1866,vitamin c serum,serums.,24.81,2,no,RHODE
+1295,2025-05-25,C1262,daily sunscreen spf 50  ,sun protection_,28.45,2,no,
+1296,2025-03-25,C1323,makeup remover balm ,makeup removers-,37.87,3, y ,Rhode 
+1297,2025-05-13,C1562,charcoal face mask-,masks,30.99,2,no,Paula's Choice 
+1298,2025-01-19,C1820,eye repair cream  ,eye care-,15.8,1,no,Paula's Choice
+1299,2025-04-13,C1565,hyaluronic acid  ,serums  ,21.26,1,no,LA ROCHE-POSAY
+1300,2025-02-28,C1259,makeup remover balm,makeup removers.,23.44,1, n ,The Ordinary 
+1301,2025-04-14,C1347,daily sunscreen spf 50 ,sun protection ,39.26,2,no,neutrogena
+1302,2025-03-25,C1428,eye repair cream.,eye care_,,2,no,the ordinary
+1303,2025-05-22,C1920,retinol night cream_,moisturizers-,27.18,3,no,Paula's Choice 
+1304,2024-12-29,C1864,daily sunscreen spf 50.,,15.21,2,no,Neutrogena-
+1305,2025-05-17,C1962,,toners ,12.49,2,no,Paula's_Choice
+1306,2025-03-02,C1499,daily sunscreen spf 50.,sun protection_,25.22,4,no,The_Ordinary
+1307,2024-12-06,C1357,daily sunscreen spf 50.,sun protection ,15.72,4,,Drunk Elephant_
+1308,2025-03-22,C1180,,sun protection,22.61,2,no,The Ordinary 
+1309,2025-03-15,C1216,hydrating facial cleanser ,cleansers  ,44.93,2,no,drunk elephant
+1310,2025-03-04,C1848,charcoal face mask  ,masks-,17.21,2,no,eucerin
+1311,2025-02-12,C1986,,eye care,49.45,1,no,
+1312,2024-12-21,C1747,hydrating facial cleanser  ,cleansers ,19.58,4,no,cerave
+1313,2025-03-04,C1501,hyaluronic acid-,serums  ,13.82,1,no,Glow_Recipe
+1314,2025-03-24,C1070,tea tree oil toner ,toners-,21.41,2,no,
+1315,2025-02-12,C1919,tea tree oil toner-,toners-,,3,no,eucerin
+1316,2025-04-10,C1755,,sun protection-,27.55,3,no,
+1317,2025-05-12,C1155,eye repair cream-,eye care-,26.24,2,no,NEUTROGENA
+1318,2025-03-16,C1354,daily sunscreen spf 50,sun protection-,17.08,4,no,
+1319,2025-04-08,C1550,,toners  ,22.78,4,no,Neutrogena
+1320,2024-12-24,C1943,makeup remover balm,makeup removers.,13.51,4,no,The Ordinary.
+1321,2025-03-24,C1065,tea tree oil toner_,toners  ,37.02,2,no,The Ordinary_
+1322,2025-03-25,C1803,daily sunscreen spf 50  ,sun protection ,28.17,4, y ,
+1323,2025-01-20,C1382,charcoal face mask  ,masks.,17.93,3,no,Drunk Elephant.
+1324,2025-04-04,C1089,tea tree oil toner ,toners.,33.99,2,,
+1325,2025-02-05,C1018,exfoliating scrub-,exfoliators ,30.6,4,no,Paula's Choice_
+1326,2025-01-11,C1765,tea tree oil toner ,toners ,16.86,1,no,Paula's Choice.
+1327,2025-02-17,C1523,eye repair cream-,eye care.,26.87,1,no,The Ordinary 
+1328,2025-01-02,C1422,exfoliating scrub.,exfoliators.,29.73,2,no,CeraVe
+1329,2024-12-09,C1769,makeup remover balm,makeup removers,19.1,2,no,CERAVE
+1330,2025-01-09,C1171,makeup remover balm ,makeup removers-,33.44,4,yes,CeraVe.
+1331,2025-03-26,C1421,hydrating facial cleanser_,cleansers.,26.32,3,no,Drunk_Elephant
+1332,2025-05-02,C1363,charcoal face mask  ,masks,19.1,1, y ,the ordinary
+1333,2025-02-14,C1983,tea tree oil toner,toners,28.26,1,no,CETAPHIL
+1334,2025-01-07,C1382,retinol night cream_,moisturizers,37.08,2,no,the ordinary
+1335,2025-04-17,C1762,hyaluronic acid.,serums ,37.41,1,yes,La Roche-Posay 
+1336,2025-03-02,C1678,tea tree oil toner  ,toners,30.74,4,no,Eucerin 
+1337,2025-01-06,C1953,retinol night cream ,,11.56,3,no,La_Roche-Posay
+1338,2025-06-01,C1452,tea tree oil toner.,toners.,30.05,1,no,drunk elephant
+1339,2025-04-15,C1250,eye repair cream.,eye care  ,39.0,4,no,The Ordinary_
+1340,2025-03-07,C1966,eye repair cream ,eye care ,30.54,3,no,CeraVe
+1341,2025-01-12,C1028,,toners  ,12.84,3,no,Drunk_Elephant
+1342,2024-12-10,C1395,hydrating facial cleanser  ,cleansers_,22.9,3,no,EUCERIN
+1343,2025-01-16,C1519,,serums,27.86,3,no,the ordinary
+1344,2025-01-10,C1174,vitamin c serum_,serums,0.02,3,no,Neutrogena 
+1345,2025-02-09,C1015,makeup remover balm.,makeup removers-,17.72,1,no,Glow_Recipe
+1346,2025-01-13,C1008,daily sunscreen spf 50  ,sun protection  ,25.09,1,,GLOW RECIPE
+1347,2025-04-09,C1838,makeup remover balm_,makeup removers ,30.47,1, y ,Cetaphil
+1348,2024-12-31,C1789,makeup remover balm_,makeup removers_,25.69,2,no,Paula's_Choice
+1349,2025-02-19,C1207,eye repair cream ,eye care.,46.04,1,no,Drunk_Elephant
+1350,2025-05-13,C1368,vitamin c serum_,serums_,30.96,2,no,cerave
+1351,2025-05-01,C1133,,makeup removers  ,8.62,1,yes,NEUTROGENA
+1352,2025-04-15,C1024,charcoal face mask.,masks ,26.2,3,no,CERAVE
+1353,2025-05-12,C1314,makeup remover balm,makeup removers  ,21.66,2,no,Drunk_Elephant
+1354,2025-03-02,C1091,exfoliating scrub,exfoliators,14.88,4,no,Glow_Recipe
+1355,2025-01-27,C1991,charcoal face mask  ,masks,13.86,3,no,Neutrogena 
+1356,2025-03-07,C1067,charcoal face mask_,masks  ,42.7,4,no,Glow_Recipe
+1357,2025-03-20,C1486,charcoal face mask ,masks.,26.1,4, n ,NEUTROGENA
+1358,2024-12-19,C1708,charcoal face mask  ,masks ,30.07,2,no,Cetaphil 
+1359,2024-12-09,C1174,exfoliating scrub_,exfoliators_,31.21,3,no,PAULA'S CHOICE
+1360,2025-04-27,C1972,vitamin c serum  ,serums-,35.4,3,no,CeraVe 
+1361,2025-02-05,C1998,vitamin c serum-,serums ,16.03,3,no,Glow Recipe.
+1362,2025-02-22,C1013,charcoal face mask_,masks_,11.88,1,no,paula's choice
+1363,2025-05-21,C1938,eye repair cream-,eye care  ,20.04,1,no,cerave
+1364,2025-01-31,C1439,vitamin c serum ,serums_,30.96,3,no,
+1365,2025-04-15,C1955,makeup remover balm_,makeup removers,19.03,3,no,Cetaphil 
+1366,2025-02-18,C1539,vitamin c serum_,serums.,35.78,3,no,Eucerin
+1367,2025-04-25,C1610,,moisturizers.,28.4,1, n ,rhode
+1368,2024-12-19,C1167,exfoliating scrub.,exfoliators.,27.82,2,no,neutrogena
+1369,2025-01-21,C1661,vitamin c serum_,serums-,,3,no,La_Roche-Posay
+1370,2025-02-14,C1418,hyaluronic acid ,serums  ,36.04,4,no,the ordinary
+1371,2025-04-05,C1213,hydrating facial cleanser-,cleansers-,14.99,4,no,LA ROCHE-POSAY
+1372,2025-05-06,C1084,eye repair cream-,eye care  ,22.16,1,no,
+1373,2025-01-29,C1351,tea tree oil toner-,toners  ,38.68,3,no,
+1374,2025-06-03,C1657,charcoal face mask  ,masks_,13.31,2, n ,the ordinary
+1375,2025-02-20,C1858,makeup remover balm,makeup removers  ,13.2,1,no,Drunk Elephant 
+1376,2025-04-06,C1087,vitamin c serum  ,serums,27.64,1,no,RHODE
+1377,2025-03-06,C1346,makeup remover balm  ,makeup removers,37.05,4,no,la roche-posay
+1378,2025-06-04,C1824,makeup remover balm_,makeup removers,18.76,1,no,neutrogena
+1379,2025-04-21,C1176,makeup remover balm,makeup removers,31.57,4,no,Paula's Choice
+1380,2025-02-12,C1757,daily sunscreen spf 50 ,sun protection ,33.28,3,no,Paula's Choice 
+1381,2025-02-12,C1057,retinol night cream_,moisturizers_,43.1,1,no,Drunk_Elephant
+1382,2025-02-17,C1330,,cleansers-,10.26,2,no,eucerin
+1383,2025-03-13,C1833,eye repair cream.,eye care,34.94,1,no,Glow Recipe.
+1384,2025-02-06,C1884,vitamin c serum ,serums.,15.92,4,no,La Roche-Posay.
+1385,2025-03-31,C1883,vitamin c serum,serums_,16.09,2,no,la roche-posay
+1386,2025-01-08,C1034,daily sunscreen spf 50-,sun protection,24.38,1,no,NEUTROGENA
+1387,2025-04-04,C1125,eye repair cream,eye care,24.62,1,no,eucerin
+1388,2024-12-19,C1911,tea tree oil toner_,toners_,25.5,3,no,Cetaphil-
+1389,2025-01-19,C1181,,toners-,37.53,3,no,Rhode 
+1390,2025-03-15,C1041,hydrating facial cleanser.,cleansers_,28.92,3,no,neutrogena
+1391,2025-03-12,C1401,makeup remover balm  ,makeup removers ,19.28,4,no,Glow Recipe-
+1392,2024-12-15,C1044,makeup remover balm ,makeup removers ,17.1,2,no,
+1393,2024-12-23,C1490,,makeup removers_,9.44,4,no,the ordinary
+1394,2024-12-05,C1009,,masks  ,43.63,3,no,GLOW RECIPE
+1395,2024-12-31,C1380,tea tree oil toner.,toners_,10.11,4,yes,
+1396,2025-03-16,C1515,hyaluronic acid_,serums_,25.94,1,no,Glow_Recipe
+1397,2025-03-15,C1208,retinol night cream.,moisturizers,38.37,1,no,Rhode.
+1398,2025-01-05,C1888,makeup remover balm.,makeup removers-,36.83,4,no,EUCERIN
+1399,2025-04-26,C1622,exfoliating scrub  ,exfoliators.,23.93,4,no,Paula's_Choice
+1400,2025-06-02,C1771,exfoliating scrub.,,34.99,2,no,DRUNK ELEPHANT
+1401,2025-03-06,C1767,,,31.49,4,no,Glow Recipe 
+1402,2025-03-03,C1266,vitamin c serum-,serums_,21.36,1,no,La_Roche-Posay
+1403,2025-01-31,C1652,makeup remover balm,makeup removers  ,20.26,1,no,
+1404,2025-01-14,C1507,tea tree oil toner  ,toners,21.34,4,no,the ordinary
+1405,2025-05-08,C1571,exfoliating scrub-,exfoliators ,32.92,2,no,cerave
+1406,2024-12-19,C1831,retinol night cream-,moisturizers.,32.86,3,no,la roche-posay
+1407,2025-04-29,C1196,hydrating facial cleanser.,cleansers  ,30.6,2,no,la roche-posay
+1408,2025-01-02,C1798,charcoal face mask  ,masks.,26.88,3,no,Paula's Choice 
+1409,2025-01-30,C1664,exfoliating scrub,exfoliators.,24.05,1,no,
+1410,2025-01-11,C1731,hydrating facial cleanser ,cleansers  ,29.17,1,no,EUCERIN
+1411,2025-01-18,C1586,tea tree oil toner ,toners_,25.22,2,no,
+1412,2025-03-12,C1324,charcoal face mask_,masks ,10.39,2,no,The Ordinary.
+1413,2025-04-07,C1317,daily sunscreen spf 50_,sun protection ,19.99,3,no,
+1414,2024-12-27,C1360,hydrating facial cleanser  ,cleansers  ,10.82,4,no,The_Ordinary
+1415,2025-05-28,C1269,tea tree oil toner,toners-,38.41,3,no,rhode
+1416,2024-12-08,C1611,exfoliating scrub-,exfoliators-,18.07,1,no,
+1417,2025-01-01,C1231,exfoliating scrub_,exfoliators,9.92,1, y ,RHODE
+1418,2025-02-03,C1731,eye repair cream_,eye care-,13.43,3,no,CeraVe
+1419,2025-03-09,C1972,charcoal face mask,masks  ,21.41,1,no,GLOW RECIPE
+1420,2025-02-10,C1545,hyaluronic acid ,serums ,50.04,3,no,The_Ordinary
+1421,2024-12-27,C1284,hydrating facial cleanser-,cleansers-,29.37,2, n ,EUCERIN
+1422,2024-12-18,C1848,exfoliating scrub.,exfoliators ,22.6,2,no,la roche-posay
+1423,2025-02-21,C1481,hydrating facial cleanser.,cleansers_,13.6,3,no,LA ROCHE-POSAY
+1424,2025-02-15,C1165,charcoal face mask-,masks,32.18,4,no,La Roche-Posay 
+1425,2025-01-31,C1183,hydrating facial cleanser,cleansers-,24.86,4,no,Drunk_Elephant
+1426,2025-02-25,C1327,vitamin c serum,serums-,23.7,3,no,
+1427,2025-03-11,C1904,retinol night cream  ,moisturizers,21.07,2,no,Paula's_Choice
+1428,2025-01-18,C1190,retinol night cream_,moisturizers-,31.92,1,no,PAULA'S CHOICE
+1429,2025-05-18,C1757,hydrating facial cleanser-,cleansers-,27.3,3,no,
+1430,2025-04-28,C1282,retinol night cream.,moisturizers  ,18.44,1,yes,Glow Recipe.
+1431,2025-01-28,C1483,,exfoliators ,30.39,1,no,eucerin
+1432,2025-04-06,C1382,charcoal face mask ,masks_,34.78,1,no,NEUTROGENA
+1433,2025-04-10,C1371,tea tree oil toner  ,toners_,39.53,4,no,rhode
+1434,2025-03-12,C1115,hydrating facial cleanser ,cleansers.,23.87,3,no,LA ROCHE-POSAY
+1435,2025-02-27,C1784,exfoliating scrub.,exfoliators_,43.52,1,no,paula's choice
+1436,2025-05-25,C1662,daily sunscreen spf 50_,sun protection.,22.19,4,no,Rhode 
+1437,2025-01-25,C1581,vitamin c serum,serums ,9.47,2,yes,Paula's Choice_
+1438,2025-04-09,C1803,eye repair cream.,eye care ,33.98,3,no,RHODE
+1439,2025-01-21,C1360,retinol night cream.,moisturizers ,32.59,2, n ,
+1440,2024-12-21,C1351,charcoal face mask  ,masks.,14.62,2,no,La_Roche-Posay
+1441,2025-03-18,C1235,daily sunscreen spf 50-,sun protection.,24.11,2,no,rhode
+1442,2024-12-20,C1097,hydrating facial cleanser-,cleansers ,26.31,2,no,
+1443,2025-01-31,C1764,tea tree oil toner_,toners ,23.58,3,no,Drunk Elephant.
+1444,2025-05-03,C1391,exfoliating scrub  ,exfoliators-,12.41,1,no,LA ROCHE-POSAY
+1445,2025-05-09,C1567,exfoliating scrub,exfoliators,18.93,1,no,drunk elephant
+1446,2025-05-17,C1596,tea tree oil toner ,toners  ,0.88,2,no,Paula's Choice-
+1447,2025-02-10,C1633,hydrating facial cleanser ,cleansers ,37.41,1,no,The Ordinary 
+1448,2025-03-03,C1272,vitamin c serum.,serums_,21.51,4,no,DRUNK ELEPHANT
+1449,2025-02-08,C1998,daily sunscreen spf 50,sun protection,27.02,2,no,EUCERIN
+1450,2024-12-23,C1659,retinol night cream.,moisturizers ,30.42,1,no,Drunk_Elephant
+1451,2025-02-03,C1264,vitamin c serum_,serums_,17.03,2,no,Cetaphil_
+1452,2025-04-13,C1831,vitamin c serum ,serums ,51.48,3, y ,Rhode_
+1453,2025-04-15,C1877,,masks  ,33.28,1,no,Paula's_Choice
+1454,2025-05-14,C1960,hyaluronic acid_,serums.,19.39,1,no,La_Roche-Posay
+1455,2025-04-14,C1081,daily sunscreen spf 50 ,sun protection_,32.62,4,no,Drunk Elephant_
+1456,2025-04-08,C1543,retinol night cream-,moisturizers  ,15.06,3,no,Drunk Elephant.
+1457,2024-12-16,C1581,makeup remover balm.,makeup removers-,15.24,3,yes,paula's choice
+1458,2025-03-22,C1598,makeup remover balm  ,makeup removers-,32.75,2,no,EUCERIN
+1459,2024-12-27,C1017,eye repair cream  ,eye care_,16.59,1,no,The_Ordinary
+1460,2025-06-03,C1228,tea tree oil toner ,toners-,34.34,2,no,
+1461,2025-04-12,C1918,vitamin c serum.,serums.,34.61,1,no,Drunk_Elephant
+1462,2025-05-20,C1761,,toners.,30.69,2,yes,The_Ordinary
+1463,2025-03-04,C1617,exfoliating scrub-,exfoliators-,19.52,3,no,Paula's Choice_
+1464,2025-04-02,C1469,exfoliating scrub.,exfoliators-,,3,no,CERAVE
+1465,2025-05-09,C1362,retinol night cream.,moisturizers,28.37,1,no,Neutrogena 
+1466,2025-01-16,C1845,retinol night cream.,moisturizers ,27.46,1,no,GLOW RECIPE
+1467,2025-01-03,C1690,hyaluronic acid.,serums ,20.85,2,no,
+1468,2025-02-07,C1983,daily sunscreen spf 50 ,sun protection  ,33.56,2,no,Glow Recipe 
+1469,2024-12-19,C1950,makeup remover balm.,makeup removers,11.61,2,no,THE ORDINARY
+1470,2025-04-13,C1285,,eye care_,26.6,4,no,THE ORDINARY
+1471,2025-04-15,C1424,vitamin c serum-,serums ,28.86,2,no,The Ordinary
+1472,2025-04-13,C1542,makeup remover balm_,makeup removers_,24.5,2,no,glow recipe
+1473,2025-03-24,C1397,retinol night cream.,moisturizers ,37.69,2,no,La_Roche-Posay
+1474,2024-12-25,C1109,tea tree oil toner-,toners_,,3,no,Neutrogena
+1475,2024-12-14,C1939,daily sunscreen spf 50  ,sun protection,27.33,3,no,The_Ordinary
+1476,2025-05-10,C1892,hyaluronic acid-,serums-,29.45,2, y ,glow recipe
+1477,2025-03-20,C1060,makeup remover balm.,makeup removers.,42.1,4,no,Glow Recipe.
+1478,2025-04-13,C1847,vitamin c serum ,serums.,23.31,2,yes,The_Ordinary
+1479,2024-12-10,C1939,charcoal face mask-,masks-,21.58,3,no,Paula's Choice
+1480,2025-04-28,C1846,hyaluronic acid-,serums,25.02,1,no,Rhode.
+1481,2025-04-07,C1009,daily sunscreen spf 50,sun protection ,21.61,4,no,CeraVe
+1482,2025-04-18,C1484,charcoal face mask-,masks,40.8,2,no,Paula's Choice 
+1483,2025-05-16,C1437,daily sunscreen spf 50 ,sun protection ,29.78,1,no,
+1484,2025-01-14,C1197,exfoliating scrub_,exfoliators,35.19,3,no,NEUTROGENA
+1485,2024-12-31,C1409,vitamin c serum,serums ,18.67,1,yes,Glow Recipe 
+1486,2025-03-25,C1043,hyaluronic acid ,serums ,31.64,1, n ,Paula's Choice-
+1487,2025-02-04,C1828,vitamin c serum_,serums_,32.97,3, n ,Paula's Choice 
+1488,2025-01-11,C1608,tea tree oil toner.,toners ,,2,no,
+1489,2025-01-25,C1153,eye repair cream_,eye care ,48.8,4,no,cerave
+1490,2024-12-30,C1854,tea tree oil toner-,toners_,,3,no,rhode
+1491,2025-03-21,C1514,tea tree oil toner.,toners  ,17.16,1, y ,
+1492,2025-04-25,C1593,vitamin c serum-,serums ,46.01,2,no,The_Ordinary
+1493,2024-12-08,C1582,eye repair cream  ,eye care ,43.9,2,no,rhode
+1494,2025-05-19,C1739,hydrating facial cleanser ,cleansers ,31.82,2,no,
+1495,2025-01-13,C1190,retinol night cream  ,moisturizers  ,9.3,1,no,Neutrogena 
+1496,2024-12-10,C1959,makeup remover balm,makeup removers.,28.16,3,no,
+1497,2025-01-12,C1666,exfoliating scrub-,exfoliators-,26.38,4,no,CeraVe
+1498,2025-03-09,C1493,hydrating facial cleanser,cleansers  ,31.92,4,no,La_Roche-Posay
+1499,2025-01-27,C1198,eye repair cream ,eye care-,,3,no,
+1500,2025-04-07,C1214,vitamin c serum.,serums  ,2.02,1,no,LA ROCHE-POSAY
+1501,2025-05-02,C1073,makeup remover balm  ,makeup removers ,17.79,2,no,LA ROCHE-POSAY
+1502,2025-03-06,C1426,daily sunscreen spf 50 ,sun protection ,23.52,1,no,The Ordinary.
+1503,2025-01-12,C1228,retinol night cream_,moisturizers  ,10.71,1,yes,
+1504,2025-05-27,C1888,daily sunscreen spf 50 ,sun protection-,27.22,1,yes,the ordinary
+1505,2025-05-27,C1116,makeup remover balm ,makeup removers-,32.21,4, y ,neutrogena
+1506,2025-04-29,C1167,retinol night cream-,,19.13,2, n ,Glow Recipe 
+1507,2025-04-12,C1151,eye repair cream ,eye care ,15.32,2,no,PAULA'S CHOICE
+1508,2024-12-25,C1273,eye repair cream,eye care,33.0,2,no,rhode
+1509,2025-01-30,C1072,hyaluronic acid,serums  ,15.72,1,no,THE ORDINARY
+1510,2025-03-23,C1734,retinol night cream.,moisturizers.,35.69,2,no,Drunk Elephant
+1511,2025-02-05,C1106,makeup remover balm-,makeup removers-,25.01,4,no,La_Roche-Posay
+1512,2025-04-17,C1078,,serums-,23.25,4,yes,drunk elephant
+1513,2024-12-30,C1947,hyaluronic acid,serums  ,9.93,3,no,
+1514,2025-01-22,C1153,retinol night cream ,moisturizers-,24.96,2,no,NEUTROGENA
+1515,2025-03-21,C1449,retinol night cream  ,moisturizers_,32.29,4,no,CERAVE
+1516,2025-05-04,C1272,daily sunscreen spf 50,sun protection_,11.03,1, y ,LA ROCHE-POSAY
+1517,2025-04-24,C1874,vitamin c serum.,serums ,18.97,4,no,Cetaphil
+1518,2025-03-18,C1354,tea tree oil toner,toners.,,1,no,CeraVe 
+1519,2025-03-08,C1188,makeup remover balm  ,makeup removers  ,8.36,4,no,
+1520,2025-02-02,C1560,hyaluronic acid,serums_,35.49,2,no,Drunk Elephant
+1521,2024-12-11,C1911,eye repair cream ,eye care_,38.43,3,no,cerave
+1522,2025-06-04,C1232,,serums-,6.88,4,no,Neutrogena 
+1523,2024-12-26,C1537,charcoal face mask-,masks  ,21.59,2,no,Glow Recipe 
+1524,2025-05-07,C1574,hydrating facial cleanser_,cleansers-,22.53,1,no,
+1525,2025-04-01,C1397,exfoliating scrub.,exfoliators ,25.77,2, n ,Drunk Elephant 
+1526,2025-01-15,C1139,hyaluronic acid  ,serums  ,15.33,4,no,
+1527,2025-03-15,C1609,exfoliating scrub ,exfoliators-,25.42,2,no,the ordinary
+1528,2024-12-26,C1923,hyaluronic acid,serums  ,30.49,4,no,La_Roche-Posay
+1529,2025-03-06,C1078,vitamin c serum_,serums_,18.72,2, n ,the ordinary
+1530,2024-12-13,C1253,retinol night cream-,moisturizers  ,24.0,1,no,Paula's_Choice
+1531,2025-01-24,C1898,eye repair cream ,eye care_,29.17,4,no,The Ordinary 
+1532,2025-02-26,C1321,hyaluronic acid.,serums-,18.67,3,no,Neutrogena 
+1533,2025-04-24,C1508,vitamin c serum-,serums-,22.49,3,no,CeraVe-
+1534,2025-03-18,C1191,vitamin c serum-,serums,35.94,2,yes,
+1535,2025-05-21,C1070,daily sunscreen spf 50_,sun protection_,28.62,1,no,
+1536,2025-03-04,C1773,tea tree oil toner.,toners-,35.84,4,no,Neutrogena-
+1537,2025-01-15,C1442,exfoliating scrub ,exfoliators  ,29.58,1,no,Neutrogena
+1538,2025-01-11,C1191,hydrating facial cleanser_,cleansers  ,21.18,1,no,
+1539,2025-04-07,C1270,eye repair cream  ,eye care.,30.39,1,no,The Ordinary 
+1540,2025-04-08,C1528,retinol night cream-,moisturizers,32.36,3,no,cetaphil
+1541,2025-05-21,C1839,vitamin c serum ,serums-,41.67,1,no,Drunk Elephant 
+1542,2025-02-09,C1546,exfoliating scrub_,exfoliators  ,26.22,2,no,Cetaphil
+1543,2025-01-27,C1363,eye repair cream-,eye care  ,14.13,2, n ,cetaphil
+1544,2025-04-24,C1168,exfoliating scrub  ,exfoliators  ,16.04,3,no,
+1545,2024-12-16,C1515,daily sunscreen spf 50_,sun protection-,30.8,1,no,Cetaphil
+1546,2025-03-24,C1105,charcoal face mask  ,masks ,,2,no,EUCERIN
+1547,2025-05-15,C1641,eye repair cream-,eye care  ,30.66,2,no,cetaphil
+1548,2024-12-15,C1865,hyaluronic acid-,serums ,28.01,4,no,neutrogena
+1549,2025-02-24,C1894,makeup remover balm  ,makeup removers-,19.53,3,no,CeraVe_
+1550,2025-01-12,C1519,retinol night cream,moisturizers  ,14.92,4,no,paula's choice
+1551,2025-05-16,C1211,daily sunscreen spf 50  ,sun protection ,18.11,4,no,The Ordinary 
+1552,2025-02-28,C1476,vitamin c serum-,serums,20.83,4,no,Eucerin
+1553,2025-01-21,C1980,eye repair cream  ,eye care.,26.42,4,no,La Roche-Posay_
+1554,2025-02-28,C1305,vitamin c serum ,serums-,0.77,2,no,la roche-posay
+1555,2025-01-17,C1245,hyaluronic acid ,serums ,9.85,2,no,the ordinary
+1556,2025-05-18,C1555,daily sunscreen spf 50-,sun protection-,16.99,1,no,The Ordinary 
+1557,2025-01-16,C1265,vitamin c serum,serums.,26.38,2,no,Neutrogena.
+1558,2025-01-05,C1247,hydrating facial cleanser_,cleansers ,19.96,4, n ,EUCERIN
+1559,2025-01-11,C1442,hydrating facial cleanser.,cleansers,19.32,3,no,neutrogena
+1560,2024-12-06,C1824,hyaluronic acid_,serums,16.68,2,yes,CETAPHIL
+1561,2025-04-02,C1109,daily sunscreen spf 50-,sun protection-,36.93,2,no,
+1562,2024-12-15,C1543,exfoliating scrub.,exfoliators ,23.51,1,no,Neutrogena
+1563,2025-05-11,C1179,,cleansers.,24.73,3,yes,GLOW RECIPE
+1564,2025-05-16,C1476,eye repair cream  ,eye care ,,4,no,Glow_Recipe
+1565,2024-12-12,C1529,hyaluronic acid.,serums-,28.8,1,no,La Roche-Posay
+1566,2025-04-22,C1225,eye repair cream  ,eye care ,,3,no,la roche-posay
+1567,2024-12-23,C1621,,exfoliators  ,35.01,1,no,DRUNK ELEPHANT
+1568,2024-12-14,C1892,exfoliating scrub  ,exfoliators-,28.24,2,no,Glow_Recipe
+1569,2025-03-22,C1138,retinol night cream.,moisturizers-,22.12,3,no,paula's choice
+1570,2025-05-26,C1163,retinol night cream  ,moisturizers-,29.13,2, n ,THE ORDINARY
+1571,2025-03-05,C1914,makeup remover balm_,makeup removers  ,6.73,1,no,
+1572,2025-03-15,C1274,daily sunscreen spf 50  ,sun protection_,26.41,2,no,Rhode 
+1573,2025-01-30,C1791,retinol night cream-,moisturizers  ,18.52,4,no,La Roche-Posay_
+1574,2025-04-19,C1903,,moisturizers-,16.76,2,yes,cerave
+1575,2025-05-06,C1012,exfoliating scrub-,exfoliators.,26.83,2,no,neutrogena
+1576,2025-01-13,C1089,retinol night cream  ,moisturizers ,12.31,3,no,PAULA'S CHOICE
+1577,2025-02-24,C1970,exfoliating scrub ,exfoliators_,15.45,3,yes,DRUNK ELEPHANT
+1578,2025-03-01,C1588,eye repair cream  ,eye care  ,25.37,4, n ,Paula's Choice 
+1579,2025-01-28,C1281,makeup remover balm-,makeup removers ,29.24,3,no,Eucerin 
+1580,2025-04-11,C1015,retinol night cream.,moisturizers  ,32.84,2,no,cetaphil
+1581,2025-04-17,C1329,charcoal face mask.,masks ,20.38,1,no,paula's choice
+1582,2025-05-29,C1692,hydrating facial cleanser.,cleansers,29.11,4,no,LA ROCHE-POSAY
+1583,2024-12-06,C1039,eye repair cream.,eye care.,33.76,4, y ,The Ordinary_
+1584,2025-02-25,C1254,,masks ,20.33,4,no,
+1585,2025-02-10,C1010,exfoliating scrub ,exfoliators.,14.56,2,no,Drunk Elephant_
+1586,2025-03-12,C1420,charcoal face mask.,masks ,28.8,4,no,CETAPHIL
+1587,2025-05-29,C1218,hydrating facial cleanser_,cleansers.,24.87,1,no,
+1588,2025-01-06,C1662,charcoal face mask-,masks  ,26.26,3,no,rhode
+1589,2025-04-01,C1335,eye repair cream,eye care.,23.63,3,no,eucerin
+1590,2025-01-15,C1408,hyaluronic acid  ,serums  ,28.91,3,yes,Neutrogena
+1591,2025-05-04,C1311,tea tree oil toner  ,toners-,-0.56,4,no,
+1592,2025-03-15,C1877,vitamin c serum,serums_,26.41,3,no,GLOW RECIPE
+1593,2025-01-23,C1589,exfoliating scrub-,exfoliators-,22.68,1,no,Neutrogena 
+1594,2025-01-30,C1835,hyaluronic acid  ,serums_,11.74,3, n ,paula's choice
+1595,2025-05-15,C1767,charcoal face mask,masks  ,12.5,1,no,the ordinary
+1596,2025-03-21,C1376,tea tree oil toner  ,toners-,30.64,3,no,Rhode
+1597,2025-02-18,C1306,hyaluronic acid  ,serums  ,,1,no,Paula's_Choice
+1598,2025-03-17,C1003,vitamin c serum-,serums-,14.35,2,no,CeraVe
+1599,2024-12-11,C1962,exfoliating scrub-,exfoliators ,14.94,2,no,rhode
+1600,2025-03-01,C1657,exfoliating scrub_,exfoliators-,7.91,1,no,Neutrogena 
+1601,2025-05-24,C1104,hydrating facial cleanser,cleansers ,27.94,1,no,Cetaphil_
+1602,2025-02-19,C1424,vitamin c serum  ,serums  ,41.65,2,no,cerave
+1603,2025-04-03,C1587,retinol night cream-,moisturizers  ,21.19,4,no,CeraVe 
+1604,2025-02-06,C1745,hydrating facial cleanser,cleansers,19.58,4,no,
+1605,2024-12-14,C1858,makeup remover balm ,makeup removers,39.58,1,no,
+1606,2025-04-27,C1169,retinol night cream_,moisturizers ,13.37,4,no,
+1607,2025-04-21,C1968,daily sunscreen spf 50_,sun protection ,36.04,4,no,La_Roche-Posay
+1608,2025-05-20,C1897,,makeup removers-,18.98,4,no,
+1609,2025-05-16,C1050,makeup remover balm_,makeup removers-,25.39,3, n ,Rhode 
+1610,2025-03-03,C1727,retinol night cream ,moisturizers  ,39.41,3,no,Paula's Choice 
+1611,2025-02-17,C1910,vitamin c serum,serums_,3.29,1,no,la roche-posay
+1612,2025-05-03,C1959,charcoal face mask ,masks  ,19.87,3,no,NEUTROGENA
+1613,2024-12-22,C1853,hydrating facial cleanser,cleansers,22.77,3,no,
+1614,2025-03-25,C1502,,eye care,6.33,2,no,Glow_Recipe
+1615,2025-04-21,C1862,daily sunscreen spf 50  ,sun protection_,15.49,1,no,The Ordinary 
+1616,2024-12-18,C1854,makeup remover balm.,makeup removers_,23.21,4,no,Glow_Recipe
+1617,2024-12-13,C1036,hydrating facial cleanser ,cleansers,19.56,1,no,Glow Recipe 
+1618,2025-01-29,C1044,vitamin c serum_,serums_,34.31,1,no,The Ordinary 
+1619,2025-05-28,C1018,charcoal face mask-,masks,22.03,4,no,EUCERIN
+1620,2025-03-02,C1760,vitamin c serum-,serums-,22.54,1,no,CeraVe 
+1621,2025-05-15,C1054,vitamin c serum_,serums ,20.16,2,no,Rhode-
+1622,2025-04-30,C1296,hyaluronic acid  ,serums.,15.34,2,no,Neutrogena-
+1623,2025-04-27,C1404,vitamin c serum-,serums ,43.13,4,no,NEUTROGENA
+1624,2025-02-27,C1880,charcoal face mask ,masks,21.57,4,no,Paula's Choice 
+1625,2025-04-05,C1144,eye repair cream,eye care.,16.54,1,yes,
+1626,2025-05-13,C1573,daily sunscreen spf 50 ,sun protection ,19.15,1,yes,CERAVE
+1627,2025-01-31,C1146,hyaluronic acid-,serums,48.49,2,no,Neutrogena
+1628,2025-01-04,C1652,daily sunscreen spf 50_,sun protection-,17.84,4,no,paula's choice
+1629,2024-12-13,C1803,daily sunscreen spf 50_,sun protection.,28.96,1,no,La Roche-Posay-
+1630,2025-01-31,C1094,eye repair cream ,eye care.,27.64,2,no,
+1631,2025-04-15,C1237,makeup remover balm_,,35.97,3,yes,
+1632,2025-02-22,C1485,makeup remover balm  ,makeup removers ,9.34,3,yes,Neutrogena 
+1633,2025-05-06,C1018,daily sunscreen spf 50,sun protection  ,27.44,2, n ,
+1634,2025-01-29,C1236,charcoal face mask-,masks  ,14.1,4,no,the ordinary
+1635,2024-12-11,C1152,tea tree oil toner_,toners.,26.11,1,no,The Ordinary 
+1636,2024-12-29,C1054,hyaluronic acid.,serums  ,18.74,3,no,Drunk Elephant 
+1637,2025-05-06,C1370,exfoliating scrub,exfoliators  ,24.18,4, n ,
+1638,2025-05-27,C1598,vitamin c serum_,serums,35.91,1,no,
+1639,2025-04-28,C1902,hydrating facial cleanser-,cleansers  ,30.24,3, n ,
+1640,2025-05-14,C1041,makeup remover balm  ,makeup removers  ,37.31,2,no,Cetaphil 
+1641,2024-12-19,C1528,charcoal face mask ,masks  ,,2,no,CETAPHIL
+1642,2025-01-21,C1372,exfoliating scrub ,exfoliators  ,20.69,1,,Cetaphil
+1643,2024-12-10,C1145,makeup remover balm  ,makeup removers_,,4,no,
+1644,2025-02-03,C1779,makeup remover balm ,makeup removers ,23.52,2,,
+1645,2025-02-08,C1075,hydrating facial cleanser-,cleansers-,26.77,3,no,
+1646,2025-02-20,C1432,hyaluronic acid_,serums,4.0,4,no,Eucerin
+1647,2025-04-04,C1957,hydrating facial cleanser  ,cleansers  ,16.83,3,yes,GLOW RECIPE
+1648,2025-03-31,C1145,makeup remover balm,makeup removers-,32.76,3,no,Neutrogena
+1649,2025-03-11,C1427,hydrating facial cleanser_,,34.72,1,no,Eucerin 
+1650,2025-03-08,C1765,vitamin c serum-,serums.,,4,no,DRUNK ELEPHANT
+1651,2025-04-09,C1510,makeup remover balm_,,13.92,4,no,Cetaphil
+1652,2024-12-05,C1493,daily sunscreen spf 50 ,sun protection-,40.94,1,no,
+1653,2025-04-16,C1731,vitamin c serum_,serums.,27.57,2,no,
+1654,2025-05-06,C1467,,serums.,15.29,2,no,Neutrogena
+1655,2025-02-11,C1149,hyaluronic acid,serums ,32.21,2,no,
+1656,2025-05-12,C1403,exfoliating scrub,exfoliators ,21.72,3,no,Paula's Choice 
+1657,2025-03-03,C1000,daily sunscreen spf 50,sun protection-,21.43,3,no,THE ORDINARY
+1658,2025-04-23,C1139,vitamin c serum.,serums-,22.55,3,no,
+1659,2024-12-09,C1907,eye repair cream ,eye care,25.79,2,no,Neutrogena
+1660,2025-01-03,C1585,exfoliating scrub_,exfoliators,26.67,3,no,RHODE
+1661,2025-01-29,C1317,exfoliating scrub-,exfoliators_,47.11,1,no,rhode
+1662,2025-04-21,C1251,tea tree oil toner,toners-,28.53,1,no,drunk elephant
+1663,2025-01-25,C1485,hyaluronic acid.,serums,24.2,2,yes,Rhode
+1664,2025-03-10,C1893,eye repair cream ,eye care-,1.06,1,no,glow recipe
+1665,2025-04-03,C1415,makeup remover balm_,makeup removers ,41.07,2,no,
+1666,2025-05-12,C1853,,serums,16.02,3, n ,Glow Recipe-
+1667,2025-03-14,C1833,vitamin c serum-,serums,19.33,3,no,CeraVe 
+1668,2024-12-14,C1599,eye repair cream_,eye care.,13.8,4,yes,glow recipe
+1669,2025-05-22,C1904,eye repair cream-,eye care,17.55,1,no,Rhode 
+1670,2025-05-31,C1276,daily sunscreen spf 50.,sun protection.,18.2,3,no,DRUNK ELEPHANT
+1671,2025-04-02,C1323,hydrating facial cleanser ,cleansers,,3,no,Paula's_Choice
+1672,2025-02-09,C1687,daily sunscreen spf 50-,sun protection.,24.33,1,no,Drunk_Elephant
+1673,2025-03-15,C1460,tea tree oil toner.,,13.63,4,no,la roche-posay
+1674,2025-05-11,C1140,makeup remover balm ,makeup removers.,16.07,4,no,Rhode
+1675,2025-01-06,C1848,charcoal face mask_,masks_,38.95,4,no,CETAPHIL
+1676,2024-12-28,C1588,eye repair cream,eye care,14.55,1,,The_Ordinary
+1677,2025-02-02,C1533,charcoal face mask  ,masks ,7.79,3,no,
+1678,2025-04-01,C1834,makeup remover balm_,makeup removers.,15.84,3,no,Paula's_Choice
+1679,2025-04-20,C1614,makeup remover balm  ,makeup removers ,,4, y ,CERAVE
+1680,2025-04-30,C1824,daily sunscreen spf 50_,sun protection.,7.12,3,yes,Neutrogena
+1681,2025-01-16,C1056,eye repair cream,eye care-,35.84,4,no,Rhode
+1682,2025-02-04,C1639,hydrating facial cleanser ,cleansers_,41.04,4,no,cerave
+1683,2025-04-22,C1893,charcoal face mask,masks  ,23.0,1,no,
+1684,2025-03-17,C1905,makeup remover balm_,makeup removers,7.33,3,no,Neutrogena
+1685,2025-01-06,C1236,eye repair cream-,eye care_,28.24,4,yes,Paula's Choice 
+1686,2025-04-20,C1069,hyaluronic acid_,serums  ,,3,no,
+1687,2025-01-01,C1463,makeup remover balm  ,makeup removers  ,25.17,1,yes,cetaphil
+1688,2025-02-22,C1550,,sun protection,11.56,1,no,
+1689,2025-01-11,C1213,hydrating facial cleanser  ,cleansers ,18.97,2,no,Cetaphil.
+1690,2025-03-25,C1763,hydrating facial cleanser  ,cleansers ,28.18,4,no,
+1691,2025-02-24,C1789,exfoliating scrub  ,exfoliators_,24.99,1,no,THE ORDINARY
+1692,2025-01-27,C1998,makeup remover balm.,makeup removers  ,19.32,2,no,EUCERIN
+1693,2025-03-18,C1681,hydrating facial cleanser  ,cleansers,24.98,4,no,drunk elephant
+1694,2025-05-22,C1081,vitamin c serum.,serums,36.16,3,no,Cetaphil
+1695,2025-02-14,C1667,charcoal face mask,masks  ,22.19,2,no,Eucerin 
+1696,2025-03-28,C1680,charcoal face mask_,masks ,23.02,2,no,EUCERIN
+1697,2025-01-31,C1300,charcoal face mask  ,masks-,29.17,4,no,
+1698,2025-01-04,C1858,exfoliating scrub ,exfoliators-,22.64,4,no,Neutrogena_
+1699,2025-04-05,C1425,vitamin c serum ,serums_,34.96,2,no,Cetaphil_
+1700,2025-06-01,C1549,hydrating facial cleanser.,cleansers ,9.9,3,no,
+1701,2025-01-12,C1153,hyaluronic acid,serums ,36.69,1,no,The Ordinary-
+1702,2025-04-04,C1904,eye repair cream,eye care  ,20.88,4,no,La Roche-Posay 
+1703,2025-01-06,C1063,charcoal face mask,,22.62,2,no,DRUNK ELEPHANT
+1704,2024-12-20,C1096,hydrating facial cleanser ,cleansers ,12.59,1, n ,Neutrogena
+1705,2025-04-14,C1602,charcoal face mask,masks,20.37,2, n ,GLOW RECIPE
+1706,2025-02-20,C1337,exfoliating scrub  ,exfoliators,11.08,4,no,Paula's_Choice
+1707,2025-05-18,C1614,tea tree oil toner ,toners.,25.39,3,no,La Roche-Posay 
+1708,2024-12-27,C1485,daily sunscreen spf 50  ,sun protection_,35.49,1, y ,
+1709,2024-12-28,C1491,daily sunscreen spf 50,,11.36,2,no,
+1710,2025-05-10,C1580,hyaluronic acid,serums ,29.19,1,no,DRUNK ELEPHANT
+1711,2025-01-06,C1009,hyaluronic acid  ,serums-,23.84,2, y ,CeraVe.
+1712,2024-12-05,C1501,tea tree oil toner ,toners,36.4,2,no,
+1713,2025-03-17,C1969,retinol night cream_,moisturizers.,22.99,4,no,
+1714,2025-01-10,C1700,hydrating facial cleanser_,cleansers ,30.35,1,no,La Roche-Posay_
+1715,2025-06-03,C1583,eye repair cream ,eye care  ,33.36,3,no,THE ORDINARY
+1716,2025-05-27,C1122,retinol night cream.,moisturizers-,35.45,1,no,CeraVe
+1717,2025-05-15,C1310,retinol night cream,moisturizers ,29.29,1,no,Rhode-
+1718,2025-04-30,C1437,tea tree oil toner  ,toners-,17.83,3,yes,Eucerin 
+1719,2025-03-31,C1173,daily sunscreen spf 50 ,sun protection,25.08,2,no,glow recipe
+1720,2025-04-27,C1775,exfoliating scrub.,exfoliators-,42.29,1,no,DRUNK ELEPHANT
+1721,2025-04-15,C1370,exfoliating scrub ,exfoliators  ,44.29,2,no,Eucerin 
+1722,2024-12-31,C1447,makeup remover balm_,makeup removers-,18.95,2,no,CERAVE
+1723,2025-03-19,C1248,charcoal face mask  ,masks-,26.15,2,no,Glow Recipe 
+1724,2025-06-03,C1270,,serums,43.03,1,no,Neutrogena-
+1725,2025-04-01,C1083,hydrating facial cleanser.,cleansers_,36.08,2,no,
+1726,2025-05-11,C1341,exfoliating scrub.,exfoliators ,33.05,1,no,neutrogena
+1727,2025-02-06,C1411,eye repair cream ,eye care ,23.69,1,yes,Neutrogena 
+1728,2024-12-16,C1013,vitamin c serum-,serums  ,,4,no,La_Roche-Posay
+1729,2025-03-19,C1219,retinol night cream  ,moisturizers_,24.38,1,no,La Roche-Posay 
+1730,2025-02-10,C1388,hydrating facial cleanser ,,29.91,4,no,La_Roche-Posay
+1731,2025-04-06,C1813,eye repair cream ,eye care ,28.2,1,no,
+1732,2025-02-03,C1884,daily sunscreen spf 50-,sun protection-,31.65,2,no,cerave
+1733,2024-12-06,C1693,hydrating facial cleanser.,cleansers,18.07,2,no,Cetaphil
+1734,2025-03-30,C1636,vitamin c serum_,serums ,,1,no,The Ordinary 
+1735,2025-03-20,C1598,tea tree oil toner_,toners  ,35.89,2,no,La Roche-Posay 
+1736,2025-05-26,C1804,hyaluronic acid-,serums ,18.01,2,yes,la roche-posay
+1737,2025-05-29,C1208,vitamin c serum  ,serums ,31.47,4,no,NEUTROGENA
+1738,2025-01-08,C1627,makeup remover balm_,makeup removers,24.96,3, n ,Eucerin
+1739,2025-05-29,C1491,eye repair cream-,eye care ,31.56,4,no,cerave
+1740,2025-01-19,C1448,daily sunscreen spf 50,sun protection,31.9,1, y ,
+1741,2025-04-17,C1911,hydrating facial cleanser ,cleansers.,31.65,3,no,Rhode
+1742,2025-06-03,C1778,hydrating facial cleanser.,cleansers ,17.35,3,no,cetaphil
+1743,2024-12-27,C1482,daily sunscreen spf 50,sun protection_,24.75,4,no,Eucerin 
+1744,2025-05-06,C1977,hydrating facial cleanser,cleansers.,37.76,1,,paula's choice
+1745,2025-05-13,C1868,daily sunscreen spf 50-,sun protection_,8.35,1,no,LA ROCHE-POSAY
+1746,2024-12-25,C1894,vitamin c serum  ,serums  ,22.08,4,no,Cetaphil_
+1747,2025-06-02,C1187,retinol night cream_,moisturizers ,,4,no,eucerin
+1748,2025-04-22,C1797,hydrating facial cleanser.,cleansers ,24.3,4,yes,
+1749,2025-06-04,C1306,retinol night cream  ,moisturizers ,23.22,1,no,Paula's Choice.
+1750,2025-02-27,C1108,vitamin c serum_,serums_,15.87,2,no,
+1751,2025-02-13,C1065,exfoliating scrub-,exfoliators ,20.12,1,no,La_Roche-Posay
+1752,2024-12-07,C1811,eye repair cream,eye care  ,35.74,1,no,La_Roche-Posay
+1753,2025-03-13,C1784,charcoal face mask_,masks,11.12,2,no,cetaphil
+1754,2025-05-31,C1242,retinol night cream,moisturizers ,32.64,4,no,Drunk Elephant
+1755,2025-01-30,C1864,retinol night cream-,moisturizers,30.01,2,no,Rhode 
+1756,2025-02-09,C1953,retinol night cream.,moisturizers_,16.22,3,no,RHODE
+1757,2025-05-14,C1122,tea tree oil toner.,toners-,32.42,3,no,CeraVe
+1758,2025-05-19,C1387,vitamin c serum,serums_,18.62,1,no,GLOW RECIPE
+1759,2025-01-13,C1388,eye repair cream_,eye care  ,14.6,3,yes,Drunk Elephant-
+1760,2025-01-02,C1031,exfoliating scrub.,exfoliators,44.45,1,yes,glow recipe
+1761,2025-03-29,C1657,hydrating facial cleanser_,cleansers  ,28.7,1,no,
+1762,2025-03-01,C1028,makeup remover balm,makeup removers ,30.84,1,no,cerave
+1763,2025-05-29,C1681,eye repair cream,eye care ,38.93,3,no,La Roche-Posay 
+1764,2025-02-09,C1259,tea tree oil toner-,toners  ,33.39,1,no,Rhode 
+1765,2025-02-22,C1074,vitamin c serum  ,serums,14.94,4,no,
+1766,2025-03-01,C1625,hyaluronic acid-,serums.,28.6,2, n ,
+1767,2025-04-22,C1953,hyaluronic acid  ,serums  ,16.04,1,no,Neutrogena 
+1768,2024-12-14,C1111,vitamin c serum-,serums ,27.19,3,no,Neutrogena 
+1769,2025-05-13,C1519,charcoal face mask-,masks,33.52,4,no,CETAPHIL
+1770,2025-01-28,C1900,,toners,12.71,4,no,la roche-posay
+1771,2025-02-06,C1473,eye repair cream.,eye care.,19.04,4,no,La Roche-Posay 
+1772,2025-06-04,C1904,eye repair cream,eye care.,22.01,1,no,Rhode 
+1773,2025-04-24,C1674,hyaluronic acid  ,serums.,13.23,1, y ,glow recipe
+1774,2025-04-01,C1641,eye repair cream.,eye care.,43.21,3,yes,NEUTROGENA
+1775,2025-01-08,C1844,tea tree oil toner_,toners  ,27.09,2,no,
+1776,2025-01-07,C1105,charcoal face mask-,masks,15.15,2,no,The Ordinary 
+1777,2025-05-16,C1161,charcoal face mask_,masks ,35.22,3,no,Glow Recipe 
+1778,2025-04-25,C1766,exfoliating scrub,exfoliators ,34.19,1,no,Rhode
+1779,2025-01-06,C1312,exfoliating scrub,,30.46,1,yes,Paula's Choice 
+1780,2025-05-25,C1197,tea tree oil toner ,toners  ,3.28,2,no,eucerin
+1781,2024-12-23,C1483,hyaluronic acid  ,serums ,29.22,2,no,Eucerin 
+1782,2025-03-10,C1353,eye repair cream ,eye care.,38.1,2,no,cetaphil
+1783,2025-04-28,C1555,hydrating facial cleanser.,cleansers.,,4,yes,Cetaphil 
+1784,2025-02-24,C1989,retinol night cream  ,moisturizers-,22.46,2,no,cetaphil
+1785,2024-12-14,C1609,exfoliating scrub_,exfoliators-,31.86,4,no,Rhode
+1786,2025-02-26,C1114,vitamin c serum-,serums-,16.61,1, n ,Neutrogena
+1787,2025-04-22,C1922,eye repair cream-,eye care.,39.42,4,no,
+1788,2025-05-25,C1026,daily sunscreen spf 50  ,sun protection_,19.88,4,no,THE ORDINARY
+1789,2025-02-21,C1699,retinol night cream,moisturizers,36.46,2,no,
+1790,2024-12-30,C1228,tea tree oil toner  ,toners_,-3.38,1,no,
+1791,2025-05-27,C1863,charcoal face mask,masks  ,16.13,3,no,The Ordinary_
+1792,2025-06-03,C1105,tea tree oil toner_,toners-,32.72,4,no,LA ROCHE-POSAY
+1793,2025-03-26,C1974,exfoliating scrub-,exfoliators-,35.96,2,no,Rhode 
+1794,2025-01-12,C1618,eye repair cream,eye care.,29.25,1,yes,Cetaphil_
+1795,2025-02-21,C1793,,sun protection-,18.21,2,yes,Paula's Choice 
+1796,2025-02-13,C1928,hydrating facial cleanser,cleansers,-4.14,4,no,Eucerin
+1797,2025-01-17,C1645,charcoal face mask.,masks.,4.83,2,no,The Ordinary 
+1798,2025-04-15,C1105,makeup remover balm-,makeup removers ,-3.32,2, y ,NEUTROGENA
+1799,2025-05-10,C1784,charcoal face mask-,masks ,31.37,4,no,EUCERIN
+1800,2025-05-20,C1185,eye repair cream.,eye care_,41.16,3,no,CeraVe 
+1801,2025-01-26,C1651,vitamin c serum_,serums,22.51,2,no,La Roche-Posay 
+1802,2025-05-10,C1562,daily sunscreen spf 50_,sun protection ,31.27,3,no,CERAVE
+1803,2025-03-10,C1724,eye repair cream,eye care  ,21.85,2, y ,Drunk Elephant-
+1804,2025-04-15,C1694,makeup remover balm,makeup removers_,15.59,1,no,eucerin
+1805,2024-12-19,C1225,tea tree oil toner  ,toners  ,19.34,2,no,cerave
+1806,2025-05-27,C1802,hyaluronic acid.,serums ,20.29,3, n ,glow recipe
+1807,2025-03-11,C1758,eye repair cream.,eye care  ,16.44,4,no,
+1808,2025-03-02,C1402,hydrating facial cleanser  ,cleansers_,25.36,4,no,cerave
+1809,2024-12-12,C1451,retinol night cream,moisturizers ,29.8,3,no,Paula's_Choice
+1810,2025-02-15,C1603,tea tree oil toner.,toners ,14.45,1, n ,
+1811,2024-12-10,C1292,retinol night cream-,moisturizers  ,33.61,1,no,
+1812,2025-01-09,C1023,exfoliating scrub  ,,27.51,1,no,drunk elephant
+1813,2024-12-22,C1028,vitamin c serum  ,serums_,39.71,3,no,La Roche-Posay 
+1814,2025-01-18,C1654,exfoliating scrub.,,18.01,3,no,The Ordinary 
+1815,2025-02-11,C1944,makeup remover balm  ,makeup removers.,10.56,3,no,Neutrogena 
+1816,2024-12-24,C1754,hydrating facial cleanser_,cleansers_,20.17,4,no,Drunk Elephant
+1817,2025-03-08,C1505,hyaluronic acid,serums.,34.51,2,,Cetaphil_
+1818,2025-03-11,C1303,vitamin c serum.,serums.,30.27,2,no,CeraVe 
+1819,2025-03-20,C1805,makeup remover balm  ,makeup removers.,26.26,2,no,Cetaphil_
+1820,2025-03-01,C1832,eye repair cream ,eye care.,20.31,3,no,CERAVE
+1821,2025-01-06,C1555,daily sunscreen spf 50-,sun protection,30.77,2,no,CeraVe_
+1822,2025-04-06,C1016,hyaluronic acid  ,serums-,23.71,4,yes,GLOW RECIPE
+1823,2025-03-30,C1068,daily sunscreen spf 50.,sun protection_,18.92,2, n ,CERAVE
+1824,2025-05-21,C1068,exfoliating scrub.,exfoliators  ,30.93,1, n ,CeraVe 
+1825,2025-03-18,C1114,makeup remover balm.,makeup removers_,48.88,2,no,neutrogena
+1826,2025-03-01,C1522,makeup remover balm.,makeup removers-,,4,no,Rhode
+1827,2025-04-11,C1057,vitamin c serum.,serums ,32.23,3,no,CeraVe 
+1828,2025-02-25,C1340,,exfoliators,26.12,1, n ,
+1829,2025-03-08,C1536,tea tree oil toner_,toners.,24.19,2,no,Paula's Choice
+1830,2025-02-03,C1025,charcoal face mask ,masks_,-6.7,2,no,La Roche-Posay 
+1831,2025-05-28,C1772,retinol night cream_,moisturizers  ,13.11,1,no,the ordinary
+1832,2025-04-02,C1559,exfoliating scrub ,exfoliators ,,1,no,
+1833,2025-02-14,C1696,daily sunscreen spf 50-,sun protection,17.09,2,no,neutrogena
+1834,2025-01-30,C1891,,eye care_,,3,no,The_Ordinary
+1835,2025-03-12,C1160,charcoal face mask,masks-,25.02,4,no,
+1836,2025-04-13,C1211,,makeup removers,29.15,4,no,NEUTROGENA
+1837,2025-06-01,C1550,eye repair cream  ,eye care.,16.32,4,no,eucerin
+1838,2025-01-09,C1991,makeup remover balm.,makeup removers-,25.98,1,yes,eucerin
+1839,2025-04-18,C1497,tea tree oil toner-,toners  ,23.72,4,no,
+1840,2025-05-20,C1588,charcoal face mask,masks,25.8,3,no,eucerin
+1841,2025-02-17,C1168,exfoliating scrub  ,exfoliators  ,19.09,1,no,Paula's Choice 
+1842,2025-03-26,C1304,exfoliating scrub_,exfoliators,27.88,2,no,eucerin
+1843,2024-12-07,C1527,hydrating facial cleanser,cleansers,11.92,1,no,
+1844,2025-01-01,C1977,charcoal face mask-,masks.,6.7,3,no,Cetaphil
+1845,2025-05-09,C1152,retinol night cream ,moisturizers.,36.54,3,no,Eucerin
+1846,2025-05-17,C1056,eye repair cream  ,eye care-,23.47,1, n ,
+1847,2025-03-14,C1786,tea tree oil toner  ,toners-,11.25,1,no,cetaphil
+1848,2025-05-08,C1588,hyaluronic acid,serums.,11.52,1,no,drunk elephant
+1849,2025-01-21,C1529,hyaluronic acid  ,serums  ,19.32,1,no,GLOW RECIPE
+1850,2025-03-05,C1700,tea tree oil toner,toners ,,1,no,CeraVe
+1851,2025-05-05,C1612,hyaluronic acid-,serums,28.98,2,no,CeraVe
+1852,2025-01-27,C1707,makeup remover balm.,makeup removers.,27.16,2,no,RHODE
+1853,2025-04-20,C1382,retinol night cream ,moisturizers ,27.2,1,no,Eucerin 
+1854,2025-05-14,C1271,charcoal face mask_,masks ,21.89,1,yes,Neutrogena
+1855,2024-12-07,C1752,vitamin c serum  ,serums.,21.28,2,no,La Roche-Posay 
+1856,2025-05-09,C1227,,toners  ,31.7,1, n ,Rhode_
+1857,2025-03-17,C1403,daily sunscreen spf 50,sun protection-,16.67,2,no,CETAPHIL
+1858,2025-05-03,C1603,makeup remover balm,makeup removers.,19.14,1,no,Rhode-
+1859,2025-04-09,C1992,makeup remover balm.,makeup removers,13.25,4,no,Rhode 
+1860,2025-05-02,C1197,eye repair cream  ,eye care-,32.34,3,no,PAULA'S CHOICE
+1861,2024-12-09,C1909,daily sunscreen spf 50_,sun protection_,26.58,1,no,Paula's Choice_
+1862,2025-04-18,C1813,hyaluronic acid,serums ,32.89,2,no,CETAPHIL
+1863,2025-05-08,C1617,hyaluronic acid,serums_,22.2,3, y ,Glow_Recipe
+1864,2025-05-17,C1231,eye repair cream-,eye care-,37.65,4,no,Paula's Choice
+1865,2025-05-04,C1501,daily sunscreen spf 50-,sun protection ,20.33,4, n ,CeraVe
+1866,2025-02-25,C1287,charcoal face mask.,masks  ,,3,no,drunk elephant
+1867,2025-04-28,C1915,charcoal face mask-,masks  ,24.87,3,,eucerin
+1868,2025-04-16,C1466,exfoliating scrub  ,exfoliators,33.65,2,no,
+1869,2024-12-24,C1798,,cleansers-,22.82,3,,Paula's Choice 
+1870,2025-03-07,C1099,,moisturizers  ,23.34,1,no,PAULA'S CHOICE
+1871,2024-12-05,C1612,tea tree oil toner_,toners,19.24,3,no,the ordinary
+1872,2024-12-29,C1625,hydrating facial cleanser_,cleansers  ,28.4,1,no,
+1873,2024-12-26,C1387,vitamin c serum ,serums,18.96,4,no,NEUTROGENA
+1874,2024-12-13,C1790,tea tree oil toner  ,toners.,15.12,2, n ,Glow Recipe 
+1875,2025-03-19,C1122,exfoliating scrub-,exfoliators,26.11,4,no,Neutrogena
+1876,2025-05-16,C1228,makeup remover balm  ,makeup removers_,36.84,4,no,drunk elephant
+1877,2025-04-14,C1994,hydrating facial cleanser ,cleansers-,21.52,2,no,Rhode
+1878,2025-05-02,C1702,tea tree oil toner,toners ,27.21,1, n ,PAULA'S CHOICE
+1879,2025-03-15,C1411,hyaluronic acid  ,serums,15.27,3,yes,Paula's Choice 
+1880,2025-05-08,C1020,daily sunscreen spf 50  ,sun protection  ,30.14,3,yes,DRUNK ELEPHANT
+1881,2025-03-08,C1817,makeup remover balm ,makeup removers.,24.17,4,no,LA ROCHE-POSAY
+1882,2025-01-20,C1259,,masks.,46.0,3,no,CeraVe 
+1883,2025-04-02,C1100,exfoliating scrub_,exfoliators,24.2,1,,La_Roche-Posay
+1884,2025-06-04,C1864,exfoliating scrub.,exfoliators,17.97,1,no,Glow Recipe
+1885,2025-01-31,C1225,tea tree oil toner  ,toners ,7.38,1,no,
+1886,2025-01-17,C1066,vitamin c serum.,,21.8,2,no,cerave
+1887,2024-12-26,C1406,hydrating facial cleanser ,cleansers.,26.85,2,no,La Roche-Posay 
+1888,2025-02-11,C1646,,cleansers.,34.85,1,no,Rhode
+1889,2025-02-09,C1325,exfoliating scrub.,exfoliators_,22.5,2,no,Rhode_
+1890,2025-04-21,C1282,retinol night cream  ,moisturizers.,16.18,3,yes,Cetaphil
+1891,2025-03-19,C1679,retinol night cream.,moisturizers ,,4,no,THE ORDINARY
+1892,2025-04-08,C1213,eye repair cream-,eye care-,17.01,3,yes,Drunk Elephant
+1893,2025-01-12,C1362,daily sunscreen spf 50_,sun protection.,20.33,4,yes,Rhode 
+1894,2025-03-02,C1710,charcoal face mask ,masks  ,18.74,4,no,la roche-posay
+1895,2024-12-31,C1115,hyaluronic acid.,serums.,32.5,2,no,LA ROCHE-POSAY
+1896,2025-03-10,C1378,makeup remover balm ,makeup removers-,23.26,1, y ,the ordinary
+1897,2025-04-03,C1117,makeup remover balm-,makeup removers  ,14.87,4,no,CERAVE
+1898,2025-01-04,C1899,tea tree oil toner.,toners-,8.13,1,no,the ordinary
+1899,2025-06-02,C1327,makeup remover balm,makeup removers-,37.09,1,no,Neutrogena_
+1900,2025-01-05,C1281,hyaluronic acid_,serums_,18.39,3,no,PAULA'S CHOICE
+1901,2025-04-05,C1934,daily sunscreen spf 50,sun protection-,28.81,3,no,
+1902,2025-01-10,C1510,makeup remover balm-,makeup removers,20.55,2,no,Glow Recipe 
+1903,2025-05-31,C1363,retinol night cream.,moisturizers_,16.04,4,yes,Glow_Recipe
+1904,2025-05-03,C1741,exfoliating scrub,exfoliators,28.03,4,no,Drunk Elephant 
+1905,2025-03-26,C1249,hydrating facial cleanser  ,cleansers ,26.13,3,no,The_Ordinary
+1906,2025-06-04,C1379,vitamin c serum ,serums  ,33.57,4,no,CeraVe 
+1907,2025-01-27,C1454,hydrating facial cleanser-,,33.91,3,no,Neutrogena
+1908,2025-02-24,C1402,charcoal face mask,masks_,28.66,2,no,Cetaphil 
+1909,2025-03-14,C1172,makeup remover balm-,makeup removers-,33.65,2,no,
+1910,2025-04-13,C1589,vitamin c serum ,serums_,33.1,2,yes,CeraVe 
+1911,2025-01-04,C1538,,masks-,24.25,3,no,Drunk Elephant-
+1912,2025-03-26,C1323,hyaluronic acid ,serums_,16.42,4,no,
+1913,2025-02-27,C1717,daily sunscreen spf 50.,sun protection  ,46.45,1,no,Cetaphil 
+1914,2025-04-16,C1338,daily sunscreen spf 50-,sun protection-,33.95,1,no,
+1915,2025-05-30,C1431,eye repair cream ,eye care,23.16,1,no,La_Roche-Posay
+1916,2024-12-14,C1773,charcoal face mask.,masks,26.88,2,yes,CeraVe 
+1917,2025-02-26,C1257,hydrating facial cleanser.,cleansers ,22.09,1, n ,Eucerin 
+1918,2025-03-01,C1348,vitamin c serum.,serums_,19.06,1,no,
+1919,2024-12-24,C1757,makeup remover balm-,makeup removers_,47.06,3,no,EUCERIN
+1920,2025-04-07,C1005,charcoal face mask.,masks-,36.99,4,no,La_Roche-Posay
+1921,2025-01-17,C1256,daily sunscreen spf 50-,sun protection,29.89,3,no,cerave
+1922,2025-05-07,C1509,tea tree oil toner_,toners  ,20.44,3,no,CETAPHIL
+1923,2025-03-04,C1297,makeup remover balm.,makeup removers ,35.59,2,no,Neutrogena
+1924,2025-04-24,C1086,,masks-,26.98,2,no,Eucerin
+1925,2025-04-18,C1753,hyaluronic acid,serums  ,30.23,1,,
+1926,2025-04-24,C1701,hyaluronic acid  ,serums ,23.72,1,no,Paula's Choice 
+1927,2025-01-11,C1687,eye repair cream-,eye care,27.22,2,yes,PAULA'S CHOICE
+1928,2025-05-10,C1674,retinol night cream-,moisturizers.,20.88,4,yes,neutrogena
+1929,2025-03-12,C1347,exfoliating scrub,exfoliators  ,19.46,2,no,La_Roche-Posay
+1930,2025-01-18,C1078,makeup remover balm ,makeup removers ,38.09,4,no,
+1931,2025-05-18,C1373,hyaluronic acid  ,serums ,19.89,3,no,CETAPHIL
+1932,2025-02-01,C1800,retinol night cream_,moisturizers,36.41,4,no,
+1933,2025-03-16,C1196,vitamin c serum,serums.,26.45,1,no,LA ROCHE-POSAY
+1934,2025-03-31,C1114,exfoliating scrub ,exfoliators  ,27.81,2,no,
+1935,2025-04-25,C1391,tea tree oil toner ,toners ,55.15,1,no,
+1936,2025-04-07,C1232,charcoal face mask_,masks ,31.27,2,no,The_Ordinary
+1937,2025-01-22,C1216,retinol night cream_,moisturizers,16.23,1,no,GLOW RECIPE
+1938,2025-02-25,C1163,tea tree oil toner ,toners,0.95,3,no,PAULA'S CHOICE
+1939,2025-03-02,C1384,daily sunscreen spf 50.,sun protection-,8.69,3,no,Rhode.
+1940,2025-05-13,C1252,daily sunscreen spf 50,sun protection_,25.55,4,no,The Ordinary_
+1941,2025-02-08,C1869,makeup remover balm.,makeup removers-,15.19,1,no,glow recipe
+1942,2025-03-20,C1819,,masks.,16.7,3,no,
+1943,2025-05-27,C1569,hyaluronic acid.,serums,23.27,3,no,NEUTROGENA
+1944,2025-02-18,C1102,hydrating facial cleanser ,cleansers-,21.73,1,,CeraVe 
+1945,2024-12-15,C1573,hydrating facial cleanser.,cleansers,19.45,3,no,The Ordinary_
+1946,2025-03-05,C1456,retinol night cream_,moisturizers-,25.22,4,no,NEUTROGENA
+1947,2025-02-24,C1344,hydrating facial cleanser-,cleansers_,31.67,3,no,
+1948,2024-12-11,C1129,hyaluronic acid,serums,,4, y ,Glow_Recipe
+1949,2024-12-07,C1654,,masks  ,0.28,4,no,
+1950,2025-03-17,C1544,eye repair cream-,eye care  ,8.24,3,no,
+1951,2025-01-21,C1735,retinol night cream-,moisturizers,29.91,1,no,neutrogena
+1952,2025-04-11,C1664,hyaluronic acid.,serums-,34.89,4,no,
+1953,2025-04-07,C1370,hydrating facial cleanser ,cleansers-,27.32,4,no,THE ORDINARY
+1954,2024-12-30,C1838,charcoal face mask,masks,34.01,3,no,Rhode 
+1955,2025-01-07,C1118,,cleansers-,34.17,1,no,Neutrogena 
+1956,2025-02-11,C1391,hyaluronic acid.,serums ,45.57,2,no,Cetaphil 
+1957,2025-01-16,C1203,retinol night cream,moisturizers.,40.08,2,no,EUCERIN
+1958,2025-06-04,C1666,exfoliating scrub ,exfoliators-,19.8,4,no,GLOW RECIPE
+1959,2025-01-24,C1575,daily sunscreen spf 50  ,sun protection ,18.36,2,no,CeraVe
+1960,2025-05-10,C1113,makeup remover balm,makeup removers,5.94,3,no,Rhode 
+1961,2024-12-15,C1860,tea tree oil toner.,toners,21.74,2,no,la roche-posay
+1962,2025-03-27,C1926,hyaluronic acid.,serums  ,32.41,1,no,
+1963,2025-02-09,C1934,vitamin c serum,serums ,34.4,1,no,Rhode
+1964,2025-01-18,C1607,retinol night cream,moisturizers-,21.1,2,no,Rhode
+1965,2025-05-11,C1235,daily sunscreen spf 50,sun protection,26.43,4,no,Glow Recipe
+1966,2025-01-07,C1225,eye repair cream-,eye care-,,3,no,The Ordinary
+1967,2025-02-13,C1655,,eye care,20.63,2,no,CeraVe 
+1968,2025-02-05,C1893,hydrating facial cleanser_,cleansers.,8.74,4,no,neutrogena
+1969,2025-03-09,C1632,charcoal face mask ,masks,40.88,3,no,The_Ordinary
+1970,2025-04-22,C1581,eye repair cream  ,eye care  ,31.51,4,yes,Paula's Choice 
+1971,2025-05-17,C1220,daily sunscreen spf 50_,sun protection-,42.42,1, n ,
+1972,2025-02-15,C1789,daily sunscreen spf 50 ,sun protection-,45.54,4,no,Glow Recipe 
+1973,2025-02-11,C1885,hydrating facial cleanser.,cleansers  ,25.86,2,,Rhode
+1974,2025-05-11,C1634,,makeup removers.,20.76,4,no,
+1975,2025-03-07,C1317,daily sunscreen spf 50  ,sun protection.,37.05,3,yes,cerave
+1976,2025-02-22,C1646,retinol night cream.,moisturizers_,26.83,3, y ,Cetaphil_
+1977,2025-01-30,C1417,tea tree oil toner-,toners,26.27,3,yes,GLOW RECIPE
+1978,2025-01-08,C1875,tea tree oil toner  ,toners_,22.5,1,no,la roche-posay
+1979,2025-03-01,C1442,daily sunscreen spf 50_,sun protection_,43.96,1,no,CeraVe-
+1980,2025-04-16,C1227,daily sunscreen spf 50.,sun protection-,23.76,2, n ,La Roche-Posay-
+1981,2025-01-15,C1378,charcoal face mask  ,masks,16.09,3,no,eucerin
+1982,2025-04-27,C1289,makeup remover balm-,makeup removers_,32.19,1,no,La Roche-Posay 
+1983,2025-03-10,C1212,daily sunscreen spf 50.,sun protection,31.57,4,no,neutrogena
+1984,2025-01-15,C1593,hydrating facial cleanser_,cleansers ,38.66,4,no,Glow Recipe
+1985,2025-01-28,C1199,makeup remover balm,makeup removers ,13.38,3,no,DRUNK ELEPHANT
+1986,2025-05-26,C1943,eye repair cream,eye care  ,7.7,4, n ,cerave
+1987,2024-12-15,C1137,charcoal face mask.,masks.,21.86,1,no,Drunk Elephant 
+1988,2025-01-13,C1128,,sun protection,28.14,3,no,Glow Recipe_
+1989,2025-01-27,C1536,charcoal face mask,masks,14.37,4,no,Glow Recipe 
+1990,2025-03-18,C1208,makeup remover balm_,makeup removers  ,3.97,3,no,EUCERIN
+1991,2025-05-18,C1010,hydrating facial cleanser  ,cleansers  ,26.02,3,no,
+1992,2025-03-06,C1446,retinol night cream ,moisturizers_,29.38,1,yes,NEUTROGENA
+1993,2025-02-21,C1228,eye repair cream_,eye care  ,29.86,1,no,Glow Recipe.
+1994,2024-12-24,C1352,charcoal face mask-,masks  ,7.62,3,no,
+1995,2025-02-10,C1701,charcoal face mask.,masks ,28.93,3,no,glow recipe
+1996,2025-04-30,C1358,hyaluronic acid-,serums.,29.54,1,no,
+1997,2025-02-22,C1422,eye repair cream.,eye care,18.08,2, n ,Neutrogena
+1998,2025-01-16,C1404,tea tree oil toner_,toners ,18.41,1, y ,CeraVe.
+1999,2025-01-26,C1714,vitamin c serum_,serums ,35.34,2,no,Rhode 
+2000,2025-03-22,C1537,vitamin c serum_,serums.,20.93,4,no,cerave
