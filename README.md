@@ -1,2 +1,3 @@
-# eda-ecommerce-skincare
-Exploratory Data Analysis (EDA) project for a fictional skincare e-commerce dataset. Currently, the data cleaning phase has been completed using Python and Pandas. Further analysis and visualizations will follow.
+# Data Cleaning - Skincare E-commerce Dataset
+
+This project focuses on cleaning a fictional skincare e-commerce dataset using Python. The dataset simulates real-world issues such as inconsistent formatting, missing values, and invalid data entries. The goal was to prepare the data for reliable use in analysis.
