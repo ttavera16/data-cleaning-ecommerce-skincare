@@ -18,7 +18,7 @@ This project focuses on cleaning a fictional skincare e-commerce dataset using P
 
 ---
 
-## 🧪 Cleaning Steps
+##  Cleaning Steps
 
 - Removed duplicate rows
 - Trimmed special characters (`_`, `-`, `.`) and whitespace from text fields
